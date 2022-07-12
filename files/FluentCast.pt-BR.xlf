@@ -247,21 +247,10 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
           <target state="translated">Fechar</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Close command</note>
         </trans-unit>
-        <trans-unit id="ReleaseNotesPopup.Subtitle" translate="yes" xml:space="preserve">
-          <source>What's new?</source>
-          <target state="translated">O que há de novo?</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Popup subtitle that appears when the app is updated</note>
-        </trans-unit>
         <trans-unit id="ReleaseNotesPopup.Title" translate="yes" xml:space="preserve">
           <source>FluentCast has been updated</source>
           <target state="translated">O FluentCast foi atualizado</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Popup title that appears when the app is updated</note>
-        </trans-unit>
-        <trans-unit id="ReleaseNotesText.Text" translate="yes" xml:space="preserve">
-          <source>• New language: Simplified Chinese</source>
-          <target state="translated">• Novo idioma: Chinês simplificado</target>
-          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
-          <note from="MultilingualBuild" annotates="source" priority="2">Release notes</note>
         </trans-unit>
         <trans-unit id="EpisodesCountText.Text" translate="yes" xml:space="preserve">
           <source>episode(s)</source>

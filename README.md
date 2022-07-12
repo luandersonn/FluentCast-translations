@@ -16,5 +16,6 @@ This repository contains the translations for the [FluentCast](https://fluentcas
 | es-ES | Spanish | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/98)
 | fr-FR | French | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/98)
 | it-IT | Italian | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/98)
+| mt-MT | Maltese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/98)
 | pt-BR | Portuguese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
 | zh-CN | Chinese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/98)
