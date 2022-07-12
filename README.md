@@ -12,4 +12,9 @@ This repository contains the translations for the [FluentCast](https://fluentcas
 | Code  | Language | Progress |
 |------ |:--------:|-----:|
 | en-US | English | base language |
-| pt-BR | Português | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
+| de-DE | German | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/98)
+| es-ES | Spanish | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/98)
+| fr-FR | French | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/98)
+| it-IT | Italian | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/98)
+| pt-BR | Portuguese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
+| zh-CN | Chinese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/98)
