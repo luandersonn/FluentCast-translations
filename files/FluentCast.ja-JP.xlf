@@ -788,7 +788,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
         </trans-unit>
         <trans-unit id="AboutSettingItemLanguageMessage.Text" translate="yes" xml:space="preserve">
           <source>Learning another language can be a challenge, sometimes mistakes happen. If you find any translation errors, send me an email. Thank you!</source>
-          <target state="translated">外国語を学ぶことは挑戦であり、時には間違いが起こることもあります。もし、翻訳ミスを見つけたら、メールで教えてください！</target>
+          <target state="translated">The translation for ja-JP was been done by the FluentCast users, you can improve it by clicking on the link below</target>
         </trans-unit>
         <trans-unit id="AboutSettingItemPrivacy.Text" translate="yes" xml:space="preserve">
           <source>Read our privacy policy here</source>
