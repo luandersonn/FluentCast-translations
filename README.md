@@ -19,4 +19,4 @@ This repository contains the translations for the [FluentCast](https://fluentcas
 | ja-JP | Japanese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/99)
 | mt-MT | Maltese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/98)
 | pt-BR | Portuguese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
-| zh-CN | Chinese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/98)
+| zh-CN | Chinese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
