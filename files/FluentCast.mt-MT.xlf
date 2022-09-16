@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" source-language="en-US" target-language="mt-MT" original="FLUENTCAST/STRINGS/EN-US/EXPLOREPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/EXPLOREPAGE.RESW" datatype="resx">
@@ -31,7 +31,7 @@
   </file>
   <file datatype="xml" source-language="en-US" target-language="mt-MT" original="FLUENTCAST/STRINGS/EN-US/UNPLAYEDEPISODESPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/UNPLAYEDEPISODESPAGE.RESW" datatype="resx">
@@ -95,7 +95,7 @@
   </file>
   <file datatype="xml" source-language="en-US" target-language="mt-MT" original="FLUENTCAST/STRINGS/EN-US/SEARCHPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/SEARCHPAGE.RESW" datatype="resx">
@@ -129,7 +129,7 @@
   </file>
   <file datatype="xml" source-language="en-US" target-language="mt-MT" original="FLUENTCAST/STRINGS/EN-US/GENRESSTRINGS.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/GENRESSTRINGS.RESW" datatype="resx">
@@ -228,7 +228,7 @@
   </file>
   <file datatype="xml" source-language="en-US" target-language="mt-MT" original="FLUENTCAST/STRINGS/EN-US/PODCASTSUBSCRIPTIONSPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/PODCASTSUBSCRIPTIONSPAGE.RESW" datatype="resx">
@@ -287,7 +287,7 @@
   </file>
   <file datatype="xml" source-language="en-US" target-language="mt-MT" original="FLUENTCAST/STRINGS/EN-US/EPISODELISTPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/EPISODELISTPAGE.RESW" datatype="resx">
@@ -396,7 +396,7 @@
   </file>
   <file datatype="xml" source-language="en-US" target-language="mt-MT" original="FLUENTCAST/STRINGS/EN-US/PLAYBACKHISTORYPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/PLAYBACKHISTORYPAGE.RESW" datatype="resx">
@@ -465,7 +465,7 @@
   </file>
   <file datatype="xml" source-language="en-US" target-language="mt-MT" original="FLUENTCAST/STRINGS/EN-US/NOWPLAYINGPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/NOWPLAYINGPAGE.RESW" datatype="resx">
@@ -503,7 +503,7 @@
   </file>
   <file datatype="xml" source-language="en-US" target-language="mt-MT" original="FLUENTCAST/STRINGS/EN-US/DOWNLOADSPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/DOWNLOADSPAGE.RESW" datatype="resx">
@@ -587,7 +587,7 @@
   </file>
   <file datatype="xml" source-language="en-US" target-language="mt-MT" original="FLUENTCAST/STRINGS/EN-US/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/RESOURCES.RESW" datatype="resx">
@@ -625,7 +625,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
         </trans-unit>
         <trans-unit id="DonationMessage.Text" translate="yes" xml:space="preserve">
           <source>If you enjoy FluentCast, please consider making a donation to the developer</source>
-          <target state="translated">Jekk sibt li FluentCast tajba għalik, titħajjar tagħti donazzjoni lill-iżviluppatur?</target>
+          <target state="translated">Jekk sibt l-app FluentCast tajba għalik, titħajjar tagħti donazzjoni lill-iżviluppatur?</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Ask to user to donation</note>
         </trans-unit>
         <trans-unit id="DownloadStatusCanceled" translate="yes" xml:space="preserve">
@@ -790,7 +790,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
   </file>
   <file datatype="xml" source-language="en-US" target-language="mt-MT" original="FLUENTCAST/STRINGS/EN-US/ERRORMESSAGES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/ERRORMESSAGES.RESW" datatype="resx">
@@ -843,7 +843,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
   </file>
   <file datatype="xml" source-language="en-US" target-language="mt-MT" original="FLUENTCAST/STRINGS/EN-US/PLAYER.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/PLAYER.RESW" datatype="resx">
@@ -921,7 +921,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
   </file>
   <file datatype="xml" source-language="en-US" target-language="mt-MT" original="FLUENTCAST/STRINGS/EN-US/SETTINGSPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/SETTINGSPAGE.RESW" datatype="resx">
@@ -931,7 +931,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
         </trans-unit>
         <trans-unit id="AboutSettingItemLanguageMessage.Text" translate="yes" xml:space="preserve">
           <source>Learning another language can be a challenge, sometimes mistakes happen. If you find any translation errors, send me an email. Thank you!</source>
-          <target state="translated">Li titgħallem ilsien ġdida hija dejjem biċċa xogħol iebsa u għalhekk hemm ċans li għamilna xi żball x'imkien. Jekk issib xi żball fit-traduzzjoni, ibagħtilna email dwaru. Grazzi!</target>
+          <target state="translated">Li titgħallem ilsien ġdid hija dejjem biċċa xogħol iebsa u għalhekk hemm ċans li għamilna xi żball x'imkien. Jekk issib xi żball fit-traduzzjoni, ibagħtilna email dwaru. Grazzi!</target>
         </trans-unit>
         <trans-unit id="AboutSettingItemPrivacy.Text" translate="yes" xml:space="preserve">
           <source>Read our privacy policy here</source>
@@ -1246,12 +1246,12 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
         </trans-unit>
         <trans-unit id="DonationSettingItemSuccessMessage" translate="yes" xml:space="preserve">
           <source>Successfully donated. Thank you!</source>
-          <target state="new">Successfully donated. Thank you!</target>
+          <target state="translated">Id-donazzjoni tiegħek intbagħtet. Grazzi!</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the user give a donation</note>
         </trans-unit>
         <trans-unit id="ImportExportSettingItemExportedSuccessMessage" translate="yes" xml:space="preserve">
           <source>Successfully exported {0}</source>
-          <target state="new">Successfully exported {0}</target>
+          <target state="translated">Inħarġu: {0}</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when RSS feeds are exported to a file. "{0}" = file path</note>
         </trans-unit>
       </group>
@@ -1259,7 +1259,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
   </file>
   <file datatype="xml" source-language="en-US" target-language="mt-MT" original="FLUENTCAST/STRINGS/EN-US/VIEWITEM.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.1.12.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/VIEWITEM.RESW" datatype="resx">
@@ -1729,7 +1729,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
         </trans-unit>
         <trans-unit id="ImportAllPodcastsSuccessMessage" translate="yes" xml:space="preserve">
           <source>All podcasts have been imported</source>
-          <target state="new">All podcasts have been imported</target>
+          <target state="translated">Il-podkasts kollha ddaħħlu</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the podcast import is successfully completed</note>
         </trans-unit>
       </group>
