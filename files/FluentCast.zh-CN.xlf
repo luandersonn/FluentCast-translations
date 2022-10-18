@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" source-language="en-US" target-language="zh-CN" original="FLUENTCAST/STRINGS/EN-US/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
@@ -245,7 +245,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
       <group id="FLUENTCAST/STRINGS/EN-US/PLAYER.RESW" datatype="resx">
         <trans-unit id="EpisodeLengthTooltipText" translate="yes" xml:space="preserve">
           <source>Episode length</source>
-          <target state="translated">剧集长度</target>
+          <target state="translated">剧集时长</target>
         </trans-unit>
         <trans-unit id="EpisodeTimeElapsedTextBlock.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>Time elapsed</source>
@@ -348,7 +348,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
         </trans-unit>
         <trans-unit id="ShowOnlyUnplayedTip.Subtitle" translate="yes" xml:space="preserve">
           <source>Click here to view only unplayed episodes</source>
-          <target state="translated">点击此处以只显示未播放的剧集</target>
+          <target state="translated">点击此处来查看未播放的剧集</target>
           <note from="MultilingualBuild" annotates="source" priority="2">When the user opens a subscribed podcast for the first time, a popup appears to let them know that they can filter out episodes that have not been played. This is the subtitle of the popup.</note>
         </trans-unit>
         <trans-unit id="ShowOnlyUnplayedTip.Title" translate="yes" xml:space="preserve">
@@ -571,12 +571,12 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
         </trans-unit>
         <trans-unit id="EpisodeHeaderDuration.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>Duration</source>
-          <target state="translated">持续时间</target>
+          <target state="translated">时长</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Tooltip of duration icon</note>
         </trans-unit>
         <trans-unit id="EpisodeHeaderRelease.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>Release</source>
-          <target state="translated">版本</target>
+          <target state="translated">发布日期</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Tooltip of release icon</note>
         </trans-unit>
         <trans-unit id="RefreshDownloads.Label" translate="yes" xml:space="preserve">
@@ -804,7 +804,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
         </trans-unit>
         <trans-unit id="EpisodeInfoDialogEditor.Header" translate="yes" xml:space="preserve">
           <source>Editor</source>
-          <target state="translated">编辑器</target>
+          <target state="translated">制作人</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicates the editor of the episode</note>
         </trans-unit>
         <trans-unit id="EpisodeInfoDialogFileName.Header" translate="yes" xml:space="preserve">
@@ -829,12 +829,12 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
         </trans-unit>
         <trans-unit id="EpisodeInfoDialogReleaseDate.Header" translate="yes" xml:space="preserve">
           <source>Release date</source>
-          <target state="translated">版本日期</target>
+          <target state="translated">发布日期</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicates the release date of the episode</note>
         </trans-unit>
         <trans-unit id="EpisodeInfoDialogSummary.Header" translate="yes" xml:space="preserve">
           <source>Summary</source>
-          <target state="translated">摘要</target>
+          <target state="translated">概要</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicates the summary of the episode</note>
         </trans-unit>
         <trans-unit id="EpisodeIsAlreadyInDownloadQueue" translate="yes" xml:space="preserve">
@@ -974,7 +974,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
         </trans-unit>
         <trans-unit id="PodcastInfoDialogEditor.Header" translate="yes" xml:space="preserve">
           <source>Editor</source>
-          <target state="translated">编辑器</target>
+          <target state="translated">制作人</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicastes the editor of the Podcast</note>
         </trans-unit>
         <trans-unit id="PodcastInfoDialogFeedLink.Header" translate="yes" xml:space="preserve">
@@ -994,7 +994,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
         </trans-unit>
         <trans-unit id="PodcastInfoDialogLastUpdate.Header" translate="yes" xml:space="preserve">
           <source>Last update</source>
-          <target state="translated">最新的更新</target>
+          <target state="translated">上次更新</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicastes the last time a new Podcast episode was released</note>
         </trans-unit>
         <trans-unit id="PodcastInfoDialogName.Header" translate="yes" xml:space="preserve">
@@ -1004,7 +1004,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
         </trans-unit>
         <trans-unit id="PodcastInfoDialogSummary.Header" translate="yes" xml:space="preserve">
           <source>Summary</source>
-          <target state="translated">摘要</target>
+          <target state="translated">概要</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicastes the summary of the Podcast</note>
         </trans-unit>
         <trans-unit id="PodcastInfoDialogWebsite.Header" translate="yes" xml:space="preserve">
@@ -1152,7 +1152,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
       <group id="FLUENTCAST/STRINGS/EN-US/NOWPLAYINGPAGE.RESW" datatype="resx">
         <trans-unit id="ClearPlaylist.Text" translate="yes" xml:space="preserve">
           <source>Clear playlist</source>
-          <target state="translated">清除播放列表</target>
+          <target state="translated">清空播放列表</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Text of button that removes all items from the playlist</note>
         </trans-unit>
         <trans-unit id="EmptyListMessageButton.Text" translate="yes" xml:space="preserve">
@@ -1176,7 +1176,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
         </trans-unit>
         <trans-unit id="ClearPlaylistButton.Label" translate="yes" xml:space="preserve">
           <source>Clear playlist</source>
-          <target state="translated">清除播放列表</target>
+          <target state="translated">清空播放列表</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Text of button that removes all items from the playlist</note>
         </trans-unit>
       </group>
@@ -1405,7 +1405,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
         </trans-unit>
         <trans-unit id="RateThisAppSettingItemDescription.Text" translate="yes" xml:space="preserve">
           <source>Your rating helps us keep working on the app and make things even better</source>
-          <target state="translated">你的评分可帮助我们继续开发该应用程序，并使其变得更好</target>
+          <target state="translated">你的评分可以帮助我们持续开发该应用，并使其变得更好</target>
         </trans-unit>
         <trans-unit id="RateThisAppSettingItemTitle.Text" translate="yes" xml:space="preserve">
           <source>Rate this app</source>
@@ -1606,7 +1606,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
         </trans-unit>
         <trans-unit id="EpisodeHeaderEditor.Text" translate="yes" xml:space="preserve">
           <source>Editor</source>
-          <target state="translated">编辑器</target>
+          <target state="translated">制作人</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Header of the "editor" column of the playback history episode list. Indicates the editor of the podcast episode</note>
         </trans-unit>
         <trans-unit id="EpisodeHeaderProgress.Text" translate="yes" xml:space="preserve">
