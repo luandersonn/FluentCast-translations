@@ -1497,7 +1497,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
         </trans-unit>
         <trans-unit id="CheckForUpdates.Content" translate="yes" xml:space="preserve">
           <source>Check for updates</source>
-          <target state="translated">Проверить наличие обновлений</target>
+          <target state="translated">Проверить обновления</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Check app updates button</note>
         </trans-unit>
         <trans-unit id="CleanupSettingItemButton.Text" translate="yes" xml:space="preserve">
@@ -1507,7 +1507,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
         </trans-unit>
         <trans-unit id="CleanupSettingItemCleanupDoneMessage" translate="yes" xml:space="preserve">
           <source>{0} released</source>
-          <target state="translated">{0} освобождено</target>
+          <target state="translated">Освобождено {0}</target>
           <note from="MultilingualBuild" annotates="source" priority="2">{0} = Space released on disk after database cleanup: (E.g. "15 MB released")</note>
         </trans-unit>
         <trans-unit id="CleanupSettingItemDescription.Text" translate="yes" xml:space="preserve">
