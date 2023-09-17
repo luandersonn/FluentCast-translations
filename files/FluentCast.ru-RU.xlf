@@ -1531,7 +1531,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
         </trans-unit>
         <trans-unit id="DataCategoryTitle.Text" translate="yes" xml:space="preserve">
           <source>Data</source>
-          <target state="translated">Дата</target>
+          <target state="translated">Данные</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Section title on the settings page</note>
         </trans-unit>
         <trans-unit id="DonationCategoryTitle.Text" translate="yes" xml:space="preserve">
