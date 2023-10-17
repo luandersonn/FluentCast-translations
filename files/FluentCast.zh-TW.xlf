@@ -1,0 +1,1739 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file product-name="n/a" tool-id="MultilingualAppToolkit" build-num="n/a" target-language="zh-TW" datatype="xml" source-language="en-US" original="FLUENTCAST/STRINGS/EN-US/RESOURCES.RESW" product-version="n/a">
+    <header>
+      <tool tool-version="4.0.6916.0" tool-company="Microsoft" tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" />
+    </header>
+    <body>
+      <group datatype="resx" id="FLUENTCAST/STRINGS/EN-US/RESOURCES.RESW">
+        <trans-unit xml:space="preserve" approved="yes" id="AutoSuggestBox.PlaceholderText" translate="yes">
+          <source>Search</source>
+          <target state="final">搜尋</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Placeholder from search box</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="CancelButtonText" translate="yes">
+          <source>Cancel</source>
+          <target state="final">取消</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Cancel command</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="CheckoutTheReleaseNotes" translate="yes">
+          <source>Check out the release notes</source>
+          <target state="final">查看版本更新內容</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Update notification subtitle</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="CloseButton.Text" translate="yes">
+          <source>Close</source>
+          <target state="final">關閉</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Close command</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DateFormat" translate="yes">
+          <source>MMM dd, yyyy</source>
+          <target state="final">yyyy/MM/dd</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">C# date format. Enter the date format in your language.  For example:
+en-us:  "[month abbreviated], [day] [year]" -&gt; "Dec, 25 2020"
+pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DeleteButtonText" translate="yes">
+          <source>Delete</source>
+          <target state="final">刪除</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Delete command</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DonationMessage.Text" translate="yes">
+          <source>If you enjoy FluentCast, please consider making a donation to the developer</source>
+          <target state="final">喜歡 FluentCast 嗎？請考慮捐款幫助開發者</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Ask to user to donation</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DownloadStatusCanceled" translate="yes">
+          <source>Canceled</source>
+          <target state="final">已取消</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue or status bar: canceled</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DownloadStatusCompleted" translate="yes">
+          <source>Completed</source>
+          <target state="final">已完成</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue or status bar: completed</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DownloadStatusDownloading" translate="yes">
+          <source>Downloading</source>
+          <target state="final">正在下載</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue: or status bar Downloading</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DownloadStatusDownloadingDetails" translate="yes">
+          <source>Downloading: {0}% - ({1}/s)  |  Episode: {2}</source>
+          <target state="final">正在下載：{0}% - ({1}/s)｜單集：{2}</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">{0} - Percent of download
+{1} - Download speed per sec
+{2} - Episode title</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DownloadStatusError" translate="yes">
+          <source>Error</source>
+          <target state="final">錯誤</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue or status bar: error</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DownloadStatusStarting" translate="yes">
+          <source>Starting</source>
+          <target state="final">開始</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue or status bar: starting</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DownloadStatusUnknown" translate="yes">
+          <source>Unknown</source>
+          <target state="final">未知</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue or status bar: unknown</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DownloadStatusWaiting" translate="yes">
+          <source>Waiting</source>
+          <target state="final">等待中</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue or status bar: waiting</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DurationMinutes" translate="yes">
+          <source>{0} min</source>
+          <target state="final">{0} 分</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">The duration of something. {0} is the time in minutes (abbreviation)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DurationSeconds" translate="yes">
+          <source>{0} secs</source>
+          <target state="final">{0} 秒</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">The duration of something. {0} is the time in seconds (abbreviation)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EpisodesCountText.Text" translate="yes">
+          <source>episode(s)</source>
+          <target state="final">單集</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Used on this way: {0} episodes(s), where {0} is a number of episodes (Podcast details and unplayed episodes page)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="NotificationNewEpisodeAvailable" translate="yes">
+          <source>New episode available</source>
+          <target state="final">有新的單集可供播放</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">New episode notification (one episode)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="NotificationNewEpisodesAvailable" translate="yes">
+          <source>{0} new episodes available</source>
+          <target state="final">有{0}個新單集可供播放</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">New episodes notification. {0} is the number of new episodes. {0} &gt;= 2</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="OpenButtonText" translate="yes">
+          <source>Open</source>
+          <target state="final">開啟</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Open command</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RelativeTimeAMinuteAgo" translate="yes">
+          <source>1 minute ago</source>
+          <target state="final">1 分鐘前</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened 1 minute ago.</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RelativeTimeAMonthAgo" translate="yes">
+          <source>1 month ago</source>
+          <target state="final">1 個月前</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened 1 month ago.</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RelativeTimeAnHourAgo" translate="yes">
+          <source>1 hour ago</source>
+          <target state="final">1 小時前</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened 1 hour ago.</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RelativeTimeAYearAgo" translate="yes">
+          <source>1 year ago</source>
+          <target state="final">1 年前</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened 1 year ago.</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RelativeTimeDaysAgo" translate="yes">
+          <source>{0} days ago</source>
+          <target state="final">{0} 天前</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened N days ago. {0} is the number of days (e.g.: 5 days ago)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RelativeTimeHoursAgo" translate="yes">
+          <source>{0} hours ago</source>
+          <target state="final">{0} 小時前</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened N hours ago. {0} is the number of hours (e.g.: 3 hours ago)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RelativeTimeJustNow" translate="yes">
+          <source>Just now</source>
+          <target state="final">剛才</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened seconds ago. For example, an item was added to history seconds ago.</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RelativeTimeMinutesAgo" translate="yes">
+          <source>{0} minutes ago</source>
+          <target state="final">{0} 分鐘前</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened N minute ago. {0} is the number of minutes (e.g.: 15 minutes ago)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RelativeTimeMonthsAgo" translate="yes">
+          <source>{0} months ago</source>
+          <target state="final">{0} 個月前</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened N months ago. {0} is the number of months (e.g.: 10 months ago)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RelativeTimeNotAvailable" translate="yes">
+          <source>N/A</source>
+          <target state="final">N/A</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means the relative time is not available. For example, how long ago an episode was released.</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RelativeTimeYearsAgo" translate="yes">
+          <source>{0} years ago</source>
+          <target state="final">{0} 年前</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened N years ago. {0} is the number of years (e.g.: 3 years ago)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RelativeTimeYesterday" translate="yes">
+          <source>Yesterday</source>
+          <target state="final">昨天</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened Yesterday</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ReleaseNotesPopup.Title" translate="yes">
+          <source>FluentCast has been updated</source>
+          <target state="final">FluentCast 已更新</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Popup title that appears when the app is updated</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RemoveBanner.Text" translate="yes">
+          <source>Remove</source>
+          <target state="final">移除</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that removes the banner from NavigationView</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ReviewMessage.Text" translate="yes">
+          <source>If you like FluentCast, please rate it on Microsoft Store</source>
+          <target state="final">如果您喜歡 FluentCast，請在 Microsoft Store 上為我們評分</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Ask to user to review the app on Microsoft Store</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SomethingWentWrongMessage" translate="yes">
+          <source>Something went wrong</source>
+          <target state="final">發生錯誤</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Error message</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="UpdateHistoryButton.Text" translate="yes">
+          <source>Release notes</source>
+          <target state="final">版本更新內容</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the release notes button. This text needs to be the size of the English version or smaller</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file product-name="n/a" tool-id="MultilingualAppToolkit" build-num="n/a" target-language="zh-TW" datatype="xml" source-language="en-US" original="FLUENTCAST/STRINGS/EN-US/SEARCHPAGE.RESW" product-version="n/a">
+    <header>
+      <tool tool-version="4.0.6916.0" tool-company="Microsoft" tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" />
+    </header>
+    <body>
+      <group datatype="resx" id="FLUENTCAST/STRINGS/EN-US/SEARCHPAGE.RESW">
+        <trans-unit xml:space="preserve" approved="yes" id="EmptyListMessageTitle.Text" translate="yes">
+          <source>No results found</source>
+          <target state="final">找不到結果</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when search does not return results</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="LocalEpisodes.Header" translate="yes">
+          <source>Episodes</source>
+          <target state="final">單集</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header title of the section that displays the results of the search for episodes in the database</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="LocalPodcasts.Header" translate="yes">
+          <source>Library</source>
+          <target state="final">音樂庫</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header title of the section that displays the results of the search for podcasts in the database</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PageTitle.Text" translate="yes">
+          <source>Search</source>
+          <target state="final">搜尋</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the page search</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SearchSuggestionEpisodeReleaseText.Text" translate="yes">
+          <source>Release</source>
+          <target state="final">發布時間</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Regarding the release date of an episode</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file product-name="n/a" tool-id="MultilingualAppToolkit" build-num="n/a" target-language="zh-TW" datatype="xml" source-language="en-US" original="FLUENTCAST/STRINGS/EN-US/PLAYER.RESW" product-version="n/a">
+    <header>
+      <tool tool-version="4.0.6916.0" tool-company="Microsoft" tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" />
+    </header>
+    <body>
+      <group datatype="resx" id="FLUENTCAST/STRINGS/EN-US/PLAYER.RESW">
+        <trans-unit xml:space="preserve" approved="yes" id="EpisodeLengthTooltipText" translate="yes">
+          <source>Episode length</source>
+          <target state="final">單集長度</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EpisodeTimeElapsedTextBlock.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes">
+          <source>Time elapsed</source>
+          <target state="final">已播放時間</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EpisodeTimeRemainingTooltipText" translate="yes">
+          <source>Time remaining</source>
+          <target state="final">剩餘時間</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="FullScreenButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes">
+          <source>Fullscreen</source>
+          <target state="final">全螢幕</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="MoreCommandsButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes">
+          <source>More commands</source>
+          <target state="final">更多動作</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="MuteButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes">
+          <source>Mute/Unmute</source>
+          <target state="final">開啟／關閉靜音</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="NextCommand.Description" translate="yes">
+          <source>Next episode</source>
+          <target state="final">下一個單集</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PictureInPicture.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes">
+          <source>Picture-In-Picture</source>
+          <target state="final">子母畫面</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PlaybackButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes">
+          <source>Reset to 1x</source>
+          <target state="final">重置為１倍速</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PlayCommand.Description" translate="yes">
+          <source>Play/Pause</source>
+          <target state="final">播放／暫停</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PlayerBarChaptersHeader.Text" translate="yes">
+          <source>Chapters</source>
+          <target state="final">章節</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PreviousCommand.Description" translate="yes">
+          <source>Previous episode</source>
+          <target state="final">上一集</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ResumePreviousPlaylist.Text" translate="yes">
+          <source>Resume previous playlist</source>
+          <target state="final">恢復前一個播放清單</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ResumePreviousPlaylistDescription.Text" translate="yes">
+          <source>Continue listening where you left off</source>
+          <target state="final">接續進度播放</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ResumePreviousPlaylistJumplistHeader.Text" translate="yes">
+          <source>Playlist</source>
+          <target state="final">播放清單</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Jumplist Header</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SkipBackCommand.Description" translate="yes">
+          <source>Skip back 10 seconds</source>
+          <target state="final">倒轉 10 秒</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SkipForwardCommand.Description" translate="yes">
+          <source>Skip forward 30 seconds</source>
+          <target state="final">前進 30 秒</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file product-name="n/a" tool-id="MultilingualAppToolkit" build-num="n/a" target-language="zh-TW" datatype="xml" source-language="en-US" original="FLUENTCAST/STRINGS/EN-US/EPISODELISTPAGE.RESW" product-version="n/a">
+    <header>
+      <tool tool-version="4.0.6916.0" tool-company="Microsoft" tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" />
+    </header>
+    <body>
+      <group datatype="resx" id="FLUENTCAST/STRINGS/EN-US/EPISODELISTPAGE.RESW">
+        <trans-unit xml:space="preserve" approved="yes" id="EmptyListMessage.Text" translate="yes">
+          <source>Empty list</source>
+          <target state="final">空的清單</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message text indicating that the episode list is empty</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="MoreCommandsButton.Label" translate="yes">
+          <source>More commands</source>
+          <target state="final">更多動作</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the button that opens the list of more commands</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="MoreCommandsButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes">
+          <source>More commands</source>
+          <target state="final">更多動作</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Tooltip Text of the button that opens the list of more commands</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ShowOnlyUnplayed.Label" translate="yes">
+          <source>Only unplayed</source>
+          <target state="final">僅未播放</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the button that shows only the unplayed episodes .</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ShowOnlyUnplayed.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes">
+          <source>Show only unplayed episodes</source>
+          <target state="final">僅顯示未播放的單集</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Tooltip text of the button that shows only the unplayed episodes .</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ShowOnlyUnplayedTip.Subtitle" translate="yes">
+          <source>Click here to view only unplayed episodes</source>
+          <target state="final">點此處查看未播放的單集</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">When the user opens a subscribed podcast for the first time, a popup appears to let them know that they can filter out episodes that have not been played. This is the subtitle of the popup.</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ShowOnlyUnplayedTip.Title" translate="yes">
+          <source>Filter the episodes</source>
+          <target state="final">單集篩選</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">When the user opens a subscribed podcast for the first time, a popup appears to let them know that they can filter out episodes that have not been played. This is the title of the popup.</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SortByEpisodesButton.Text" translate="yes">
+          <source>Sort episodes</source>
+          <target state="final">單集排序</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the button that sorts the episode list</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SortByEpisodesButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes">
+          <source>Sort episodes</source>
+          <target state="final">對單集進行排序</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Tooltip Text of the button that sorts the episode list</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SortByNewest.Text" translate="yes">
+          <source>Newest</source>
+          <target state="final">最新</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates the order in which the episodes will be sorted. The newest ones first.</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SortByOldest.Text" translate="yes">
+          <source>Oldest</source>
+          <target state="final">最舊</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates the order in which the episodes will be sorted. The oldest ones first.</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SortByTitle.Text" translate="yes">
+          <source>Title</source>
+          <target state="final">標題</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates the order in which the episodes will be sorted. Sorted by the Title.</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SortByTitleDescending.Text" translate="yes">
+          <source>Title (descending)</source>
+          <target state="final">標題（遞減次序）</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates the order in which the episodes will be sorted. Sorted by the Title (descending)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SubscribeButtonText.CheckedText" translate="yes">
+          <source>Unsubscribe</source>
+          <target state="final">取消訂閱</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Button text to unsubscribe to a podcast (podcast page)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SubscribeButtonText.UncheckedText" translate="yes">
+          <source>Subscribe</source>
+          <target state="final">訂閱</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Button text to subscribe to a podcast (podcast page)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="UpdateButton.Label" translate="yes">
+          <source>Update episodes</source>
+          <target state="final">更新單集</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the button that updates the list of episodes of a podcast</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="UpdateButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes">
+          <source>Update episodes (F5)</source>
+          <target state="final">更新單集（F5）</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Tooltip Text of the button that updates the list of episodes of a podcast</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SubscribeButton.Text" translate="yes">
+          <source>Subscribe</source>
+          <target state="final">訂閱</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Button text to subscribe to a podcast (podcast page)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SubscribedButton.Text" translate="yes">
+          <source>Subscribed</source>
+          <target state="final">已訂閱</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Button text that indicates that the podcast is subscribed.</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="UnsubscribeButton.Text" translate="yes">
+          <source>Unsubscribe</source>
+          <target state="final">取消訂閱</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Button text to unsubscribe to a podcast (podcast page)</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file product-name="n/a" tool-id="MultilingualAppToolkit" build-num="n/a" target-language="zh-TW" datatype="xml" source-language="en-US" original="FLUENTCAST/STRINGS/EN-US/GENRESSTRINGS.RESW" product-version="n/a">
+    <header>
+      <tool tool-version="4.0.6916.0" tool-company="Microsoft" tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" />
+    </header>
+    <body>
+      <group datatype="resx" id="FLUENTCAST/STRINGS/EN-US/GENRESSTRINGS.RESW">
+        <trans-unit xml:space="preserve" approved="yes" id="All" translate="yes">
+          <source>All</source>
+          <target state="final">所有類別</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">All podcast genres</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="Arts" translate="yes">
+          <source>Arts</source>
+          <target state="final">藝術</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Arts podcast genre </note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="Business" translate="yes">
+          <source>Business</source>
+          <target state="final">商業</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Business podcast genre</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="Comedy" translate="yes">
+          <source>Comedy</source>
+          <target state="final">喜劇</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Comedy podcast genre</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="Design" translate="yes">
+          <source>Design</source>
+          <target state="final">設計</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Design podcast genre</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="Education" translate="yes">
+          <source>Education</source>
+          <target state="final">教育</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Education podcast genre</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="Fitness" translate="yes">
+          <source>Fitness</source>
+          <target state="final">健康</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Fitness podcsat genre</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="KidsAndFamily" translate="yes">
+          <source>Kids and Family</source>
+          <target state="final">家庭</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Kids and Family podcast genre</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="Leisure" translate="yes">
+          <source>Leisure</source>
+          <target state="final">休閒</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Leisure podcast genre</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="Music" translate="yes">
+          <source>Music</source>
+          <target state="final">音樂</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Music podcast genre</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="News" translate="yes">
+          <source>News</source>
+          <target state="final">新聞</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">News podcast genre</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="Politics" translate="yes">
+          <source>Politics</source>
+          <target state="final">政治</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Politics podcast genre</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ReligionAndSpirituality" translate="yes">
+          <source>Religion and Spirituality</source>
+          <target state="final">宗教</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Religion and Spirituality podcast genre</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="Science" translate="yes">
+          <source>Science</source>
+          <target state="final">科學</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Science podcast genre</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SocietyAndCulture" translate="yes">
+          <source>Society and Culture</source>
+          <target state="final">社會與文化</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Society and Culture podcast genre</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="Sports" translate="yes">
+          <source>Sports</source>
+          <target state="final">體育</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Sports genre</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="Technology" translate="yes">
+          <source>Technology</source>
+          <target state="final">科技</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Technology podcast genre</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="TvAndFilm" translate="yes">
+          <source>TV and Film</source>
+          <target state="final">電視與電影</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Tv and Film podcast genre</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file product-name="n/a" tool-id="MultilingualAppToolkit" build-num="n/a" target-language="zh-TW" datatype="xml" source-language="en-US" original="FLUENTCAST/STRINGS/EN-US/DOWNLOADSPAGE.RESW" product-version="n/a">
+    <header>
+      <tool tool-version="4.0.6916.0" tool-company="Microsoft" tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" />
+    </header>
+    <body>
+      <group datatype="resx" id="FLUENTCAST/STRINGS/EN-US/DOWNLOADSPAGE.RESW">
+        <trans-unit xml:space="preserve" approved="yes" id="ButtonCancelDownloadTooltip.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes">
+          <source>Cancel download</source>
+          <target state="final">取消下載</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Episode downloading list: command to cancel the episode download (tooltip)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EmptyListMessageTitle.Text" translate="yes">
+          <source>Episodes that you download will appear here</source>
+          <target state="final">下載的單集會出現在這裡</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there are no episodes downloaded</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DownloadingEpisodesEmptyListMessage.Text" translate="yes">
+          <source>You have no active downloads</source>
+          <target state="final">沒有正在下載的單集</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there are no episodes downloading</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EpisodeHeaderSize.Text" translate="yes">
+          <source>Size</source>
+          <target state="final">大小</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the "size" column of the downloaded episode list. Indicates the size on disk of the episode file</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EpisodeHeaderTitle.Text" translate="yes">
+          <source>Title</source>
+          <target state="final">標題</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the "title" column of the downloaded episode list.  Indicates the title of the episode</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PageTitle.Text" translate="yes">
+          <source>Downloads</source>
+          <target state="final">下載</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the downloads page</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PivotItemHeaderDownloaded.Header" translate="yes">
+          <source>Downloaded</source>
+          <target state="final">已下載</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Pivot item header that shows downloaded episodes</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PivotItemHeaderDownloading.Header" translate="yes">
+          <source>Downloading</source>
+          <target state="final">下載中</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Pivot item header that shows downloading episodes</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EpisodeHeaderDuration.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes">
+          <source>Duration</source>
+          <target state="final">長度</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Tooltip of duration icon</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EpisodeHeaderRelease.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes">
+          <source>Release</source>
+          <target state="final">發布</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Tooltip of release icon</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RefreshDownloads.Label" translate="yes">
+          <source>Refresh downloads</source>
+          <target state="final">更新</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that refresh the list of downloaded episodes</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DeleteAllFiles.Label" translate="yes">
+          <source>Delete all files</source>
+          <target state="final">刪除所有檔案</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that delete all files from episodes downloaded</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="CancelAllDownloads.Label" translate="yes">
+          <source>Cancel all downloads</source>
+          <target state="final">取消所有下載</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that cancels all current downloads</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PivotItemHeaderDownloadedTextBlock.Text" translate="yes">
+          <source>Downloaded</source>
+          <target state="final">已下載</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Pivot item header that shows downloaded episodes</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PivotItemHeaderDownloadingTextBlock.Text" translate="yes">
+          <source>Downloading</source>
+          <target state="final">下載中</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Pivot item header that shows downloading episodes</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file product-name="n/a" tool-id="MultilingualAppToolkit" build-num="n/a" target-language="zh-TW" datatype="xml" source-language="en-US" original="FLUENTCAST/STRINGS/EN-US/PODCASTSUBSCRIPTIONSPAGE.RESW" product-version="n/a">
+    <header>
+      <tool tool-version="4.0.6916.0" tool-company="Microsoft" tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" />
+    </header>
+    <body>
+      <group datatype="resx" id="FLUENTCAST/STRINGS/EN-US/PODCASTSUBSCRIPTIONSPAGE.RESW">
+        <trans-unit xml:space="preserve" approved="yes" id="AddPodcast.Text" translate="yes">
+          <source>Add podcast</source>
+          <target state="final">新增 Podcast</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that adds a podcast by feed url</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EmptyListMessageButton.Text" translate="yes">
+          <source>Explore</source>
+          <target state="final">探索</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there is no podcast in the subscription list (button text)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EmptyListMessageSubtitle.Text" translate="yes">
+          <source>Go to Explore page to find recommendations</source>
+          <target state="final">到探索頁面查看推薦的 Podcast</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there is no podcast in the subscription list (subtitle)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EmptyListMessageTitle.Text" translate="yes">
+          <source>You haven't subscribed to any podcasts yet</source>
+          <target state="final">尚未訂閱任何 Podcast</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there is no podcast in the subscription list (title)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PageTitle.Text" translate="yes">
+          <source>Subscriptions</source>
+          <target state="final">已訂閱內容</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the page subscriptions</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SyncPodcasts.Text" translate="yes">
+          <source>Sync podcasts</source>
+          <target state="final">同步 Podcast</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that syncs all podcasts</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="TeachingTipMessageTitle.Title" translate="yes">
+          <source>Done!</source>
+          <target state="final">完成！</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Title of the flyout that displays messages of the actions performed on the subscription page (eg unsubscribe a podcast).</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="AddPodcastButton.Label" translate="yes">
+          <source>Add podcast</source>
+          <target state="final">新增 Podcast</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that adds a podcast by feed url</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RemoveAllSubscriptions.Label" translate="yes">
+          <source>Remove all subscriptions</source>
+          <target state="final">移除所有訂閱</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that removes all podcast subscriptions</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SyncPodcastsButton.Label" translate="yes">
+          <source>Sync podcasts</source>
+          <target state="final">同步 Podcast</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that syncs all podcasts</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file product-name="n/a" tool-id="MultilingualAppToolkit" build-num="n/a" target-language="zh-TW" datatype="xml" source-language="en-US" original="FLUENTCAST/STRINGS/EN-US/VIEWITEM.RESW" product-version="n/a">
+    <header>
+      <tool tool-version="4.0.6916.0" tool-company="Microsoft" tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" />
+    </header>
+    <body>
+      <group datatype="resx" id="FLUENTCAST/STRINGS/EN-US/VIEWITEM.RESW">
+        <trans-unit xml:space="preserve" approved="yes" id="Add.Text" translate="yes">
+          <source>Add</source>
+          <target state="final">新增至</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that adds an episode to something, e.g a playlist (context menu of episode)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="AddingEpisodesToTheDownloadQueue" translate="yes">
+          <source>Adding to the download queue</source>
+          <target state="final">正在新增至下載佇列</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when multiple episodes are being added to the download queue</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="AllEpisodes.Text" translate="yes">
+          <source>All episodes</source>
+          <target state="final">所有單集</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of command to do something (usually download, play or mark as played/unplayed) with all episodes from an episode list</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="AllPodcastSynced" translate="yes">
+          <source>All podcasts have been synced</source>
+          <target state="final">已成功同步所有 Podcast</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when all podcast sync is successfully completed</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="AvailableOfflineIcon.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes">
+          <source>Available off-line</source>
+          <target state="final">可供離線播放</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Tooltip text of icon that indicate when a episode is available off-line</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="CancelAllDownloads.Text" translate="yes">
+          <source>Cancel all downloads</source>
+          <target state="final">取消所有下載</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that cancels all current downloads</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="CancelDownload.Text" translate="yes">
+          <source>Cancel download</source>
+          <target state="final">取消下載</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that cancels the episode download (context menu of episode)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="CopyFeed.Text" translate="yes">
+          <source>Copy feed link to clipboard</source>
+          <target state="final">複製連結至剪貼簿</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that copies the podcast feed link to the clipboard (context menu of podcast)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DeleteAllFilesContent" translate="yes">
+          <source>This process cannot be undone</source>
+          <target state="final">此操作將無法復原</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Confirmation of deletion of all downloaded episodes (Message content)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DeleteAllFilesTitle" translate="yes">
+          <source>Delete all files?</source>
+          <target state="final">删除所有檔案？</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Confirmation of deletion of all downloaded episodes (Message title)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DeleteEpisodeContent" translate="yes">
+          <source>Episode: {0}</source>
+          <target state="final">確認刪除：{0}</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Confirmation of an episode deletion. {0} is the name of episode (Message content)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DeleteEpisodesFromAPodcastContent" translate="yes">
+          <source>This will delete all {0} file(s)</source>
+          <target state="final">這會刪除 {0} 個檔案</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Confirmation of deletion of all downloaded episodes from a podcast. {0} is the number of files (Message content)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DeleteEpisodesFromAPodcastTitle" translate="yes">
+          <source>Delete episodes of "{0}"?</source>
+          <target state="final">刪除所有「{0}」的單集？</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Confirmation of deletion of all downloaded episodes from a podcast. {0} is the name of the podcast (Message title)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DeleteEpisodeTitle" translate="yes">
+          <source>Delete episode?</source>
+          <target state="final">刪除單集？</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Confirmation of an episode deletion (Message title)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DeleteFile.Text" translate="yes">
+          <source>Delete file</source>
+          <target state="final">删除檔案</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that deletes the file downloaded from a episode (context menu of episode)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DeleteFiles.Text" translate="yes">
+          <source>Delete files</source>
+          <target state="final">刪除檔案</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that deletes files downloaded from a podcast (context menu of podcast)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DeleteFromHistory.Text" translate="yes">
+          <source>Delete from history</source>
+          <target state="final">刪除歷史紀錄</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that deletes an item from playback history (context menu of episode)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DeletingFiles" translate="yes">
+          <source>Deleting files</source>
+          <target state="final">正在刪除檔案</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when files are being deleted</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DoneMessage" translate="yes">
+          <source>Done</source>
+          <target state="final">完成</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when some command is finished</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="Download.Text" translate="yes">
+          <source>Download</source>
+          <target state="final">下載</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that starts the download of an episode (context menu of episode)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DownloadAll.Text" translate="yes">
+          <source>Download all</source>
+          <target state="final">全部下載</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that downloads all episodes as from a list of episodes</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DownloadedEpisodes.Text" translate="yes">
+          <source>Downloaded episodes</source>
+          <target state="final">已下載的單集</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of command to do something (usually play, delete or mark as played/unplayed) with all downloaded episodes from an episode list</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EnterTheFeedUrlTitle" translate="yes">
+          <source>Enter the RSS feed URL</source>
+          <target state="final">輸入 RSS 新聞網址</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the user wants to add a podcast by url feed (Message title)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EpisodeAddedToDownloadQueue" translate="yes">
+          <source>Episode added to download queue</source>
+          <target state="final">已將單集新增至下載佇列</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the episode is added to download queue</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EpisodeAddedToPlaylist" translate="yes">
+          <source>Episode added to playlist</source>
+          <target state="final">已將單集新增至播放清單</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when an episode is added on the playlist</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EpisodeInfoDialogDuration.Header" translate="yes">
+          <source>Duration</source>
+          <target state="final">長度</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicates the duration of the episode</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EpisodeInfoDialogEditor.Header" translate="yes">
+          <source>Editor</source>
+          <target state="final">製作人</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicates the editor of the episode</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EpisodeInfoDialogFileName.Header" translate="yes">
+          <source>File name</source>
+          <target state="final">檔案名稱</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicates the file name of the episode</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EpisodeInfoDialogFileSize.Header" translate="yes">
+          <source>File size</source>
+          <target state="final">檔案大小</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicates the file size on disk of the episode</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EpisodeInfoDialogFileUrlLink.Header" translate="yes">
+          <source>File Link</source>
+          <target state="final">檔案連結</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicates the file url of the episode</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EpisodeInfoDialogPath.Header" translate="yes">
+          <source>Path</source>
+          <target state="final">路徑</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicates the file path of the episode</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EpisodeInfoDialogReleaseDate.Header" translate="yes">
+          <source>Release date</source>
+          <target state="final">發布日期</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicates the release date of the episode</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EpisodeInfoDialogSummary.Header" translate="yes">
+          <source>Summary</source>
+          <target state="final">摘要</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicates the summary of the episode</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EpisodeIsAlreadyInDownloadQueue" translate="yes">
+          <source>The episode is already in the download queue</source>
+          <target state="final">單集已在下載佇列中</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the episode is already in the download queue</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EpisodeIsAlreadyInThePlaylist" translate="yes">
+          <source>Episode is already in the playlist</source>
+          <target state="final">單集已在播放清單中</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the user tries to add a episode that is already in the playlist</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="FileAlreadyExits" translate="yes">
+          <source>There is already a file with the same name in this location</source>
+          <target state="final">此目錄已含同名稱檔案</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the user tries to rename a file with the same name used by another file in the same folder</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ImportAllPodcastsSuccessMessage" translate="yes">
+          <source>All podcasts have been imported</source>
+          <target state="final">已成功匯入所有 Podcast</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the podcast import is successfully completed</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ImportPodcastsWithErrorsMessage" translate="yes">
+          <source>{0} podcast(s) successfully imported, {1} podcast(s) could not be imported</source>
+          <target state="final">已成功匯入 {0} 個 Podcast，無法匯入 {1} 個 Podcast</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when some podcasts are imported and others are not.</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="LinkOpenedInBrowserMessage" translate="yes">
+          <source>The link has been opened in the web browser</source>
+          <target state="final">連結已在瀏覽器中開啟</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the user clicks on a link that will open in the web browser</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="MarkAllAsPlayed.Text" translate="yes">
+          <source>Mark all as played</source>
+          <target state="final">全部標記為已播放</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that marks all episodes from a pódcast as played</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="MarkAllAsUnplayed.Text" translate="yes">
+          <source>Mark all as unplayed</source>
+          <target state="final">全部標記為未播放</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that marks all episodes from a pódcast as unplayed </note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="MarkAsPlayed.Text" translate="yes">
+          <source>Mark as played</source>
+          <target state="final">標記為已播放</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that marks an episode as played (context menu of episode)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="MarkAsUnplayed.Text" translate="yes">
+          <source>Mark as unplayed</source>
+          <target state="final">標記為未播放</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that marks an episode as unplayed (context menu of episode)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="MarkedAsPlayed" translate="yes">
+          <source>Marked as played</source>
+          <target state="final">已標記為已播放</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed whe the user mark an episode as played</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="MarkedAsUnplayed" translate="yes">
+          <source>Marked as unplayed</source>
+          <target state="final">已標記為未播放</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed whe the user mark an episode as unplayed</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="NoEpisodeToPlay" translate="yes">
+          <source>No episode to play</source>
+          <target state="final">沒有可供播放的單集</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the user selects to play a list of episodes and this list is empty</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="NowPlayingPlaylist.Text" translate="yes">
+          <source>Now Playing</source>
+          <target state="final">正在播放</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Playlist that contains all episodes playing</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="Open.Text" translate="yes">
+          <source>Open</source>
+          <target state="final">開啟</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that opens the podcast details page (context menu of podcast)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="OpenFile.Text" translate="yes">
+          <source>Open in File Explorer</source>
+          <target state="final">在檔案總管中開啟</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that opens the file in file explorer (context menu of episode)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="OpenFolder.Text" translate="yes">
+          <source>Open folder in File Explorer</source>
+          <target state="final">在檔案總管中開啟資料夾</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that opens the podcast folder containing the episode files (context menu of podcast)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="OpenImageInNewWindow.Text" translate="yes">
+          <source>Open image</source>
+          <target state="final">開啟圖片</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that opens the artwork in a new window (context menu of artworks)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="OpenInNewWindow.Text" translate="yes">
+          <source>Open in new window</source>
+          <target state="final">在新視窗開啟</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that opens the podcast details page in a new window (context menu of podcast)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="OpenItunesLink.Text" translate="yes">
+          <source>Open iTunes page</source>
+          <target state="final">開啟 iTunes 頁面</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that opens the iTunes page of the podcast in the browser (context menu of podcast)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="OpenLink.Text" translate="yes">
+          <source>Open link</source>
+          <target state="final">開啟連結</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that opens a link (web browser or in-app)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="OpenWebsite.Text" translate="yes">
+          <source>Open website</source>
+          <target state="final">開啟網頁</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that opens the podcast website in the browser (context menu of podcast)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="Play.Text" translate="yes">
+          <source>Play</source>
+          <target state="final">播放</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that plays the episode (context menu of podcast)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PlayedEpisodes.Text" translate="yes">
+          <source>Played episodes</source>
+          <target state="final">已播放的單集</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of command to do something (usually download, play or mark as unplayed) with all the played episodes from an episode list</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PlayEpisodeAppBarButton.Label" translate="yes">
+          <source>Play</source>
+          <target state="final">播放</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Play episode button</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PlayEpisodeAppBarButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes">
+          <source>Play episode</source>
+          <target state="final">播放單集</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Play episode button (tooltip)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PlayingEpisodes" translate="yes">
+          <source>Playing episode(s)</source>
+          <target state="final">正在播放單集</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the user put episodes do play</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PodcastInfoDialogEditor.Header" translate="yes">
+          <source>Editor</source>
+          <target state="final">製作人</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicastes the editor of the Podcast</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PodcastInfoDialogFeedLink.Header" translate="yes">
+          <source>Feed link</source>
+          <target state="final">訂閱連結</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicastes the podcast feed url</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PodcastInfoDialogGenre.Header" translate="yes">
+          <source>Genre</source>
+          <target state="final">類別</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicastes the genre of the Podcast</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PodcastInfoDialogiTunesLink.Header" translate="yes">
+          <source>iTunes link</source>
+          <target state="final">iTunes 連結</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicastes the podcast feed url</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PodcastInfoDialogLastUpdate.Header" translate="yes">
+          <source>Last update</source>
+          <target state="final">上次更新</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicastes the last time a new Podcast episode was released</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PodcastInfoDialogName.Header" translate="yes">
+          <source>Name</source>
+          <target state="final">名稱</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicates the name of the Podcast</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PodcastInfoDialogSummary.Header" translate="yes">
+          <source>Summary</source>
+          <target state="final">摘要</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicastes the summary of the Podcast</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PodcastInfoDialogWebsite.Header" translate="yes">
+          <source>Website</source>
+          <target state="final">網站</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicastes the podcast website</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PodcastSubscribedMessage" translate="yes">
+          <source>The podcast has been subscribed</source>
+          <target state="final">已訂閱此 Podcast</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when user subscribe a podcast</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PodcastSyncedMessage" translate="yes">
+          <source>The podcast has been synced</source>
+          <target state="final">已同步此 Podcast</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the podcast sync is successfully completed</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PodcastUnsubscribedMessage" translate="yes">
+          <source>The podcast has been unsubscribed</source>
+          <target state="final">已取消訂閱此 Podcast</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when user cancels his subscription in a podcast</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RefreshedMessage" translate="yes">
+          <source>Refreshed</source>
+          <target state="final">已更新</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when something has been refreshed</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RefreshingDownloads" translate="yes">
+          <source>Refreshing downloads</source>
+          <target state="final">更新下載</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Notification text displayed while the download list is refreshing</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RemoveFromPlaylist.Text" translate="yes">
+          <source>Remove from playlist</source>
+          <target state="final">從播放清單移除</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that removes an episode from playlist</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RenameFile.Text" translate="yes">
+          <source>Rename file</source>
+          <target state="final">重新命名檔案</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that renames episode file on disk (context menu of podcast)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RenameTextBoxPlaceholder.PlaceholderText" translate="yes">
+          <source>Enter the new file name</source>
+          <target state="final">輸入新的檔案名稱</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Placeholder of rename file TextBox</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SaveAs.Text" translate="yes">
+          <source>Save As</source>
+          <target state="final">另存為</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that saves something (like podcast artwork) with file explorer</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SaveAsButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes">
+          <source>Save As</source>
+          <target state="final">另存為</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that saves something (like podcast artwork) with file explorer (tooltip)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SeeDetails.Text" translate="yes">
+          <source>See details</source>
+          <target state="final">查看詳情</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that opens details of a podcast or episode in a popup (context menu of podcast/episode)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SentToClipboardMessage" translate="yes">
+          <source>Sent to clipboard</source>
+          <target state="final">已複製到剪貼簿</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when a link is copied to clipboard</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="Share.Text" translate="yes">
+          <source>Share</source>
+          <target state="final">分享</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that share a podcast via the Windows sharing command (context menu of podcast)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SomePodcastSynced" translate="yes">
+          <source>{0} synced podcast(s). Couldn't sync {1} podcast(s)</source>
+          <target state="final">已同步 {0} 個 Podcast，無法同步 {1} 個 Podcast</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when some podcasts are synced and others are not. {0} is the number of synced podcasts, and {1} is the number of not synced podcasts</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="Subscribe.Text" translate="yes">
+          <source>Subscribe</source>
+          <target state="final">訂閱</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that subscribes a podcast (context menu of podcast)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SubscribingTo" translate="yes">
+          <source>Subscribing to "{0}"</source>
+          <target state="final">正在訂閱「{0}」</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed while a podcast is subscribed. "{0}" is the podcast name</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SyncingPodcast" translate="yes">
+          <source>Syncing "{0}"</source>
+          <target state="final">正在同步「{0}」</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed while a podcast is synched. "{0}" is the podcast name</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="TheFileHasBeenRenamed" translate="yes">
+          <source>The file has been renamed</source>
+          <target state="final">檔案已重新命名</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the file of episode has been renamed successfully</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ThisFileNotExits" translate="yes">
+          <source>This file not exits</source>
+          <target state="final">檔案不存在</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the user tries to rename a file that does not exists</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ThisNameIsNotValid" translate="yes">
+          <source>This name is not valid</source>
+          <target state="final">檔案名稱無效</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the user tries to rename a file with invalid characters or with a forbidden name (For example, "con.text")</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="UnplayedEpisodes.Text" translate="yes">
+          <source>Unplayed episodes</source>
+          <target state="final">尚未播放的單集</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of command to do something (usually download, play or mark as played) with all the unplayed episodes from an episode list</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="Unsubscribe.Text" translate="yes">
+          <source>Unsubscribe</source>
+          <target state="final">取消訂閱</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that unsubscribes a podcast (context menu of podcast)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="UnsubscribeAllPodcastsTitle" translate="yes">
+          <source>Unsubscribe all podcasts?</source>
+          <target state="final">取消訂閱所有 Podcast？</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when user clicks the button to remove all podcasts (Message title)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="UpdateEpisodes.Text" translate="yes">
+          <source>Update episodes</source>
+          <target state="final">更新單集</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that updates the episodes of a podcast (context menu of podcast)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="YesRemoveAllSubscriptions" translate="yes">
+          <source>Yes, remove all</source>
+          <target state="final">確認全部刪除</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that confirms the action to remove all subscriptions</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="YourCollectionIsEmptyMessage" translate="yes">
+          <source>Your collection is empty</source>
+          <target state="final">收藏夾是空的</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file product-name="n/a" tool-id="MultilingualAppToolkit" build-num="n/a" target-language="zh-TW" datatype="xml" source-language="en-US" original="FLUENTCAST/STRINGS/EN-US/NOWPLAYINGPAGE.RESW" product-version="n/a">
+    <header>
+      <tool tool-version="4.0.6916.0" tool-company="Microsoft" tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" />
+    </header>
+    <body>
+      <group datatype="resx" id="FLUENTCAST/STRINGS/EN-US/NOWPLAYINGPAGE.RESW">
+        <trans-unit xml:space="preserve" approved="yes" id="ClearPlaylist.Text" translate="yes">
+          <source>Clear playlist</source>
+          <target state="final">清空播放清單</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that removes all items from the playlist</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EmptyListMessageButton.Text" translate="yes">
+          <source>Shuffle all</source>
+          <target state="final">隨機播放全部</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Shuffle all your library episodes</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EmptyListMessageSubtitle.Text" translate="yes">
+          <source>Shuffle everything in collection</source>
+          <target state="final">隨機播放收藏夾</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EmptyListMessageTitle.Text" translate="yes">
+          <source>The playlist is empty</source>
+          <target state="final">播放清單是空的</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there are no episodes on playlist (message title)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PageTitle.Text" translate="yes">
+          <source>Now playing</source>
+          <target state="final">正在播放</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the now playing page</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ClearPlaylistButton.Label" translate="yes">
+          <source>Clear playlist</source>
+          <target state="final">清空播放清單</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that removes all items from the playlist</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file product-name="n/a" tool-id="MultilingualAppToolkit" build-num="n/a" target-language="zh-TW" datatype="xml" source-language="en-US" original="FLUENTCAST/STRINGS/EN-US/SETTINGSPAGE.RESW" product-version="n/a">
+    <header>
+      <tool tool-version="4.0.6916.0" tool-company="Microsoft" tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" />
+    </header>
+    <body>
+      <group datatype="resx" id="FLUENTCAST/STRINGS/EN-US/SETTINGSPAGE.RESW">
+        <trans-unit xml:space="preserve" approved="yes" id="AboutSettingItemEmail.Text" translate="yes">
+          <source>E-mail</source>
+          <target state="final">電子郵件</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" id="AboutSettingItemLanguageMessage.Text" translate="yes">
+          <source>Learning another language can be a challenge, sometimes mistakes happen. If you find any translation errors, send me an email. Thank you!</source>
+          <target state="translated">The translation for zh-TW was been done by the FluentCast users, you can improve it by clicking on the link below</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="AboutSettingItemPrivacy.Text" translate="yes">
+          <source>Read our privacy policy here</source>
+          <target state="final">點此閱讀我們的隱私權條款</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Link to privacy policy</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="AboutSettingItemTitle.Text" translate="yes">
+          <source>About</source>
+          <target state="final">關於</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Section title on the settings page</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="AboutSettingItemVersion.Text" translate="yes">
+          <source>Version</source>
+          <target state="final">版本</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Related to: App version</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="AppThemeDarkSettingItem.Content" translate="yes">
+          <source>Dark</source>
+          <target state="final">深色</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Theme personalization, Dark Mode option</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="AppThemeLightSettingItem.Content" translate="yes">
+          <source>Light</source>
+          <target state="final">淺色</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Theme personalization, Light Mode option</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="AppThemeSettingItemDescription.Text" translate="yes">
+          <source>Choose an app mode</source>
+          <target state="final">選擇主題</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header: choose the app theme</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="AppThemeSettingItemTitle.Text" translate="yes">
+          <source>App theme</source>
+          <target state="final">主題</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="AppThemeWindowsDefaultSettingItem.Content" translate="yes">
+          <source>Windows default</source>
+          <target state="final">Windows 預設</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Theme personalization, Windows default option</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="AutoDeleteSettingItemDescription.Text" translate="yes">
+          <source>The app will automatically delete all downloaded episodes marked as played to save disk space</source>
+          <target state="final">此 App 將自動刪除所有標記已播放的單集以節省硬碟空間</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Description of the auto delete feature</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="AutoDeleteSettingItemTitle.Text" translate="yes">
+          <source>Auto delete</source>
+          <target state="final">自動刪除</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Feature title: auto delete</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="AutoDownloadSettingItemDescription.Text" translate="yes">
+          <source>The app will automatically download all episodes marked as unplayed</source>
+          <target state="final">此 App 將自動下載所有標記未播放的單集</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Description of the auto download feature</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="AutoDownloadSettingItemTitle.Text" translate="yes">
+          <source>Auto download</source>
+          <target state="final">自動下載</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Feature title: auto download</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="BackgroundSyncSettingItemDescription.Text" translate="yes">
+          <source>The app will automatically sync all episodes in the background</source>
+          <target state="final">此 App 將自動在背景同步所有單集</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Description of the background sync feature</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="BackgroundSyncSettingItemRefreshInterval.Text" translate="yes">
+          <source>Refresh interval (minutes)</source>
+          <target state="final">更新間隔（分鐘）</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Background sync refresh interval</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="BackgroundSyncSettingItemTitle.Text" translate="yes">
+          <source>Background sync</source>
+          <target state="final">背景同步</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Feature title: background sync</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="BackgroundTaskErrorSettingItemButtonLink.Content" translate="yes">
+          <source>Open settings to allow</source>
+          <target state="final">開啟設定以允許</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Button to open background task settings</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="BackgroundTaskErrorSettingItemTitle.Text" translate="yes">
+          <source>Your current settings do not allow FluentCast to be executed in the background</source>
+          <target state="final">目前的設定不允許 FluentCast 在背景執行</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Warning: Background task not allowed</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="CheckForUpdates.Content" translate="yes">
+          <source>Check for updates</source>
+          <target state="final">檢查更新</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Check app updates button</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="CleanupSettingItemButton.Text" translate="yes">
+          <source>Clean now</source>
+          <target state="final">立即清理</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Button to run database cleanup</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="CleanupSettingItemCleanupDoneMessage" translate="yes">
+          <source>{0} released</source>
+          <target state="final">已釋放 {0}</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">{0} = Space released on disk after database cleanup: (E.g. "15 MB released")</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="CleanupSettingItemDescription.Text" translate="yes">
+          <source>Removes unnecessary entries in the database and temporary files to free up disk space and optimize app performance. The database cleanup runs automatically once a week</source>
+          <target state="final">刪除資料庫和快取中不需要的項目以釋放硬碟空間並最佳化 App 性能。資料庫清理每周自動執行</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Description of the Database cleanup feature</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="CleanupSettingItemTitle.Text" translate="yes">
+          <source>Cleanup</source>
+          <target state="final">清理</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Feature title: Database cleanup</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ContentRegionSettingItemDescription.Text" translate="yes">
+          <source>Select the iTunes Podcasts API content region</source>
+          <target state="final">選擇 iTunes Podcast 的服務地區</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ContentRegionSettingItemTitle.Text" translate="yes">
+          <source>Content region</source>
+          <target state="final">服務地區</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">iTunes Content Region</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DataCategoryTitle.Text" translate="yes">
+          <source>Data</source>
+          <target state="final">資料</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Section title on the settings page</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DonationCategoryTitle.Text" translate="yes">
+          <source>Donation</source>
+          <target state="final">捐款</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Section title on the settings page</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DonationSettingItemAlreadyDonatedMessage" translate="yes">
+          <source>You already donated</source>
+          <target state="final">您已經捐款過</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed for users who have already given a donation</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DonationSettingItemErrorMessage" translate="yes">
+          <source>Operation did not complete successfully, try again in a bit</source>
+          <target state="final">動作失敗，請稍後再試</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the user does not complete the donation due to an error</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DonationSettingItemSuccessMessage" translate="yes">
+          <source>Successfully donated. Thank you!</source>
+          <target state="final">成功捐款，感謝您！</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the user give a donation</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ImportExportSettingItemDescription.Text" translate="yes">
+          <source>Import RSS Feeds from an OPML file. Export RSS Feeds to an OPML file</source>
+          <target state="final">從 OPML 檔匯入 RSS 新聞。將 RSS 新聞匯出至 OPML 檔案</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Description of the Import/Export RSS feeds feature</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ImportExportSettingItemExportButton.Text" translate="yes">
+          <source>Export</source>
+          <target state="final">輸出</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Export button text (RSS feed)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ImportExportSettingItemExportedSuccessMessage" translate="yes">
+          <source>Successfully exported {0}</source>
+          <target state="final">成功匯出 {0}</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when RSS feeds are exported to a file. "{0}" = file path</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ImportExportSettingItemImportButton.Text" translate="yes">
+          <source>Import</source>
+          <target state="final">匯入</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Import button text (RSS feed)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ImportExportSettingItemNoPodcastToExportMessage" translate="yes">
+          <source>No podcast to export</source>
+          <target state="final">沒有可匯出的 Podcast</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ImportExportSettingItemTitle.Text" translate="yes">
+          <source>Import and Export</source>
+          <target state="final">匯入與匯出</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Feature title: Import and Export of RSS feeds</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="LastVersionInstalledMessage" translate="yes">
+          <source>You already have the latest version of FluentCast installed</source>
+          <target state="final">FluentCast 已經是最新版本</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when a user checks for app updates and there are no new updates</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="MoreAppsSettingItemTitle.Text" translate="yes">
+          <source>More apps</source>
+          <target state="final">更多 App</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Section title on the settings page</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="NewEpisodesNotificationSettingItemDescription.Text" translate="yes">
+          <source>The app will send a notification when there are new episodes</source>
+          <target state="final">當有新的單集時，此 App 會傳通通知</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Description of the new episodes notification feature</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="NewEpisodesNotificationSettingItemTitle.Text" translate="yes">
+          <source>New episode notifications</source>
+          <target state="final">新單集通知</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Feature title: new episode notifications</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="OverviewCategoryTitle.Text" translate="yes">
+          <source>Overview</source>
+          <target state="final">總覽</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Section title on the settings page</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PageTitle.Text" translate="yes">
+          <source>Settings</source>
+          <target state="final">設定</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the settings page</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PersonalizationCategoryTitle.Text" translate="yes">
+          <source>Personalization</source>
+          <target state="final">個人化</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Section title on the settings page</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RateThisAppSettingItemDescription.Text" translate="yes">
+          <source>Your rating helps us keep working on the app and make things even better</source>
+          <target state="final">您的評分是我們開發及維護此 App 的原動力</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RateThisAppSettingItemTitle.Text" translate="yes">
+          <source>Rate this app</source>
+          <target state="final">對此 App 評分</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RateThisAppSettintItemOpenMSStoreButton.Content" translate="yes">
+          <source>Open Microsoft Store</source>
+          <target state="final">開啟 Microsoft Store</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RateThisAppSettintItemRateButton.Text" translate="yes">
+          <source>Rate 5 stars</source>
+          <target state="final">給予五星評價</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the button to review the app</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ResetSettingItemButton.Text" translate="yes">
+          <source>Reset</source>
+          <target state="final">重置</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">App reset button</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ResetSettingItemDescription.Text" translate="yes">
+          <source>Deletes all the app data, including subscribed podcasts, playback history and episodes. Downloaded files are NOT deleted</source>
+          <target state="final">刪除 App 的所有資料，包括已訂閱的 Podcast、播放紀錄，以及單集。已下載的檔案*不會被*刪除</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">App reset description</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ResetSettingItemTitle.Text" translate="yes">
+          <source>Reset app data</source>
+          <target state="final">重置 App 資料</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ResetSettingItemWarning.Text" translate="yes">
+          <source>This process cannot be undone</source>
+          <target state="final">此操作將無法復原</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">App reset button warning</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ResetSettingItemWarningButton.Content" translate="yes">
+          <source>Yes, delete all</source>
+          <target state="final">確認全部刪除</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">App reset confirmation</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SeachHistorySettingItemNothingToShow" translate="yes">
+          <source>Nothing to show :)</source>
+          <target state="final">沒有可供顯示的內容 :)</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when search history is empty</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SearchHistorySettingItemButton.Text" translate="yes">
+          <source>Show search history</source>
+          <target state="final">顯示搜尋歷史紀錄</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Buttton to show the search history</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SearchHistorySettingItemDescription.Text" translate="yes">
+          <source>Remove items from your search history</source>
+          <target state="final">刪除搜尋歷史紀錄項目</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SearchHistorySettingItemTitle.Text" translate="yes">
+          <source>Search history</source>
+          <target state="final">搜尋歷史紀錄</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="StartupPageSettingItemDescription.Text" translate="yes">
+          <source>Go to...</source>
+          <target state="final">顯示</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates which page to open when the app launches (Subtitle)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="StartupPageSettingItemTitle.Text" translate="yes">
+          <source>On startup</source>
+          <target state="final">開啟時</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates which page to open when the app launches (Title)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SupportTheDevSettingItemDescription.Text" translate="yes">
+          <source>This app is free and ad-free, but developing it has costs, feel free to donate to the developer</source>
+          <target state="final">此 App 是免費且無廣告的，但是開發需它要付出。開發者接受捐款！</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SupportTheDevSettingItemTitle.Text" translate="yes">
+          <source>Support the developer</source>
+          <target state="final">支持開發者</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Section title on the settings page</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="TimelineSettingItemDescription.Text" translate="yes">
+          <source>When playing an episode, an activity is generated in the Windows Timeline</source>
+          <target state="final">播放單集時會在 Windows 時間軸內紀錄</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Description of the Windows timeline feature</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="TimelineSettingItemTitle.Text" translate="yes">
+          <source>Timeline</source>
+          <target state="final">時間軸</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Switch button text that enables/disables the Windows timeline feature</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="WhatIsNewButtonText.Content" translate="yes">
+          <source>Release notes</source>
+          <target state="final">版本更新內容</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the button that shows the release notes of the version</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="BackgroundTaskErrorInfoBarSettingItemTitle.Title" translate="yes">
+          <source>Your current settings do not allow FluentCast to be executed in the background</source>
+          <target state="final">目前的設定不允許 FluentCast 在背景執行</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Warning: Background task not allowed</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DownloadUpdateButton.Content" translate="yes">
+          <source>Download</source>
+          <target state="final">下載</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DownloadUpdateButton.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" translate="yes">
+          <source>Download update</source>
+          <target state="final">下載更新</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="InfoBarUpdate.Message" translate="yes">
+          <source>The app will restart when the update completes</source>
+          <target state="final">更新完成後，此 App 將會重新啟動</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="InfoBarUpdate.Title" translate="yes">
+          <source>A new version of FluentCast is available for download</source>
+          <target state="final">FluentCast 的一个新版本可供下载
+FluentCast 有新的版本可供下載</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file product-name="n/a" tool-id="MultilingualAppToolkit" build-num="n/a" target-language="zh-TW" datatype="xml" source-language="en-US" original="FLUENTCAST/STRINGS/EN-US/ERRORMESSAGES.RESW" product-version="n/a">
+    <header>
+      <tool tool-version="4.0.6916.0" tool-company="Microsoft" tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" />
+    </header>
+    <body>
+      <group datatype="resx" id="FLUENTCAST/STRINGS/EN-US/ERRORMESSAGES.RESW">
+        <trans-unit xml:space="preserve" approved="yes" id="CannotPlayTheEpisodeBadUrl" translate="yes">
+          <source>Cannot play the "{0}" episode (Invalid URL)</source>
+          <target state="final">無法播放「{0}」（連結無效）</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when cannot play an episode (Invalid URL)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="CloseAppButtonText.Content" translate="yes">
+          <source>Close app</source>
+          <target state="final">關閉 App</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="CouldntSyncCheckInternet" translate="yes">
+          <source>Couldn't sync. Check your internet connection</source>
+          <target state="final">同步失敗，請檢查您的網路連線</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when can't sync the podcasts</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DatabaseCorruptedErrorMessage" translate="yes">
+          <source>The database was deleted due to an error in the file</source>
+          <target state="final">由於檔案錯誤，資料庫已被移除</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Datanase corrupted error message </note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DatabaseCorruptedErrorTitle" translate="yes">
+          <source>Database is corrupted</source>
+          <target state="final">資料庫毀損</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Database corrupted error message (title)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ExportToOPMLButtonText.Content" translate="yes">
+          <source>Export your library</source>
+          <target state="final">匯出音樂庫</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="ResetAppButtonText.Content" translate="yes">
+          <source>Reset app data</source>
+          <target state="final">重置 App 資料</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SendReportButtonText.Content" translate="yes">
+          <source>Send report</source>
+          <target state="final">傳送報告</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="UnhandledExceptionMessageBody.Text" translate="yes">
+          <source>Do you want to send us the error report? This can help us fix this bug</source>
+          <target state="final">您想要發送錯誤報告給我們嗎？這能幫助我們更快找到問題</target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="UnhandledExceptionMessageTitle.Text" translate="yes">
+          <source>FluentCast Podcast ran into a problem and needs to restart</source>
+          <target state="final">FluentCast Podcast 發生錯誤需要重新啟動</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file product-name="n/a" tool-id="MultilingualAppToolkit" build-num="n/a" target-language="zh-TW" datatype="xml" source-language="en-US" original="FLUENTCAST/STRINGS/EN-US/PLAYBACKHISTORYPAGE.RESW" product-version="n/a">
+    <header>
+      <tool tool-version="4.0.6916.0" tool-company="Microsoft" tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" />
+    </header>
+    <body>
+      <group datatype="resx" id="FLUENTCAST/STRINGS/EN-US/PLAYBACKHISTORYPAGE.RESW">
+        <trans-unit xml:space="preserve" approved="yes" id="DeleteAllHistory.Text" translate="yes">
+          <source>Delete all history</source>
+          <target state="final">刪除所有歷史紀錄</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that delete all playback history</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DeleteAllHistoryDialogTitle" translate="yes">
+          <source>Delete all playback history?</source>
+          <target state="final">確定要刪除所有播放歷史紀錄嗎？</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Confirmation of deletion of all playback history (Message title)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DeleteEpisodeFromHistoryTitle" translate="yes">
+          <source>Delete item from playback history?</source>
+          <target state="final">從播放歷史紀錄刪除項目？</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Confirmation of deletion of an item from playback history (Message title)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EmptyListMessageTitle.Text" translate="yes">
+          <source>Your playback history is empty</source>
+          <target state="final">無播放歷史紀錄</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there are no episodes on playback history</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EpisodeHeaderDate.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes">
+          <source>Date</source>
+          <target state="final">日期</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Tooltip of date icon</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EpisodeHeaderEditor.Text" translate="yes">
+          <source>Editor</source>
+          <target state="final">製作人</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the "editor" column of the playback history episode list. Indicates the editor of the podcast episode</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EpisodeHeaderProgress.Text" translate="yes">
+          <source>Progress</source>
+          <target state="final">進度</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the "progress" column of the playback history episode list. Indicates the progress of how much the user has already played from the episode</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EpisodeHeaderTitle.Text" translate="yes">
+          <source>Title</source>
+          <target state="final">標題</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the "title" column of the playback history episode list. Indicates the title of the episode</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PageTitle.Text" translate="yes">
+          <source>Playback history</source>
+          <target state="final">播放歷史紀錄</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the playback history page</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RefreshHistory.Text" translate="yes">
+          <source>Refresh history</source>
+          <target state="final">更新歷史紀錄</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that refresh the list of playback history</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DeleteAllHistoryButton.Label" translate="yes">
+          <source>Delete all history</source>
+          <target state="final">刪除所有歷史紀錄</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that delete all playback history</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RefreshHistoryButton.Label" translate="yes">
+          <source>Refresh history</source>
+          <target state="final">更新歷史紀錄</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that refresh the list of playback history</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file product-name="n/a" tool-id="MultilingualAppToolkit" build-num="n/a" target-language="zh-TW" datatype="xml" source-language="en-US" original="FLUENTCAST/STRINGS/EN-US/EXPLOREPAGE.RESW" product-version="n/a">
+    <header>
+      <tool tool-version="4.0.6916.0" tool-company="Microsoft" tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" />
+    </header>
+    <body>
+      <group datatype="resx" id="FLUENTCAST/STRINGS/EN-US/EXPLOREPAGE.RESW">
+        <trans-unit xml:space="preserve" approved="yes" id="FeaturedPodcastsHeader.Header" translate="yes">
+          <source>Featured Podcasts</source>
+          <target state="final">精選 Podcast</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header text of the featured podcast list (explore page)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="GenresHeader.Text" translate="yes">
+          <source>Genres</source>
+          <target state="final">類別</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Genre list header text (explore page)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PageTitle.Text" translate="yes">
+          <source>Explore</source>
+          <target state="final">探索</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the page explore</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="SeeMoreButton.Text" translate="yes">
+          <source>See more</source>
+          <target state="final">查看更多</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Button text that shows more podcasts of a specific genre (explore page)</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file product-name="n/a" tool-id="MultilingualAppToolkit" build-num="n/a" target-language="zh-TW" datatype="xml" source-language="en-US" original="FLUENTCAST/STRINGS/EN-US/UNPLAYEDEPISODESPAGE.RESW" product-version="n/a">
+    <header>
+      <tool tool-version="4.0.6916.0" tool-company="Microsoft" tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" />
+    </header>
+    <body>
+      <group datatype="resx" id="FLUENTCAST/STRINGS/EN-US/UNPLAYEDEPISODESPAGE.RESW">
+        <trans-unit xml:space="preserve" approved="yes" id="EmptyListMessageButton.Text" translate="yes">
+          <source>Sync podcasts</source>
+          <target state="final">同步 Podcast</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that syncs all podcasts</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EmptyListMessageSubtitle.Text" translate="yes">
+          <source>Sync all your podcasts to get the latest episodes</source>
+          <target state="final">同步所有 Podcast 以取得最新單集</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there are no unplayed episodes (message subtitle)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="EmptyListMessageTitle.Text" translate="yes">
+          <source>No new episodes</source>
+          <target state="final">沒有新的單集</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there are no unplayed episodes (message title)</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="MarkAllAsPlayed.Text" translate="yes">
+          <source>Mark all as played</source>
+          <target state="final">全部標記為已播放</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Mark all unplayed episodes as played command text</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PageTitle.Text" translate="yes">
+          <source>Unplayed episodes</source>
+          <target state="final">尚未播放的單集</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the unplayed episodes page</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PlayAll.Text" translate="yes">
+          <source>Play all</source>
+          <target state="final">全部播放</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Play all unplayed episodes command text</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RefreshList.Text" translate="yes">
+          <source>Refresh</source>
+          <target state="final">更新</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Refresh unplayed episodes command text</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="DownloadAllButton.Label" translate="yes">
+          <source>Download all</source>
+          <target state="final">全部下載</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that downloads all episodes as from a list of episodes</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="MarkAllAsPlayedButton.Label" translate="yes">
+          <source>Mark all as played</source>
+          <target state="final">全部標記為已播放</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Mark all unplayed episodes as played command text</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="PlayAllButton.Label" translate="yes">
+          <source>Play all</source>
+          <target state="final">全部播放</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Play all unplayed episodes command text</note>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="RefreshListButton.Label" translate="yes">
+          <source>Refresh</source>
+          <target state="final">更新</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Refresh unplayed episodes command text</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
