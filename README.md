@@ -8,7 +8,7 @@ This repository contains the translations for the [FluentCast](https://fluentcas
 3. Upload the file to the repository
 4. Open a pull request
 
-### Progress
+### FluentCast translation Progress
 | Code  | Language | Progress |
 |------ |:--------:|-----:|
 | en-US | English | base language |
@@ -19,5 +19,6 @@ This repository contains the translations for the [FluentCast](https://fluentcas
 | ja-JP | Japanese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/99)
 | mt-MT | Maltese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
 | pt-BR | Portuguese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
-| zh-CN | Chinese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
+| zh-CN | Simplified Chinese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
+| zh-TW | Traditional Chinese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
 | ru-RU | Russian | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
