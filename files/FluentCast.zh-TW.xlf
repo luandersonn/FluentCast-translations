@@ -1411,11 +1411,11 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
           <source>Rate this app</source>
           <target state="final">對此 App 評分</target>
         </trans-unit>
-        <trans-unit xml:space="preserve" approved="yes" id="RateThisAppSettintItemOpenMSStoreButton.Content" translate="yes">
+        <trans-unit xml:space="preserve" approved="yes" id="RateThisAppSettingItemOpenMSStoreButton.Content" translate="yes">
           <source>Open Microsoft Store</source>
           <target state="final">開啟 Microsoft Store</target>
         </trans-unit>
-        <trans-unit xml:space="preserve" approved="yes" id="RateThisAppSettintItemRateButton.Text" translate="yes">
+        <trans-unit xml:space="preserve" approved="yes" id="RateThisAppSettingItemRateButton.Text" translate="yes">
           <source>Rate 5 stars</source>
           <target state="final">給予五星評價</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Text of the button to review the app</note>
@@ -1517,6 +1517,42 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
           <source>A new version of FluentCast is available for download</source>
           <target state="final">FluentCast 的一个新版本可供下载
 FluentCast 有新的版本可供下載</target>
+        </trans-unit>
+        <trans-unit id="MultiWindowSettingItemDescription.Text" translate="yes" xml:space="preserve">
+          <source>Adds the option "Open in new window" to the context menu</source>
+          <target state="new">Adds the option "Open in new window" to the context menu</target>
+        </trans-unit>
+        <trans-unit id="MultiWindowSettingItemTitle.Text" translate="yes" xml:space="preserve">
+          <source>Multi-window</source>
+          <target state="new">Multi-window</target>
+        </trans-unit>
+        <trans-unit id="CheckForUpdatesDailySettingItemTitle.Text" translate="yes" xml:space="preserve">
+          <source>Check for updates daily</source>
+          <target state="new">Check for updates daily</target>
+        </trans-unit>
+        <trans-unit id="DonateWithPaypalButton.Content" translate="yes" xml:space="preserve">
+          <source>Donate with Paypal</source>
+          <target state="new">Donate with Paypal</target>
+        </trans-unit>
+        <trans-unit id="ShareOnFacebookButton.Text" translate="yes" xml:space="preserve">
+          <source>Share on Facebook</source>
+          <target state="new">Share on Facebook</target>
+        </trans-unit>
+        <trans-unit id="ShareOnSocialNetworksSettingItemTitle.Text" translate="yes" xml:space="preserve">
+          <source>Share on social networks</source>
+          <target state="new">Share on social networks</target>
+        </trans-unit>
+        <trans-unit id="ShareOnXTwitterButton.Text" translate="yes" xml:space="preserve">
+          <source>Share on X (formerly Twitter)</source>
+          <target state="new">Share on X (formerly Twitter)</target>
+        </trans-unit>
+        <trans-unit id="LatestUpdateCheckLabel.Text" translate="yes" xml:space="preserve">
+          <source>Last checked:</source>
+          <target state="new">Last checked:</target>
+        </trans-unit>
+        <trans-unit id="DonateWithMSStoreSectionTitle.Text" translate="yes" xml:space="preserve">
+          <source>Donate via the Microsoft Store</source>
+          <target state="new">Donate via the Microsoft Store</target>
         </trans-unit>
       </group>
     </body>

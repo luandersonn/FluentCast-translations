@@ -12,13 +12,14 @@ This repository contains the translations for the [FluentCast](https://fluentcas
 | Code  | Language | Progress |
 |------ |:--------:|-----:|
 | en-US | English | base language |
-| de-DE | German | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/98)
-| es-ES | Spanish | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/98)
-| fr-FR | French | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/98)
-| it-IT | Italian | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/98)
-| ja-JP | Japanese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/99)
-| mt-MT | Maltese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
+| de-DE | German | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/95)
+| es-ES | Spanish | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/95)
+| fa-IR | Farsi (Iran) | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/97)
+| fr-FR | French | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/95)
+| it-IT | Italian | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/95)
+| ja-JP | Japanese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/97)
+| mt-MT | Maltese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/97)
 | pt-BR | Portuguese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
-| zh-CN | Simplified Chinese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
-| zh-TW | Traditional Chinese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
-| ru-RU | Russian | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
+| ru-RU | Russian | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/97)
+| zh-CN | Simplified Chinese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/97)
+| zh-TW | Traditional Chinese | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/97)

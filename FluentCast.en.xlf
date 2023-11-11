@@ -1,306 +1,211 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
-  <file datatype="xml" source-language="en-US" target-language="en" original="FLUENTCAST/STRINGS/EN-US/PODCASTSUBSCRIPTIONSPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en-US" target-language="en" original="FLUENTCAST/STRINGS/EN-US/NOWPLAYINGPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
     </header>
     <body>
-      <group id="FLUENTCAST/STRINGS/EN-US/PODCASTSUBSCRIPTIONSPAGE.RESW" datatype="resx">
-        <trans-unit id="AddPodcast.Text" translate="yes" xml:space="preserve">
-          <source>Add podcast</source>
-          <target state="new">Add podcast</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that adds a podcast by feed url</note>
+      <group id="FLUENTCAST/STRINGS/EN-US/NOWPLAYINGPAGE.RESW" datatype="resx">
+        <trans-unit id="ClearPlaylist.Text" translate="yes" xml:space="preserve">
+          <source>Clear playlist</source>
+          <target state="new">Clear playlist</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that removes all items from the playlist</note>
         </trans-unit>
-        <trans-unit id="AddPodcastButton.Label" translate="yes" xml:space="preserve">
-          <source>Add podcast</source>
-          <target state="new">Add podcast</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that adds a podcast by feed url</note>
+        <trans-unit id="ClearPlaylistButton.Label" translate="yes" xml:space="preserve">
+          <source>Clear playlist</source>
+          <target state="new">Clear playlist</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that removes all items from the playlist</note>
         </trans-unit>
         <trans-unit id="EmptyListMessageButton.Text" translate="yes" xml:space="preserve">
-          <source>Explore</source>
-          <target state="new">Explore</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there is no podcast in the subscription list (button text)</note>
+          <source>Shuffle all</source>
+          <target state="new">Shuffle all</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Shuffle all your library episodes</note>
         </trans-unit>
         <trans-unit id="EmptyListMessageSubtitle.Text" translate="yes" xml:space="preserve">
-          <source>Go to Explore page to find recommendations</source>
-          <target state="new">Go to Explore page to find recommendations</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there is no podcast in the subscription list (subtitle)</note>
+          <source>Shuffle everything in collection</source>
+          <target state="new">Shuffle everything in collection</target>
         </trans-unit>
         <trans-unit id="EmptyListMessageTitle.Text" translate="yes" xml:space="preserve">
-          <source>You haven't subscribed to any podcasts yet</source>
-          <target state="new">You haven't subscribed to any podcasts yet</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there is no podcast in the subscription list (title)</note>
+          <source>The playlist is empty</source>
+          <target state="new">The playlist is empty</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there are no episodes on playlist (message title)</note>
         </trans-unit>
         <trans-unit id="PageTitle.Text" translate="yes" xml:space="preserve">
-          <source>Subscriptions</source>
-          <target state="new">Subscriptions</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the page subscriptions</note>
-        </trans-unit>
-        <trans-unit id="RemoveAllSubscriptions.Label" translate="yes" xml:space="preserve">
-          <source>Remove all subscriptions</source>
-          <target state="new">Remove all subscriptions</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that removes all podcast subscriptions</note>
-        </trans-unit>
-        <trans-unit id="SyncPodcasts.Text" translate="yes" xml:space="preserve">
-          <source>Sync podcasts</source>
-          <target state="new">Sync podcasts</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that syncs all podcasts</note>
-        </trans-unit>
-        <trans-unit id="SyncPodcastsButton.Label" translate="yes" xml:space="preserve">
-          <source>Sync podcasts</source>
-          <target state="new">Sync podcasts</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that syncs all podcasts</note>
-        </trans-unit>
-        <trans-unit id="TeachingTipMessageTitle.Title" translate="yes" xml:space="preserve">
-          <source>Done!</source>
-          <target state="new">Done!</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Title of the flyout that displays messages of the actions performed on the subscription page (eg unsubscribe a podcast).</note>
+          <source>Now playing</source>
+          <target state="new">Now playing</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the now playing page</note>
         </trans-unit>
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en-US" target-language="en" original="FLUENTCAST/STRINGS/EN-US/GENRESSTRINGS.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en-US" target-language="en" original="FLUENTCAST/STRINGS/EN-US/EPISODELISTPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
     </header>
     <body>
-      <group id="FLUENTCAST/STRINGS/EN-US/GENRESSTRINGS.RESW" datatype="resx">
-        <trans-unit id="All" translate="yes" xml:space="preserve">
-          <source>All</source>
-          <target state="new">All</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">All podcast genres</note>
+      <group id="FLUENTCAST/STRINGS/EN-US/EPISODELISTPAGE.RESW" datatype="resx">
+        <trans-unit id="EmptyListMessage.Text" translate="yes" xml:space="preserve">
+          <source>Empty list</source>
+          <target state="new">Empty list</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message text indicating that the episode list is empty</note>
         </trans-unit>
-        <trans-unit id="Arts" translate="yes" xml:space="preserve">
-          <source>Arts</source>
-          <target state="new">Arts</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Arts podcast genre </note>
-        </trans-unit>
-        <trans-unit id="Business" translate="yes" xml:space="preserve">
-          <source>Business</source>
-          <target state="new">Business</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Business podcast genre</note>
-        </trans-unit>
-        <trans-unit id="Comedy" translate="yes" xml:space="preserve">
-          <source>Comedy</source>
-          <target state="new">Comedy</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Comedy podcast genre</note>
-        </trans-unit>
-        <trans-unit id="Design" translate="yes" xml:space="preserve">
-          <source>Design</source>
-          <target state="new">Design</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Design podcast genre</note>
-        </trans-unit>
-        <trans-unit id="Education" translate="yes" xml:space="preserve">
-          <source>Education</source>
-          <target state="new">Education</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Education podcast genre</note>
-        </trans-unit>
-        <trans-unit id="Fitness" translate="yes" xml:space="preserve">
-          <source>Fitness</source>
-          <target state="new">Fitness</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Fitness podcsat genre</note>
-        </trans-unit>
-        <trans-unit id="KidsAndFamily" translate="yes" xml:space="preserve">
-          <source>Kids and Family</source>
-          <target state="new">Kids and Family</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Kids and Family podcast genre</note>
-        </trans-unit>
-        <trans-unit id="Leisure" translate="yes" xml:space="preserve">
-          <source>Leisure</source>
-          <target state="new">Leisure</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Leisure podcast genre</note>
-        </trans-unit>
-        <trans-unit id="Music" translate="yes" xml:space="preserve">
-          <source>Music</source>
-          <target state="new">Music</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Music podcast genre</note>
-        </trans-unit>
-        <trans-unit id="News" translate="yes" xml:space="preserve">
-          <source>News</source>
-          <target state="new">News</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">News podcast genre</note>
-        </trans-unit>
-        <trans-unit id="Politics" translate="yes" xml:space="preserve">
-          <source>Politics</source>
-          <target state="new">Politics</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Politics podcast genre</note>
-        </trans-unit>
-        <trans-unit id="ReligionAndSpirituality" translate="yes" xml:space="preserve">
-          <source>Religion and Spirituality</source>
-          <target state="new">Religion and Spirituality</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Religion and Spirituality podcast genre</note>
-        </trans-unit>
-        <trans-unit id="Science" translate="yes" xml:space="preserve">
-          <source>Science</source>
-          <target state="new">Science</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Science podcast genre</note>
-        </trans-unit>
-        <trans-unit id="SocietyAndCulture" translate="yes" xml:space="preserve">
-          <source>Society and Culture</source>
-          <target state="new">Society and Culture</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Society and Culture podcast genre</note>
-        </trans-unit>
-        <trans-unit id="Sports" translate="yes" xml:space="preserve">
-          <source>Sports</source>
-          <target state="new">Sports</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Sports genre</note>
-        </trans-unit>
-        <trans-unit id="Technology" translate="yes" xml:space="preserve">
-          <source>Technology</source>
-          <target state="new">Technology</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Technology podcast genre</note>
-        </trans-unit>
-        <trans-unit id="TvAndFilm" translate="yes" xml:space="preserve">
-          <source>TV and Film</source>
-          <target state="new">TV and Film</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Tv and Film podcast genre</note>
-        </trans-unit>
-      </group>
-    </body>
-  </file>
-  <file datatype="xml" source-language="en-US" target-language="en" original="FLUENTCAST/STRINGS/EN-US/PLAYER.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
-    <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
-    </header>
-    <body>
-      <group id="FLUENTCAST/STRINGS/EN-US/PLAYER.RESW" datatype="resx">
-        <trans-unit id="EpisodeLengthTooltipText" translate="yes" xml:space="preserve">
-          <source>Episode length</source>
-          <target state="new">Episode length</target>
-        </trans-unit>
-        <trans-unit id="EpisodeTimeElapsedTextBlock.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
-          <source>Time elapsed</source>
-          <target state="new">Time elapsed</target>
-        </trans-unit>
-        <trans-unit id="EpisodeTimeRemainingTooltipText" translate="yes" xml:space="preserve">
-          <source>Time remaining</source>
-          <target state="new">Time remaining</target>
-        </trans-unit>
-        <trans-unit id="FullScreenButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
-          <source>Fullscreen</source>
-          <target state="new">Fullscreen</target>
+        <trans-unit id="MoreCommandsButton.Label" translate="yes" xml:space="preserve">
+          <source>More commands</source>
+          <target state="new">More commands</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the button that opens the list of more commands</note>
         </trans-unit>
         <trans-unit id="MoreCommandsButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>More commands</source>
           <target state="new">More commands</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Tooltip Text of the button that opens the list of more commands</note>
         </trans-unit>
-        <trans-unit id="MuteButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
-          <source>Mute/Unmute</source>
-          <target state="new">Mute/Unmute</target>
+        <trans-unit id="ShowOnlyUnplayed.Label" translate="yes" xml:space="preserve">
+          <source>Only unplayed</source>
+          <target state="new">Only unplayed</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the button that shows only the unplayed episodes .</note>
         </trans-unit>
-        <trans-unit id="NextCommand.Description" translate="yes" xml:space="preserve">
-          <source>Next episode</source>
-          <target state="new">Next episode</target>
+        <trans-unit id="ShowOnlyUnplayed.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Show only unplayed episodes</source>
+          <target state="new">Show only unplayed episodes</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Tooltip text of the button that shows only the unplayed episodes .</note>
         </trans-unit>
-        <trans-unit id="PictureInPicture.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
-          <source>Picture-In-Picture</source>
-          <target state="new">Picture-In-Picture</target>
+        <trans-unit id="ShowOnlyUnplayedTip.Subtitle" translate="yes" xml:space="preserve">
+          <source>Click here to view only unplayed episodes</source>
+          <target state="new">Click here to view only unplayed episodes</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">When the user opens a subscribed podcast for the first time, a popup appears to let them know that they can filter out episodes that have not been played. This is the subtitle of the popup.</note>
         </trans-unit>
-        <trans-unit id="PlaybackButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
-          <source>Reset to 1x</source>
-          <target state="new">Reset to 1x</target>
+        <trans-unit id="ShowOnlyUnplayedTip.Title" translate="yes" xml:space="preserve">
+          <source>Filter the episodes</source>
+          <target state="new">Filter the episodes</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">When the user opens a subscribed podcast for the first time, a popup appears to let them know that they can filter out episodes that have not been played. This is the title of the popup.</note>
         </trans-unit>
-        <trans-unit id="PlayCommand.Description" translate="yes" xml:space="preserve">
-          <source>Play/Pause</source>
-          <target state="new">Play/Pause</target>
+        <trans-unit id="SortByEpisodesButton.Text" translate="yes" xml:space="preserve">
+          <source>Sort episodes</source>
+          <target state="new">Sort episodes</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the button that sorts the episode list</note>
         </trans-unit>
-        <trans-unit id="PlayerBarChaptersHeader.Text" translate="yes" xml:space="preserve">
-          <source>Chapters</source>
-          <target state="new">Chapters</target>
+        <trans-unit id="SortByEpisodesButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Sort episodes</source>
+          <target state="new">Sort episodes</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Tooltip Text of the button that sorts the episode list</note>
         </trans-unit>
-        <trans-unit id="PreviousCommand.Description" translate="yes" xml:space="preserve">
-          <source>Previous episode</source>
-          <target state="new">Previous episode</target>
+        <trans-unit id="SortByNewest.Text" translate="yes" xml:space="preserve">
+          <source>Newest</source>
+          <target state="new">Newest</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates the order in which the episodes will be sorted. The newest ones first.</note>
         </trans-unit>
-        <trans-unit id="ResumePreviousPlaylist.Text" translate="yes" xml:space="preserve">
-          <source>Resume previous playlist</source>
-          <target state="new">Resume previous playlist</target>
+        <trans-unit id="SortByOldest.Text" translate="yes" xml:space="preserve">
+          <source>Oldest</source>
+          <target state="new">Oldest</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates the order in which the episodes will be sorted. The oldest ones first.</note>
         </trans-unit>
-        <trans-unit id="ResumePreviousPlaylistDescription.Text" translate="yes" xml:space="preserve">
-          <source>Continue listening where you left off</source>
-          <target state="new">Continue listening where you left off</target>
+        <trans-unit id="SortByTitle.Text" translate="yes" xml:space="preserve">
+          <source>Title</source>
+          <target state="new">Title</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates the order in which the episodes will be sorted. Sorted by the Title.</note>
         </trans-unit>
-        <trans-unit id="ResumePreviousPlaylistJumplistHeader.Text" translate="yes" xml:space="preserve">
-          <source>Playlist</source>
-          <target state="new">Playlist</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Jumplist Header</note>
+        <trans-unit id="SortByTitleDescending.Text" translate="yes" xml:space="preserve">
+          <source>Title (descending)</source>
+          <target state="new">Title (descending)</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Indicates the order in which the episodes will be sorted. Sorted by the Title (descending)</note>
         </trans-unit>
-        <trans-unit id="SkipBackCommand.Description" translate="yes" xml:space="preserve">
-          <source>Skip back 10 seconds</source>
-          <target state="new">Skip back 10 seconds</target>
+        <trans-unit id="SubscribeButton.Text" translate="yes" xml:space="preserve">
+          <source>Subscribe</source>
+          <target state="new">Subscribe</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Button text to subscribe to a podcast (podcast page)</note>
         </trans-unit>
-        <trans-unit id="SkipForwardCommand.Description" translate="yes" xml:space="preserve">
-          <source>Skip forward 30 seconds</source>
-          <target state="new">Skip forward 30 seconds</target>
+        <trans-unit id="SubscribeButtonText.CheckedText" translate="yes" xml:space="preserve">
+          <source>Unsubscribe</source>
+          <target state="new">Unsubscribe</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Button text to unsubscribe to a podcast (podcast page)</note>
+        </trans-unit>
+        <trans-unit id="SubscribeButtonText.UncheckedText" translate="yes" xml:space="preserve">
+          <source>Subscribe</source>
+          <target state="new">Subscribe</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Button text to subscribe to a podcast (podcast page)</note>
+        </trans-unit>
+        <trans-unit id="SubscribedButton.Text" translate="yes" xml:space="preserve">
+          <source>Subscribed</source>
+          <target state="new">Subscribed</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Button text that indicates that the podcast is subscribed.</note>
+        </trans-unit>
+        <trans-unit id="UnsubscribeButton.Text" translate="yes" xml:space="preserve">
+          <source>Unsubscribe</source>
+          <target state="new">Unsubscribe</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Button text to unsubscribe to a podcast (podcast page)</note>
+        </trans-unit>
+        <trans-unit id="UpdateButton.Label" translate="yes" xml:space="preserve">
+          <source>Update episodes</source>
+          <target state="new">Update episodes</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the button that updates the list of episodes of a podcast</note>
+        </trans-unit>
+        <trans-unit id="UpdateButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Update episodes (F5)</source>
+          <target state="new">Update episodes (F5)</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Tooltip Text of the button that updates the list of episodes of a podcast</note>
         </trans-unit>
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en-US" target-language="en" original="FLUENTCAST/STRINGS/EN-US/PLAYBACKHISTORYPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en-US" target-language="en" original="FLUENTCAST/STRINGS/EN-US/SEARCHPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
     </header>
     <body>
-      <group id="FLUENTCAST/STRINGS/EN-US/PLAYBACKHISTORYPAGE.RESW" datatype="resx">
-        <trans-unit id="DeleteAllHistory.Text" translate="yes" xml:space="preserve">
-          <source>Delete all history</source>
-          <target state="new">Delete all history</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that delete all playback history</note>
-        </trans-unit>
-        <trans-unit id="DeleteAllHistoryButton.Label" translate="yes" xml:space="preserve">
-          <source>Delete all history</source>
-          <target state="new">Delete all history</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that delete all playback history</note>
-        </trans-unit>
-        <trans-unit id="DeleteAllHistoryDialogTitle" translate="yes" xml:space="preserve">
-          <source>Delete all playback history?</source>
-          <target state="new">Delete all playback history?</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Confirmation of deletion of all playback history (Message title)</note>
-        </trans-unit>
-        <trans-unit id="DeleteEpisodeFromHistoryTitle" translate="yes" xml:space="preserve">
-          <source>Delete item from playback history?</source>
-          <target state="new">Delete item from playback history?</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Confirmation of deletion of an item from playback history (Message title)</note>
-        </trans-unit>
+      <group id="FLUENTCAST/STRINGS/EN-US/SEARCHPAGE.RESW" datatype="resx">
         <trans-unit id="EmptyListMessageTitle.Text" translate="yes" xml:space="preserve">
-          <source>Your playback history is empty</source>
-          <target state="new">Your playback history is empty</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there are no episodes on playback history</note>
+          <source>No results found</source>
+          <target state="new">No results found</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when search does not return results</note>
         </trans-unit>
-        <trans-unit id="EpisodeHeaderDate.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
-          <source>Date</source>
-          <target state="new">Date</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Tooltip of date icon</note>
+        <trans-unit id="LocalEpisodes.Header" translate="yes" xml:space="preserve">
+          <source>Episodes</source>
+          <target state="new">Episodes</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header title of the section that displays the results of the search for episodes in the database</note>
         </trans-unit>
-        <trans-unit id="EpisodeHeaderEditor.Text" translate="yes" xml:space="preserve">
-          <source>Editor</source>
-          <target state="new">Editor</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Header of the "editor" column of the playback history episode list. Indicates the editor of the podcast episode</note>
-        </trans-unit>
-        <trans-unit id="EpisodeHeaderProgress.Text" translate="yes" xml:space="preserve">
-          <source>Progress</source>
-          <target state="new">Progress</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Header of the "progress" column of the playback history episode list. Indicates the progress of how much the user has already played from the episode</note>
-        </trans-unit>
-        <trans-unit id="EpisodeHeaderTitle.Text" translate="yes" xml:space="preserve">
-          <source>Title</source>
-          <target state="new">Title</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Header of the "title" column of the playback history episode list. Indicates the title of the episode</note>
+        <trans-unit id="LocalPodcasts.Header" translate="yes" xml:space="preserve">
+          <source>Library</source>
+          <target state="new">Library</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header title of the section that displays the results of the search for podcasts in the database</note>
         </trans-unit>
         <trans-unit id="PageTitle.Text" translate="yes" xml:space="preserve">
-          <source>Playback history</source>
-          <target state="new">Playback history</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the playback history page</note>
+          <source>Search</source>
+          <target state="new">Search</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the page search</note>
         </trans-unit>
-        <trans-unit id="RefreshHistory.Text" translate="yes" xml:space="preserve">
-          <source>Refresh history</source>
-          <target state="new">Refresh history</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that refresh the list of playback history</note>
+        <trans-unit id="SearchSuggestionEpisodeReleaseText.Text" translate="yes" xml:space="preserve">
+          <source>Release</source>
+          <target state="new">Release</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Regarding the release date of an episode</note>
         </trans-unit>
-        <trans-unit id="RefreshHistoryButton.Label" translate="yes" xml:space="preserve">
-          <source>Refresh history</source>
-          <target state="new">Refresh history</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that refresh the list of playback history</note>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="en" original="FLUENTCAST/STRINGS/EN-US/EXPLOREPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="FLUENTCAST/STRINGS/EN-US/EXPLOREPAGE.RESW" datatype="resx">
+        <trans-unit id="FeaturedPodcastsHeader.Header" translate="yes" xml:space="preserve">
+          <source>Featured Podcasts</source>
+          <target state="new">Featured Podcasts</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header text of the featured podcast list (explore page)</note>
+        </trans-unit>
+        <trans-unit id="GenresHeader.Text" translate="yes" xml:space="preserve">
+          <source>Genres</source>
+          <target state="new">Genres</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Genre list header text (explore page)</note>
+        </trans-unit>
+        <trans-unit id="PageTitle.Text" translate="yes" xml:space="preserve">
+          <source>Explore</source>
+          <target state="new">Explore</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the page explore</note>
+        </trans-unit>
+        <trans-unit id="SeeMoreButton.Text" translate="yes" xml:space="preserve">
+          <source>See more</source>
+          <target state="new">See more</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Button text that shows more podcasts of a specific genre (explore page)</note>
         </trans-unit>
       </group>
     </body>
@@ -442,212 +347,510 @@
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en-US" target-language="en" original="FLUENTCAST/STRINGS/EN-US/EPISODELISTPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en-US" target-language="en" original="FLUENTCAST/STRINGS/EN-US/GENRESSTRINGS.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
     </header>
     <body>
-      <group id="FLUENTCAST/STRINGS/EN-US/EPISODELISTPAGE.RESW" datatype="resx">
-        <trans-unit id="EmptyListMessage.Text" translate="yes" xml:space="preserve">
-          <source>Empty list</source>
-          <target state="new">Empty list</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Message text indicating that the episode list is empty</note>
+      <group id="FLUENTCAST/STRINGS/EN-US/GENRESSTRINGS.RESW" datatype="resx">
+        <trans-unit id="All" translate="yes" xml:space="preserve">
+          <source>All</source>
+          <target state="new">All</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">All podcast genres</note>
         </trans-unit>
-        <trans-unit id="MoreCommandsButton.Label" translate="yes" xml:space="preserve">
-          <source>More commands</source>
-          <target state="new">More commands</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Text of the button that opens the list of more commands</note>
+        <trans-unit id="Arts" translate="yes" xml:space="preserve">
+          <source>Arts</source>
+          <target state="new">Arts</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Arts podcast genre </note>
+        </trans-unit>
+        <trans-unit id="Business" translate="yes" xml:space="preserve">
+          <source>Business</source>
+          <target state="new">Business</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Business podcast genre</note>
+        </trans-unit>
+        <trans-unit id="Comedy" translate="yes" xml:space="preserve">
+          <source>Comedy</source>
+          <target state="new">Comedy</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Comedy podcast genre</note>
+        </trans-unit>
+        <trans-unit id="Design" translate="yes" xml:space="preserve">
+          <source>Design</source>
+          <target state="new">Design</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Design podcast genre</note>
+        </trans-unit>
+        <trans-unit id="Education" translate="yes" xml:space="preserve">
+          <source>Education</source>
+          <target state="new">Education</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Education podcast genre</note>
+        </trans-unit>
+        <trans-unit id="Fitness" translate="yes" xml:space="preserve">
+          <source>Fitness</source>
+          <target state="new">Fitness</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Fitness podcsat genre</note>
+        </trans-unit>
+        <trans-unit id="KidsAndFamily" translate="yes" xml:space="preserve">
+          <source>Kids and Family</source>
+          <target state="new">Kids and Family</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Kids and Family podcast genre</note>
+        </trans-unit>
+        <trans-unit id="Leisure" translate="yes" xml:space="preserve">
+          <source>Leisure</source>
+          <target state="new">Leisure</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Leisure podcast genre</note>
+        </trans-unit>
+        <trans-unit id="Music" translate="yes" xml:space="preserve">
+          <source>Music</source>
+          <target state="new">Music</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Music podcast genre</note>
+        </trans-unit>
+        <trans-unit id="News" translate="yes" xml:space="preserve">
+          <source>News</source>
+          <target state="new">News</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">News podcast genre</note>
+        </trans-unit>
+        <trans-unit id="Politics" translate="yes" xml:space="preserve">
+          <source>Politics</source>
+          <target state="new">Politics</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Politics podcast genre</note>
+        </trans-unit>
+        <trans-unit id="ReligionAndSpirituality" translate="yes" xml:space="preserve">
+          <source>Religion and Spirituality</source>
+          <target state="new">Religion and Spirituality</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Religion and Spirituality podcast genre</note>
+        </trans-unit>
+        <trans-unit id="Science" translate="yes" xml:space="preserve">
+          <source>Science</source>
+          <target state="new">Science</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Science podcast genre</note>
+        </trans-unit>
+        <trans-unit id="SocietyAndCulture" translate="yes" xml:space="preserve">
+          <source>Society and Culture</source>
+          <target state="new">Society and Culture</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Society and Culture podcast genre</note>
+        </trans-unit>
+        <trans-unit id="Sports" translate="yes" xml:space="preserve">
+          <source>Sports</source>
+          <target state="new">Sports</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Sports genre</note>
+        </trans-unit>
+        <trans-unit id="Technology" translate="yes" xml:space="preserve">
+          <source>Technology</source>
+          <target state="new">Technology</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Technology podcast genre</note>
+        </trans-unit>
+        <trans-unit id="TvAndFilm" translate="yes" xml:space="preserve">
+          <source>TV and Film</source>
+          <target state="new">TV and Film</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Tv and Film podcast genre</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="en" original="FLUENTCAST/STRINGS/EN-US/PODCASTSUBSCRIPTIONSPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="FLUENTCAST/STRINGS/EN-US/PODCASTSUBSCRIPTIONSPAGE.RESW" datatype="resx">
+        <trans-unit id="AddPodcast.Text" translate="yes" xml:space="preserve">
+          <source>Add podcast</source>
+          <target state="new">Add podcast</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that adds a podcast by feed url</note>
+        </trans-unit>
+        <trans-unit id="AddPodcastButton.Label" translate="yes" xml:space="preserve">
+          <source>Add podcast</source>
+          <target state="new">Add podcast</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that adds a podcast by feed url</note>
+        </trans-unit>
+        <trans-unit id="EmptyListMessageButton.Text" translate="yes" xml:space="preserve">
+          <source>Explore</source>
+          <target state="new">Explore</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there is no podcast in the subscription list (button text)</note>
+        </trans-unit>
+        <trans-unit id="EmptyListMessageSubtitle.Text" translate="yes" xml:space="preserve">
+          <source>Go to Explore page to find recommendations</source>
+          <target state="new">Go to Explore page to find recommendations</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there is no podcast in the subscription list (subtitle)</note>
+        </trans-unit>
+        <trans-unit id="EmptyListMessageTitle.Text" translate="yes" xml:space="preserve">
+          <source>You haven't subscribed to any podcasts yet</source>
+          <target state="new">You haven't subscribed to any podcasts yet</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there is no podcast in the subscription list (title)</note>
+        </trans-unit>
+        <trans-unit id="PageTitle.Text" translate="yes" xml:space="preserve">
+          <source>Subscriptions</source>
+          <target state="new">Subscriptions</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the page subscriptions</note>
+        </trans-unit>
+        <trans-unit id="RemoveAllSubscriptions.Label" translate="yes" xml:space="preserve">
+          <source>Remove all subscriptions</source>
+          <target state="new">Remove all subscriptions</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that removes all podcast subscriptions</note>
+        </trans-unit>
+        <trans-unit id="SyncPodcasts.Text" translate="yes" xml:space="preserve">
+          <source>Sync podcasts</source>
+          <target state="new">Sync podcasts</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that syncs all podcasts</note>
+        </trans-unit>
+        <trans-unit id="SyncPodcastsButton.Label" translate="yes" xml:space="preserve">
+          <source>Sync podcasts</source>
+          <target state="new">Sync podcasts</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that syncs all podcasts</note>
+        </trans-unit>
+        <trans-unit id="TeachingTipMessageTitle.Title" translate="yes" xml:space="preserve">
+          <source>Done!</source>
+          <target state="new">Done!</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Title of the flyout that displays messages of the actions performed on the subscription page (eg unsubscribe a podcast).</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="en" original="FLUENTCAST/STRINGS/EN-US/PLAYER.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="FLUENTCAST/STRINGS/EN-US/PLAYER.RESW" datatype="resx">
+        <trans-unit id="EpisodeLengthTooltipText" translate="yes" xml:space="preserve">
+          <source>Episode length</source>
+          <target state="new">Episode length</target>
+        </trans-unit>
+        <trans-unit id="EpisodeTimeElapsedTextBlock.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Time elapsed</source>
+          <target state="new">Time elapsed</target>
+        </trans-unit>
+        <trans-unit id="EpisodeTimeRemainingTooltipText" translate="yes" xml:space="preserve">
+          <source>Time remaining</source>
+          <target state="new">Time remaining</target>
+        </trans-unit>
+        <trans-unit id="FullScreenButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Fullscreen</source>
+          <target state="new">Fullscreen</target>
         </trans-unit>
         <trans-unit id="MoreCommandsButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
           <source>More commands</source>
           <target state="new">More commands</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Tooltip Text of the button that opens the list of more commands</note>
         </trans-unit>
-        <trans-unit id="ShowOnlyUnplayed.Label" translate="yes" xml:space="preserve">
-          <source>Only unplayed</source>
-          <target state="new">Only unplayed</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Text of the button that shows only the unplayed episodes .</note>
+        <trans-unit id="MuteButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Mute/Unmute</source>
+          <target state="new">Mute/Unmute</target>
         </trans-unit>
-        <trans-unit id="ShowOnlyUnplayed.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
-          <source>Show only unplayed episodes</source>
-          <target state="new">Show only unplayed episodes</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Tooltip text of the button that shows only the unplayed episodes .</note>
+        <trans-unit id="NextCommand.Description" translate="yes" xml:space="preserve">
+          <source>Next episode</source>
+          <target state="new">Next episode</target>
         </trans-unit>
-        <trans-unit id="ShowOnlyUnplayedTip.Subtitle" translate="yes" xml:space="preserve">
-          <source>Click here to view only unplayed episodes</source>
-          <target state="new">Click here to view only unplayed episodes</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">When the user opens a subscribed podcast for the first time, a popup appears to let them know that they can filter out episodes that have not been played. This is the subtitle of the popup.</note>
+        <trans-unit id="PictureInPicture.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Picture-In-Picture</source>
+          <target state="new">Picture-In-Picture</target>
         </trans-unit>
-        <trans-unit id="ShowOnlyUnplayedTip.Title" translate="yes" xml:space="preserve">
-          <source>Filter the episodes</source>
-          <target state="new">Filter the episodes</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">When the user opens a subscribed podcast for the first time, a popup appears to let them know that they can filter out episodes that have not been played. This is the title of the popup.</note>
+        <trans-unit id="PlaybackButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Reset to 1x</source>
+          <target state="new">Reset to 1x</target>
         </trans-unit>
-        <trans-unit id="SortByEpisodesButton.Text" translate="yes" xml:space="preserve">
-          <source>Sort episodes</source>
-          <target state="new">Sort episodes</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Text of the button that sorts the episode list</note>
+        <trans-unit id="PlayCommand.Description" translate="yes" xml:space="preserve">
+          <source>Play/Pause</source>
+          <target state="new">Play/Pause</target>
         </trans-unit>
-        <trans-unit id="SortByEpisodesButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
-          <source>Sort episodes</source>
-          <target state="new">Sort episodes</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Tooltip Text of the button that sorts the episode list</note>
+        <trans-unit id="PlayerBarChaptersHeader.Text" translate="yes" xml:space="preserve">
+          <source>Chapters</source>
+          <target state="new">Chapters</target>
         </trans-unit>
-        <trans-unit id="SortByNewest.Text" translate="yes" xml:space="preserve">
-          <source>Newest</source>
-          <target state="new">Newest</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Indicates the order in which the episodes will be sorted. The newest ones first.</note>
+        <trans-unit id="PreviousCommand.Description" translate="yes" xml:space="preserve">
+          <source>Previous episode</source>
+          <target state="new">Previous episode</target>
         </trans-unit>
-        <trans-unit id="SortByOldest.Text" translate="yes" xml:space="preserve">
-          <source>Oldest</source>
-          <target state="new">Oldest</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Indicates the order in which the episodes will be sorted. The oldest ones first.</note>
+        <trans-unit id="ResumePreviousPlaylist.Text" translate="yes" xml:space="preserve">
+          <source>Resume previous playlist</source>
+          <target state="new">Resume previous playlist</target>
         </trans-unit>
-        <trans-unit id="SortByTitle.Text" translate="yes" xml:space="preserve">
-          <source>Title</source>
-          <target state="new">Title</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Indicates the order in which the episodes will be sorted. Sorted by the Title.</note>
+        <trans-unit id="ResumePreviousPlaylistDescription.Text" translate="yes" xml:space="preserve">
+          <source>Continue listening where you left off</source>
+          <target state="new">Continue listening where you left off</target>
         </trans-unit>
-        <trans-unit id="SortByTitleDescending.Text" translate="yes" xml:space="preserve">
-          <source>Title (descending)</source>
-          <target state="new">Title (descending)</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Indicates the order in which the episodes will be sorted. Sorted by the Title (descending)</note>
+        <trans-unit id="ResumePreviousPlaylistJumplistHeader.Text" translate="yes" xml:space="preserve">
+          <source>Playlist</source>
+          <target state="new">Playlist</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Jumplist Header</note>
         </trans-unit>
-        <trans-unit id="SubscribeButton.Text" translate="yes" xml:space="preserve">
-          <source>Subscribe</source>
-          <target state="new">Subscribe</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Button text to subscribe to a podcast (podcast page)</note>
+        <trans-unit id="SkipBackCommand.Description" translate="yes" xml:space="preserve">
+          <source>Skip back 10 seconds</source>
+          <target state="new">Skip back 10 seconds</target>
         </trans-unit>
-        <trans-unit id="SubscribeButtonText.CheckedText" translate="yes" xml:space="preserve">
-          <source>Unsubscribe</source>
-          <target state="new">Unsubscribe</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Button text to unsubscribe to a podcast (podcast page)</note>
-        </trans-unit>
-        <trans-unit id="SubscribeButtonText.UncheckedText" translate="yes" xml:space="preserve">
-          <source>Subscribe</source>
-          <target state="new">Subscribe</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Button text to subscribe to a podcast (podcast page)</note>
-        </trans-unit>
-        <trans-unit id="SubscribedButton.Text" translate="yes" xml:space="preserve">
-          <source>Subscribed</source>
-          <target state="new">Subscribed</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Button text that indicates that the podcast is subscribed.</note>
-        </trans-unit>
-        <trans-unit id="UnsubscribeButton.Text" translate="yes" xml:space="preserve">
-          <source>Unsubscribe</source>
-          <target state="new">Unsubscribe</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Button text to unsubscribe to a podcast (podcast page)</note>
-        </trans-unit>
-        <trans-unit id="UpdateButton.Label" translate="yes" xml:space="preserve">
-          <source>Update episodes</source>
-          <target state="new">Update episodes</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Text of the button that updates the list of episodes of a podcast</note>
-        </trans-unit>
-        <trans-unit id="UpdateButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
-          <source>Update episodes (F5)</source>
-          <target state="new">Update episodes (F5)</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Tooltip Text of the button that updates the list of episodes of a podcast</note>
+        <trans-unit id="SkipForwardCommand.Description" translate="yes" xml:space="preserve">
+          <source>Skip forward 30 seconds</source>
+          <target state="new">Skip forward 30 seconds</target>
         </trans-unit>
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en-US" target-language="en" original="FLUENTCAST/STRINGS/EN-US/EXPLOREPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en-US" target-language="en" original="FLUENTCAST/STRINGS/EN-US/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
     </header>
     <body>
-      <group id="FLUENTCAST/STRINGS/EN-US/EXPLOREPAGE.RESW" datatype="resx">
-        <trans-unit id="FeaturedPodcastsHeader.Header" translate="yes" xml:space="preserve">
-          <source>Featured Podcasts</source>
-          <target state="new">Featured Podcasts</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Header text of the featured podcast list (explore page)</note>
-        </trans-unit>
-        <trans-unit id="GenresHeader.Text" translate="yes" xml:space="preserve">
-          <source>Genres</source>
-          <target state="new">Genres</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Genre list header text (explore page)</note>
-        </trans-unit>
-        <trans-unit id="PageTitle.Text" translate="yes" xml:space="preserve">
-          <source>Explore</source>
-          <target state="new">Explore</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the page explore</note>
-        </trans-unit>
-        <trans-unit id="SeeMoreButton.Text" translate="yes" xml:space="preserve">
-          <source>See more</source>
-          <target state="new">See more</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Button text that shows more podcasts of a specific genre (explore page)</note>
-        </trans-unit>
-      </group>
-    </body>
-  </file>
-  <file datatype="xml" source-language="en-US" target-language="en" original="FLUENTCAST/STRINGS/EN-US/SEARCHPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
-    <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
-    </header>
-    <body>
-      <group id="FLUENTCAST/STRINGS/EN-US/SEARCHPAGE.RESW" datatype="resx">
-        <trans-unit id="EmptyListMessageTitle.Text" translate="yes" xml:space="preserve">
-          <source>No results found</source>
-          <target state="new">No results found</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when search does not return results</note>
-        </trans-unit>
-        <trans-unit id="LocalEpisodes.Header" translate="yes" xml:space="preserve">
-          <source>Episodes</source>
-          <target state="new">Episodes</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Header title of the section that displays the results of the search for episodes in the database</note>
-        </trans-unit>
-        <trans-unit id="LocalPodcasts.Header" translate="yes" xml:space="preserve">
-          <source>Library</source>
-          <target state="new">Library</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Header title of the section that displays the results of the search for podcasts in the database</note>
-        </trans-unit>
-        <trans-unit id="PageTitle.Text" translate="yes" xml:space="preserve">
+      <group id="FLUENTCAST/STRINGS/EN-US/RESOURCES.RESW" datatype="resx">
+        <trans-unit id="AutoSuggestBox.PlaceholderText" translate="yes" xml:space="preserve">
           <source>Search</source>
           <target state="new">Search</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the page search</note>
+          <note from="MultilingualBuild" annotates="source" priority="2">Placeholder from search box</note>
         </trans-unit>
-        <trans-unit id="SearchSuggestionEpisodeReleaseText.Text" translate="yes" xml:space="preserve">
-          <source>Release</source>
-          <target state="new">Release</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Regarding the release date of an episode</note>
+        <trans-unit id="CancelButtonText" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Cancel command</note>
+        </trans-unit>
+        <trans-unit id="CheckoutTheReleaseNotes" translate="yes" xml:space="preserve">
+          <source>Check out the release notes</source>
+          <target state="new">Check out the release notes</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Update notification subtitle</note>
+        </trans-unit>
+        <trans-unit id="CloseButton.Text" translate="yes" xml:space="preserve">
+          <source>Close</source>
+          <target state="new">Close</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Close command</note>
+        </trans-unit>
+        <trans-unit id="DateFormat" translate="yes" xml:space="preserve">
+          <source>MMM dd, yyyy</source>
+          <target state="new">MMM dd, yyyy</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">C# date format. Enter the date format in your language.  For example:
+en-us:  "[month abbreviated], [day] [year]" -&gt; "Dec, 25 2020"
+pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
+        </trans-unit>
+        <trans-unit id="DeleteButtonText" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="new">Delete</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Delete command</note>
+        </trans-unit>
+        <trans-unit id="DonationMessage.Text" translate="yes" xml:space="preserve">
+          <source>If you enjoy FluentCast, please consider making a donation to the developer</source>
+          <target state="new">If you enjoy FluentCast, please consider making a donation to the developer</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Ask to user to donation</note>
+        </trans-unit>
+        <trans-unit id="DownloadStatusCanceled" translate="yes" xml:space="preserve">
+          <source>Canceled</source>
+          <target state="new">Canceled</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue or status bar: canceled</note>
+        </trans-unit>
+        <trans-unit id="DownloadStatusCompleted" translate="yes" xml:space="preserve">
+          <source>Completed</source>
+          <target state="new">Completed</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue or status bar: completed</note>
+        </trans-unit>
+        <trans-unit id="DownloadStatusDownloading" translate="yes" xml:space="preserve">
+          <source>Downloading</source>
+          <target state="new">Downloading</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue: or status bar Downloading</note>
+        </trans-unit>
+        <trans-unit id="DownloadStatusDownloadingDetails" translate="yes" xml:space="preserve">
+          <source>Downloading: {0}% - ({1}/s)  |  Episode: {2}</source>
+          <target state="new">Downloading: {0}% - ({1}/s)  |  Episode: {2}</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">{0} - Percent of download
+{1} - Download speed per sec
+{2} - Episode title</note>
+        </trans-unit>
+        <trans-unit id="DownloadStatusError" translate="yes" xml:space="preserve">
+          <source>Error</source>
+          <target state="new">Error</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue or status bar: error</note>
+        </trans-unit>
+        <trans-unit id="DownloadStatusStarting" translate="yes" xml:space="preserve">
+          <source>Starting</source>
+          <target state="new">Starting</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue or status bar: starting</note>
+        </trans-unit>
+        <trans-unit id="DownloadStatusUnknown" translate="yes" xml:space="preserve">
+          <source>Unknown</source>
+          <target state="new">Unknown</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue or status bar: unknown</note>
+        </trans-unit>
+        <trans-unit id="DownloadStatusWaiting" translate="yes" xml:space="preserve">
+          <source>Waiting</source>
+          <target state="new">Waiting</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue or status bar: waiting</note>
+        </trans-unit>
+        <trans-unit id="DurationMinutes" translate="yes" xml:space="preserve">
+          <source>{0} min</source>
+          <target state="new">{0} min</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">The duration of something. {0} is the time in minutes (abbreviation)</note>
+        </trans-unit>
+        <trans-unit id="DurationSeconds" translate="yes" xml:space="preserve">
+          <source>{0} secs</source>
+          <target state="new">{0} secs</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">The duration of something. {0} is the time in seconds (abbreviation)</note>
+        </trans-unit>
+        <trans-unit id="EpisodesCountText.Text" translate="yes" xml:space="preserve">
+          <source>episode(s)</source>
+          <target state="new">episode(s)</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Used on this way: {0} episodes(s), where {0} is a number of episodes (Podcast details and unplayed episodes page)</note>
+        </trans-unit>
+        <trans-unit id="NotificationNewEpisodeAvailable" translate="yes" xml:space="preserve">
+          <source>New episode available</source>
+          <target state="new">New episode available</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">New episode notification (one episode)</note>
+        </trans-unit>
+        <trans-unit id="NotificationNewEpisodesAvailable" translate="yes" xml:space="preserve">
+          <source>{0} new episodes available</source>
+          <target state="new">{0} new episodes available</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">New episodes notification. {0} is the number of new episodes. {0} &gt;= 2</note>
+        </trans-unit>
+        <trans-unit id="OpenButtonText" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <target state="new">Open</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Open command</note>
+        </trans-unit>
+        <trans-unit id="RelativeTimeAMinuteAgo" translate="yes" xml:space="preserve">
+          <source>1 minute ago</source>
+          <target state="new">1 minute ago</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened 1 minute ago.</note>
+        </trans-unit>
+        <trans-unit id="RelativeTimeAMonthAgo" translate="yes" xml:space="preserve">
+          <source>1 month ago</source>
+          <target state="new">1 month ago</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened 1 month ago.</note>
+        </trans-unit>
+        <trans-unit id="RelativeTimeAnHourAgo" translate="yes" xml:space="preserve">
+          <source>1 hour ago</source>
+          <target state="new">1 hour ago</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened 1 hour ago.</note>
+        </trans-unit>
+        <trans-unit id="RelativeTimeAYearAgo" translate="yes" xml:space="preserve">
+          <source>1 year ago</source>
+          <target state="new">1 year ago</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened 1 year ago.</note>
+        </trans-unit>
+        <trans-unit id="RelativeTimeDaysAgo" translate="yes" xml:space="preserve">
+          <source>{0} days ago</source>
+          <target state="new">{0} days ago</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened N days ago. {0} is the number of days (e.g.: 5 days ago)</note>
+        </trans-unit>
+        <trans-unit id="RelativeTimeHoursAgo" translate="yes" xml:space="preserve">
+          <source>{0} hours ago</source>
+          <target state="new">{0} hours ago</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened N hours ago. {0} is the number of hours (e.g.: 3 hours ago)</note>
+        </trans-unit>
+        <trans-unit id="RelativeTimeJustNow" translate="yes" xml:space="preserve">
+          <source>Just now</source>
+          <target state="new">Just now</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened seconds ago. For example, an item was added to history seconds ago.</note>
+        </trans-unit>
+        <trans-unit id="RelativeTimeMinutesAgo" translate="yes" xml:space="preserve">
+          <source>{0} minutes ago</source>
+          <target state="new">{0} minutes ago</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened N minute ago. {0} is the number of minutes (e.g.: 15 minutes ago)</note>
+        </trans-unit>
+        <trans-unit id="RelativeTimeMonthsAgo" translate="yes" xml:space="preserve">
+          <source>{0} months ago</source>
+          <target state="new">{0} months ago</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened N months ago. {0} is the number of months (e.g.: 10 months ago)</note>
+        </trans-unit>
+        <trans-unit id="RelativeTimeNotAvailable" translate="yes" xml:space="preserve">
+          <source>N/A</source>
+          <target state="new">N/A</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means the relative time is not available. For example, how long ago an episode was released.</note>
+        </trans-unit>
+        <trans-unit id="RelativeTimeYearsAgo" translate="yes" xml:space="preserve">
+          <source>{0} years ago</source>
+          <target state="new">{0} years ago</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened N years ago. {0} is the number of years (e.g.: 3 years ago)</note>
+        </trans-unit>
+        <trans-unit id="RelativeTimeYesterday" translate="yes" xml:space="preserve">
+          <source>Yesterday</source>
+          <target state="new">Yesterday</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened Yesterday</note>
+        </trans-unit>
+        <trans-unit id="ReleaseNotesPopup.Title" translate="yes" xml:space="preserve">
+          <source>FluentCast has been updated</source>
+          <target state="new">FluentCast has been updated</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Popup title that appears when the app is updated</note>
+        </trans-unit>
+        <trans-unit id="RemoveBanner.Text" translate="yes" xml:space="preserve">
+          <source>Remove</source>
+          <target state="new">Remove</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that removes the banner from NavigationView</note>
+        </trans-unit>
+        <trans-unit id="ReviewMessage.Text" translate="yes" xml:space="preserve">
+          <source>If you like FluentCast, please rate it on Microsoft Store</source>
+          <target state="new">If you like FluentCast, please rate it on Microsoft Store</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Ask to user to review the app on Microsoft Store</note>
+        </trans-unit>
+        <trans-unit id="SomethingWentWrongMessage" translate="yes" xml:space="preserve">
+          <source>Something went wrong</source>
+          <target state="new">Something went wrong</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Error message</note>
+        </trans-unit>
+        <trans-unit id="UpdateHistoryButton.Text" translate="yes" xml:space="preserve">
+          <source>Release notes</source>
+          <target state="new">Release notes</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the release notes button. This text needs to be the size of the English version or smaller</note>
         </trans-unit>
       </group>
     </body>
   </file>
-  <file datatype="xml" source-language="en-US" target-language="en" original="FLUENTCAST/STRINGS/EN-US/NOWPLAYINGPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+  <file datatype="xml" source-language="en-US" target-language="en" original="FLUENTCAST/STRINGS/EN-US/PLAYBACKHISTORYPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
       <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
     </header>
     <body>
-      <group id="FLUENTCAST/STRINGS/EN-US/NOWPLAYINGPAGE.RESW" datatype="resx">
-        <trans-unit id="ClearPlaylist.Text" translate="yes" xml:space="preserve">
-          <source>Clear playlist</source>
-          <target state="new">Clear playlist</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that removes all items from the playlist</note>
+      <group id="FLUENTCAST/STRINGS/EN-US/PLAYBACKHISTORYPAGE.RESW" datatype="resx">
+        <trans-unit id="DeleteAllHistory.Text" translate="yes" xml:space="preserve">
+          <source>Delete all history</source>
+          <target state="new">Delete all history</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that delete all playback history</note>
         </trans-unit>
-        <trans-unit id="ClearPlaylistButton.Label" translate="yes" xml:space="preserve">
-          <source>Clear playlist</source>
-          <target state="new">Clear playlist</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that removes all items from the playlist</note>
+        <trans-unit id="DeleteAllHistoryButton.Label" translate="yes" xml:space="preserve">
+          <source>Delete all history</source>
+          <target state="new">Delete all history</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that delete all playback history</note>
         </trans-unit>
-        <trans-unit id="EmptyListMessageButton.Text" translate="yes" xml:space="preserve">
-          <source>Shuffle all</source>
-          <target state="new">Shuffle all</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Shuffle all your library episodes</note>
+        <trans-unit id="DeleteAllHistoryDialogTitle" translate="yes" xml:space="preserve">
+          <source>Delete all playback history?</source>
+          <target state="new">Delete all playback history?</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Confirmation of deletion of all playback history (Message title)</note>
         </trans-unit>
-        <trans-unit id="EmptyListMessageSubtitle.Text" translate="yes" xml:space="preserve">
-          <source>Shuffle everything in collection</source>
-          <target state="new">Shuffle everything in collection</target>
+        <trans-unit id="DeleteEpisodeFromHistoryTitle" translate="yes" xml:space="preserve">
+          <source>Delete item from playback history?</source>
+          <target state="new">Delete item from playback history?</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Confirmation of deletion of an item from playback history (Message title)</note>
         </trans-unit>
         <trans-unit id="EmptyListMessageTitle.Text" translate="yes" xml:space="preserve">
-          <source>The playlist is empty</source>
-          <target state="new">The playlist is empty</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there are no episodes on playlist (message title)</note>
+          <source>Your playback history is empty</source>
+          <target state="new">Your playback history is empty</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there are no episodes on playback history</note>
+        </trans-unit>
+        <trans-unit id="EpisodeHeaderDate.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target state="new">Date</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Tooltip of date icon</note>
+        </trans-unit>
+        <trans-unit id="EpisodeHeaderEditor.Text" translate="yes" xml:space="preserve">
+          <source>Editor</source>
+          <target state="new">Editor</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the "editor" column of the playback history episode list. Indicates the editor of the podcast episode</note>
+        </trans-unit>
+        <trans-unit id="EpisodeHeaderProgress.Text" translate="yes" xml:space="preserve">
+          <source>Progress</source>
+          <target state="new">Progress</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the "progress" column of the playback history episode list. Indicates the progress of how much the user has already played from the episode</note>
+        </trans-unit>
+        <trans-unit id="EpisodeHeaderTitle.Text" translate="yes" xml:space="preserve">
+          <source>Title</source>
+          <target state="new">Title</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the "title" column of the playback history episode list. Indicates the title of the episode</note>
         </trans-unit>
         <trans-unit id="PageTitle.Text" translate="yes" xml:space="preserve">
-          <source>Now playing</source>
-          <target state="new">Now playing</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the now playing page</note>
+          <source>Playback history</source>
+          <target state="new">Playback history</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the playback history page</note>
+        </trans-unit>
+        <trans-unit id="RefreshHistory.Text" translate="yes" xml:space="preserve">
+          <source>Refresh history</source>
+          <target state="new">Refresh history</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that refresh the list of playback history</note>
+        </trans-unit>
+        <trans-unit id="RefreshHistoryButton.Label" translate="yes" xml:space="preserve">
+          <source>Refresh history</source>
+          <target state="new">Refresh history</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that refresh the list of playback history</note>
         </trans-unit>
       </group>
     </body>
@@ -824,6 +1027,10 @@
           <target state="new">Check for updates</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Check app updates button</note>
         </trans-unit>
+        <trans-unit id="CheckForUpdatesDailySettingItemTitle.Text" translate="yes" xml:space="preserve">
+          <source>Check for updates daily</source>
+          <target state="new">Check for updates daily</target>
+        </trans-unit>
         <trans-unit id="CleanupSettingItemButton.Text" translate="yes" xml:space="preserve">
           <source>Clean now</source>
           <target state="new">Clean now</target>
@@ -857,6 +1064,10 @@
           <source>Data</source>
           <target state="new">Data</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Section title on the settings page</note>
+        </trans-unit>
+        <trans-unit id="DonateWithPaypalButton.Content" translate="yes" xml:space="preserve">
+          <source>Donate with Paypal</source>
+          <target state="new">Donate with Paypal</target>
         </trans-unit>
         <trans-unit id="DonationCategoryTitle.Text" translate="yes" xml:space="preserve">
           <source>Donation</source>
@@ -933,6 +1144,14 @@
           <target state="new">More apps</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Section title on the settings page</note>
         </trans-unit>
+        <trans-unit id="MultiWindowSettingItemDescription.Text" translate="yes" xml:space="preserve">
+          <source>Adds the option "Open in new window" to the context menu</source>
+          <target state="new">Adds the option "Open in new window" to the context menu</target>
+        </trans-unit>
+        <trans-unit id="MultiWindowSettingItemTitle.Text" translate="yes" xml:space="preserve">
+          <source>Multi-window</source>
+          <target state="new">Multi-window</target>
+        </trans-unit>
         <trans-unit id="NewEpisodesNotificationSettingItemDescription.Text" translate="yes" xml:space="preserve">
           <source>The app will send a notification when there are new episodes</source>
           <target state="new">The app will send a notification when there are new episodes</target>
@@ -966,11 +1185,11 @@
           <source>Rate this app</source>
           <target state="new">Rate this app</target>
         </trans-unit>
-        <trans-unit id="RateThisAppSettintItemOpenMSStoreButton.Content" translate="yes" xml:space="preserve">
+        <trans-unit id="RateThisAppSettingItemOpenMSStoreButton.Content" translate="yes" xml:space="preserve">
           <source>Open Microsoft Store</source>
           <target state="new">Open Microsoft Store</target>
         </trans-unit>
-        <trans-unit id="RateThisAppSettintItemRateButton.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="RateThisAppSettingItemRateButton.Text" translate="yes" xml:space="preserve">
           <source>Rate 5 stars</source>
           <target state="new">Rate 5 stars</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Text of the button to review the app</note>
@@ -1017,6 +1236,18 @@
           <source>Search history</source>
           <target state="new">Search history</target>
         </trans-unit>
+        <trans-unit id="ShareOnFacebookButton.Text" translate="yes" xml:space="preserve">
+          <source>Share on Facebook</source>
+          <target state="new">Share on Facebook</target>
+        </trans-unit>
+        <trans-unit id="ShareOnSocialNetworksSettingItemTitle.Text" translate="yes" xml:space="preserve">
+          <source>Share on social networks</source>
+          <target state="new">Share on social networks</target>
+        </trans-unit>
+        <trans-unit id="ShareOnXTwitterButton.Text" translate="yes" xml:space="preserve">
+          <source>Share on X (formerly Twitter)</source>
+          <target state="new">Share on X (formerly Twitter)</target>
+        </trans-unit>
         <trans-unit id="StartupPageSettingItemDescription.Text" translate="yes" xml:space="preserve">
           <source>Go to...</source>
           <target state="new">Go to...</target>
@@ -1050,6 +1281,14 @@
           <source>Release notes</source>
           <target state="new">Release notes</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Text of the button that shows the release notes of the version</note>
+        </trans-unit>
+        <trans-unit id="DonateWithMSStoreSectionTitle.Text" translate="yes" xml:space="preserve">
+          <source>Donate via the Microsoft Store</source>
+          <target state="new">Donate via the Microsoft Store</target>
+        </trans-unit>
+        <trans-unit id="LatestUpdateCheckLabel.Text" translate="yes" xml:space="preserve">
+          <source>Last checked:</source>
+          <target state="new">Last checked:</target>
         </trans-unit>
       </group>
     </body>
@@ -1528,209 +1767,6 @@
         <trans-unit id="YourCollectionIsEmptyMessage" translate="yes" xml:space="preserve">
           <source>Your collection is empty</source>
           <target state="new">Your collection is empty</target>
-        </trans-unit>
-      </group>
-    </body>
-  </file>
-  <file datatype="xml" source-language="en-US" target-language="en" original="FLUENTCAST/STRINGS/EN-US/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
-    <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
-    </header>
-    <body>
-      <group id="FLUENTCAST/STRINGS/EN-US/RESOURCES.RESW" datatype="resx">
-        <trans-unit id="AutoSuggestBox.PlaceholderText" translate="yes" xml:space="preserve">
-          <source>Search</source>
-          <target state="new">Search</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Placeholder from search box</note>
-        </trans-unit>
-        <trans-unit id="CancelButtonText" translate="yes" xml:space="preserve">
-          <source>Cancel</source>
-          <target state="new">Cancel</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Cancel command</note>
-        </trans-unit>
-        <trans-unit id="CheckoutTheReleaseNotes" translate="yes" xml:space="preserve">
-          <source>Check out the release notes</source>
-          <target state="new">Check out the release notes</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Update notification subtitle</note>
-        </trans-unit>
-        <trans-unit id="CloseButton.Text" translate="yes" xml:space="preserve">
-          <source>Close</source>
-          <target state="new">Close</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Close command</note>
-        </trans-unit>
-        <trans-unit id="DateFormat" translate="yes" xml:space="preserve">
-          <source>MMM dd, yyyy</source>
-          <target state="new">MMM dd, yyyy</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">C# date format. Enter the date format in your language.  For example:
-en-us:  "[month abbreviated], [day] [year]" -&gt; "Dec, 25 2020"
-pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
-        </trans-unit>
-        <trans-unit id="DeleteButtonText" translate="yes" xml:space="preserve">
-          <source>Delete</source>
-          <target state="new">Delete</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Delete command</note>
-        </trans-unit>
-        <trans-unit id="DonationMessage.Text" translate="yes" xml:space="preserve">
-          <source>If you enjoy FluentCast, please consider making a donation to the developer</source>
-          <target state="new">If you enjoy FluentCast, please consider making a donation to the developer</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Ask to user to donation</note>
-        </trans-unit>
-        <trans-unit id="DownloadStatusCanceled" translate="yes" xml:space="preserve">
-          <source>Canceled</source>
-          <target state="new">Canceled</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue or status bar: canceled</note>
-        </trans-unit>
-        <trans-unit id="DownloadStatusCompleted" translate="yes" xml:space="preserve">
-          <source>Completed</source>
-          <target state="new">Completed</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue or status bar: completed</note>
-        </trans-unit>
-        <trans-unit id="DownloadStatusDownloading" translate="yes" xml:space="preserve">
-          <source>Downloading</source>
-          <target state="new">Downloading</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue: or status bar Downloading</note>
-        </trans-unit>
-        <trans-unit id="DownloadStatusDownloadingDetails" translate="yes" xml:space="preserve">
-          <source>Downloading: {0}% - ({1}/s)  |  Episode: {2}</source>
-          <target state="new">Downloading: {0}% - ({1}/s)  |  Episode: {2}</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">{0} - Percent of download
-{1} - Download speed per sec
-{2} - Episode title</note>
-        </trans-unit>
-        <trans-unit id="DownloadStatusError" translate="yes" xml:space="preserve">
-          <source>Error</source>
-          <target state="new">Error</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue or status bar: error</note>
-        </trans-unit>
-        <trans-unit id="DownloadStatusStarting" translate="yes" xml:space="preserve">
-          <source>Starting</source>
-          <target state="new">Starting</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue or status bar: starting</note>
-        </trans-unit>
-        <trans-unit id="DownloadStatusUnknown" translate="yes" xml:space="preserve">
-          <source>Unknown</source>
-          <target state="new">Unknown</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue or status bar: unknown</note>
-        </trans-unit>
-        <trans-unit id="DownloadStatusWaiting" translate="yes" xml:space="preserve">
-          <source>Waiting</source>
-          <target state="new">Waiting</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue or status bar: waiting</note>
-        </trans-unit>
-        <trans-unit id="DurationMinutes" translate="yes" xml:space="preserve">
-          <source>{0} min</source>
-          <target state="new">{0} min</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">The duration of something. {0} is the time in minutes (abbreviation)</note>
-        </trans-unit>
-        <trans-unit id="DurationSeconds" translate="yes" xml:space="preserve">
-          <source>{0} secs</source>
-          <target state="new">{0} secs</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">The duration of something. {0} is the time in seconds (abbreviation)</note>
-        </trans-unit>
-        <trans-unit id="EpisodesCountText.Text" translate="yes" xml:space="preserve">
-          <source>episode(s)</source>
-          <target state="new">episode(s)</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Used on this way: {0} episodes(s), where {0} is a number of episodes (Podcast details and unplayed episodes page)</note>
-        </trans-unit>
-        <trans-unit id="NotificationNewEpisodeAvailable" translate="yes" xml:space="preserve">
-          <source>New episode available</source>
-          <target state="new">New episode available</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">New episode notification (one episode)</note>
-        </trans-unit>
-        <trans-unit id="NotificationNewEpisodesAvailable" translate="yes" xml:space="preserve">
-          <source>{0} new episodes available</source>
-          <target state="new">{0} new episodes available</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">New episodes notification. {0} is the number of new episodes. {0} &gt;= 2</note>
-        </trans-unit>
-        <trans-unit id="OpenButtonText" translate="yes" xml:space="preserve">
-          <source>Open</source>
-          <target state="new">Open</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Open command</note>
-        </trans-unit>
-        <trans-unit id="RelativeTimeAMinuteAgo" translate="yes" xml:space="preserve">
-          <source>1 minute ago</source>
-          <target state="new">1 minute ago</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened 1 minute ago.</note>
-        </trans-unit>
-        <trans-unit id="RelativeTimeAMonthAgo" translate="yes" xml:space="preserve">
-          <source>1 month ago</source>
-          <target state="new">1 month ago</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened 1 month ago.</note>
-        </trans-unit>
-        <trans-unit id="RelativeTimeAnHourAgo" translate="yes" xml:space="preserve">
-          <source>1 hour ago</source>
-          <target state="new">1 hour ago</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened 1 hour ago.</note>
-        </trans-unit>
-        <trans-unit id="RelativeTimeAYearAgo" translate="yes" xml:space="preserve">
-          <source>1 year ago</source>
-          <target state="new">1 year ago</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened 1 year ago.</note>
-        </trans-unit>
-        <trans-unit id="RelativeTimeDaysAgo" translate="yes" xml:space="preserve">
-          <source>{0} days ago</source>
-          <target state="new">{0} days ago</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened N days ago. {0} is the number of days (e.g.: 5 days ago)</note>
-        </trans-unit>
-        <trans-unit id="RelativeTimeHoursAgo" translate="yes" xml:space="preserve">
-          <source>{0} hours ago</source>
-          <target state="new">{0} hours ago</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened N hours ago. {0} is the number of hours (e.g.: 3 hours ago)</note>
-        </trans-unit>
-        <trans-unit id="RelativeTimeJustNow" translate="yes" xml:space="preserve">
-          <source>Just now</source>
-          <target state="new">Just now</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened seconds ago. For example, an item was added to history seconds ago.</note>
-        </trans-unit>
-        <trans-unit id="RelativeTimeMinutesAgo" translate="yes" xml:space="preserve">
-          <source>{0} minutes ago</source>
-          <target state="new">{0} minutes ago</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened N minute ago. {0} is the number of minutes (e.g.: 15 minutes ago)</note>
-        </trans-unit>
-        <trans-unit id="RelativeTimeMonthsAgo" translate="yes" xml:space="preserve">
-          <source>{0} months ago</source>
-          <target state="new">{0} months ago</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened N months ago. {0} is the number of months (e.g.: 10 months ago)</note>
-        </trans-unit>
-        <trans-unit id="RelativeTimeNotAvailable" translate="yes" xml:space="preserve">
-          <source>N/A</source>
-          <target state="new">N/A</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">It means the relative time is not available. For example, how long ago an episode was released.</note>
-        </trans-unit>
-        <trans-unit id="RelativeTimeYearsAgo" translate="yes" xml:space="preserve">
-          <source>{0} years ago</source>
-          <target state="new">{0} years ago</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened N years ago. {0} is the number of years (e.g.: 3 years ago)</note>
-        </trans-unit>
-        <trans-unit id="RelativeTimeYesterday" translate="yes" xml:space="preserve">
-          <source>Yesterday</source>
-          <target state="new">Yesterday</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened Yesterday</note>
-        </trans-unit>
-        <trans-unit id="ReleaseNotesPopup.Title" translate="yes" xml:space="preserve">
-          <source>FluentCast has been updated</source>
-          <target state="new">FluentCast has been updated</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Popup title that appears when the app is updated</note>
-        </trans-unit>
-        <trans-unit id="RemoveBanner.Text" translate="yes" xml:space="preserve">
-          <source>Remove</source>
-          <target state="new">Remove</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that removes the banner from NavigationView</note>
-        </trans-unit>
-        <trans-unit id="ReviewMessage.Text" translate="yes" xml:space="preserve">
-          <source>If you like FluentCast, please rate it on Microsoft Store</source>
-          <target state="new">If you like FluentCast, please rate it on Microsoft Store</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Ask to user to review the app on Microsoft Store</note>
-        </trans-unit>
-        <trans-unit id="SomethingWentWrongMessage" translate="yes" xml:space="preserve">
-          <source>Something went wrong</source>
-          <target state="new">Something went wrong</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Error message</note>
-        </trans-unit>
-        <trans-unit id="UpdateHistoryButton.Text" translate="yes" xml:space="preserve">
-          <source>Release notes</source>
-          <target state="new">Release notes</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Text of the release notes button. This text needs to be the size of the English version or smaller</note>
         </trans-unit>
       </group>
     </body>

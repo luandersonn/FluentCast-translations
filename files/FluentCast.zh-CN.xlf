@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" source-language="en-US" target-language="zh-CN" original="FLUENTCAST/STRINGS/EN-US/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
@@ -890,12 +890,12 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
         <trans-unit id="MarkedAsPlayed" translate="yes" xml:space="preserve">
           <source>Marked as played</source>
           <target state="translated">已经标记为已播放</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the user mark an episode as played</note>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed whe the user mark an episode as played</note>
         </trans-unit>
         <trans-unit id="MarkedAsUnplayed" translate="yes" xml:space="preserve">
           <source>Marked as unplayed</source>
           <target state="translated">已经标记为未播放</target>
-          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the user mark an episode as unplayed</note>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed whe the user mark an episode as unplayed</note>
         </trans-unit>
         <trans-unit id="NoEpisodeToPlay" translate="yes" xml:space="preserve">
           <source>No episode to play</source>
@@ -1411,11 +1411,11 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
           <source>Rate this app</source>
           <target state="translated">对此应用程序评分</target>
         </trans-unit>
-        <trans-unit id="RateThisAppSettintItemOpenMSStoreButton.Content" translate="yes" xml:space="preserve">
+        <trans-unit id="RateThisAppSettingItemOpenMSStoreButton.Content" translate="yes" xml:space="preserve">
           <source>Open Microsoft Store</source>
           <target state="translated">打开 Microsoft Store</target>
         </trans-unit>
-        <trans-unit id="RateThisAppSettintItemRateButton.Text" translate="yes" xml:space="preserve">
+        <trans-unit id="RateThisAppSettingItemRateButton.Text" translate="yes" xml:space="preserve">
           <source>Rate 5 stars</source>
           <target state="translated">五星好评</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Text of the button to review the app</note>
@@ -1516,6 +1516,42 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
         <trans-unit id="InfoBarUpdate.Title" translate="yes" xml:space="preserve">
           <source>A new version of FluentCast is available for download</source>
           <target state="translated">FluentCast 的一个新版本可供下载</target>
+        </trans-unit>
+        <trans-unit id="MultiWindowSettingItemDescription.Text" translate="yes" xml:space="preserve">
+          <source>Adds the option "Open in new window" to the context menu</source>
+          <target state="new">Adds the option "Open in new window" to the context menu</target>
+        </trans-unit>
+        <trans-unit id="MultiWindowSettingItemTitle.Text" translate="yes" xml:space="preserve">
+          <source>Multi-window</source>
+          <target state="new">Multi-window</target>
+        </trans-unit>
+        <trans-unit id="CheckForUpdatesDailySettingItemTitle.Text" translate="yes" xml:space="preserve">
+          <source>Check for updates daily</source>
+          <target state="new">Check for updates daily</target>
+        </trans-unit>
+        <trans-unit id="DonateWithPaypalButton.Content" translate="yes" xml:space="preserve">
+          <source>Donate with Paypal</source>
+          <target state="new">Donate with Paypal</target>
+        </trans-unit>
+        <trans-unit id="ShareOnFacebookButton.Text" translate="yes" xml:space="preserve">
+          <source>Share on Facebook</source>
+          <target state="new">Share on Facebook</target>
+        </trans-unit>
+        <trans-unit id="ShareOnSocialNetworksSettingItemTitle.Text" translate="yes" xml:space="preserve">
+          <source>Share on social networks</source>
+          <target state="new">Share on social networks</target>
+        </trans-unit>
+        <trans-unit id="ShareOnXTwitterButton.Text" translate="yes" xml:space="preserve">
+          <source>Share on X (formerly Twitter)</source>
+          <target state="new">Share on X (formerly Twitter)</target>
+        </trans-unit>
+        <trans-unit id="LatestUpdateCheckLabel.Text" translate="yes" xml:space="preserve">
+          <source>Last checked:</source>
+          <target state="new">Last checked:</target>
+        </trans-unit>
+        <trans-unit id="DonateWithMSStoreSectionTitle.Text" translate="yes" xml:space="preserve">
+          <source>Donate via the Microsoft Store</source>
+          <target state="new">Donate via the Microsoft Store</target>
         </trans-unit>
       </group>
     </body>
