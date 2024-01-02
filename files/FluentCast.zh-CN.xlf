@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" source-language="en-US" target-language="zh-CN" original="FLUENTCAST/STRINGS/EN-US/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/RESOURCES.RESW" datatype="resx">
@@ -205,7 +205,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
   </file>
   <file datatype="xml" source-language="en-US" target-language="zh-CN" original="FLUENTCAST/STRINGS/EN-US/SEARCHPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/SEARCHPAGE.RESW" datatype="resx">
@@ -239,7 +239,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
   </file>
   <file datatype="xml" source-language="en-US" target-language="zh-CN" original="FLUENTCAST/STRINGS/EN-US/PLAYER.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/PLAYER.RESW" datatype="resx">
@@ -317,7 +317,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
   </file>
   <file datatype="xml" source-language="en-US" target-language="zh-CN" original="FLUENTCAST/STRINGS/EN-US/EPISODELISTPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/EPISODELISTPAGE.RESW" datatype="resx">
@@ -426,7 +426,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
   </file>
   <file datatype="xml" source-language="en-US" target-language="zh-CN" original="FLUENTCAST/STRINGS/EN-US/GENRESSTRINGS.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/GENRESSTRINGS.RESW" datatype="resx">
@@ -525,7 +525,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
   </file>
   <file datatype="xml" source-language="en-US" target-language="zh-CN" original="FLUENTCAST/STRINGS/EN-US/DOWNLOADSPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/DOWNLOADSPAGE.RESW" datatype="resx">
@@ -609,7 +609,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
   </file>
   <file datatype="xml" source-language="en-US" target-language="zh-CN" original="FLUENTCAST/STRINGS/EN-US/PODCASTSUBSCRIPTIONSPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/PODCASTSUBSCRIPTIONSPAGE.RESW" datatype="resx">
@@ -668,7 +668,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
   </file>
   <file datatype="xml" source-language="en-US" target-language="zh-CN" original="FLUENTCAST/STRINGS/EN-US/VIEWITEM.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/VIEWITEM.RESW" datatype="resx">
@@ -1146,7 +1146,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
   </file>
   <file datatype="xml" source-language="en-US" target-language="zh-CN" original="FLUENTCAST/STRINGS/EN-US/NOWPLAYINGPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/NOWPLAYINGPAGE.RESW" datatype="resx">
@@ -1184,7 +1184,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
   </file>
   <file datatype="xml" source-language="en-US" target-language="zh-CN" original="FLUENTCAST/STRINGS/EN-US/SETTINGSPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/SETTINGSPAGE.RESW" datatype="resx">
@@ -1519,46 +1519,46 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
         </trans-unit>
         <trans-unit id="MultiWindowSettingItemDescription.Text" translate="yes" xml:space="preserve">
           <source>Adds the option "Open in new window" to the context menu</source>
-          <target state="new">Adds the option "Open in new window" to the context menu</target>
+          <target state="translated">在右键菜单中添加“在新窗口中打开”选项</target>
         </trans-unit>
         <trans-unit id="MultiWindowSettingItemTitle.Text" translate="yes" xml:space="preserve">
           <source>Multi-window</source>
-          <target state="new">Multi-window</target>
+          <target state="translated">多窗口模式</target>
         </trans-unit>
         <trans-unit id="CheckForUpdatesDailySettingItemTitle.Text" translate="yes" xml:space="preserve">
           <source>Check for updates daily</source>
-          <target state="new">Check for updates daily</target>
+          <target state="translated">每天检查更新</target>
         </trans-unit>
         <trans-unit id="DonateWithPaypalButton.Content" translate="yes" xml:space="preserve">
           <source>Donate with Paypal</source>
-          <target state="new">Donate with Paypal</target>
+          <target state="translated">通过PayPal捐赠</target>
         </trans-unit>
         <trans-unit id="ShareOnFacebookButton.Text" translate="yes" xml:space="preserve">
           <source>Share on Facebook</source>
-          <target state="new">Share on Facebook</target>
+          <target state="translated">分享到Facebook</target>
         </trans-unit>
         <trans-unit id="ShareOnSocialNetworksSettingItemTitle.Text" translate="yes" xml:space="preserve">
           <source>Share on social networks</source>
-          <target state="new">Share on social networks</target>
+          <target state="translated">分享到社交媒体</target>
         </trans-unit>
         <trans-unit id="ShareOnXTwitterButton.Text" translate="yes" xml:space="preserve">
           <source>Share on X (formerly Twitter)</source>
-          <target state="new">Share on X (formerly Twitter)</target>
+          <target state="translated">在 X（原 Twitter）上分享</target>
         </trans-unit>
         <trans-unit id="LatestUpdateCheckLabel.Text" translate="yes" xml:space="preserve">
           <source>Last checked:</source>
-          <target state="new">Last checked:</target>
+          <target state="translated">上次检查:</target>
         </trans-unit>
         <trans-unit id="DonateWithMSStoreSectionTitle.Text" translate="yes" xml:space="preserve">
           <source>Donate via the Microsoft Store</source>
-          <target state="new">Donate via the Microsoft Store</target>
+          <target state="translated">通过Microsoft Store捐赠</target>
         </trans-unit>
       </group>
     </body>
   </file>
   <file datatype="xml" source-language="en-US" target-language="zh-CN" original="FLUENTCAST/STRINGS/EN-US/ERRORMESSAGES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/ERRORMESSAGES.RESW" datatype="resx">
@@ -1611,7 +1611,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
   </file>
   <file datatype="xml" source-language="en-US" target-language="zh-CN" original="FLUENTCAST/STRINGS/EN-US/PLAYBACKHISTORYPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/PLAYBACKHISTORYPAGE.RESW" datatype="resx">
@@ -1680,7 +1680,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
   </file>
   <file datatype="xml" source-language="en-US" target-language="zh-CN" original="FLUENTCAST/STRINGS/EN-US/EXPLOREPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/EXPLOREPAGE.RESW" datatype="resx">
@@ -1709,7 +1709,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
   </file>
   <file datatype="xml" source-language="en-US" target-language="zh-CN" original="FLUENTCAST/STRINGS/EN-US/UNPLAYEDEPISODESPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
     </header>
     <body>
       <group id="FLUENTCAST/STRINGS/EN-US/UNPLAYEDEPISODESPAGE.RESW" datatype="resx">
