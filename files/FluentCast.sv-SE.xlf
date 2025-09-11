@@ -1272,7 +1272,6 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
     <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the user wants to add a podcast by url feed (Message title)</note>
   </trans-unit>
   <trans-unit id="EpisodeAddedToDownloadQueue" translate="yes" xml:space="preserve">
-
     <source>Episode added to download queue</source>
     <target state="translated">Avsnitt tillagt i hämtningskö</target>
     <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the episode is added to download queue</note>
