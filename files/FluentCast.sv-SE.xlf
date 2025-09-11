@@ -18,7 +18,7 @@
         </trans-unit>
         <trans-unit id="PageTitle.Text" translate="yes" xml:space="preserve">
           <source>Explore</source>
-          <target state="translated">Utforska</target>
+          <target state="translated">Upptäck</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the page explore</note>
         </trans-unit>
         <trans-unit id="SeeMoreButton.Text" translate="yes" xml:space="preserve">
