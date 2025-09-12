@@ -125,7 +125,7 @@
         </trans-unit>
         <trans-unit id="EmptyListMessageSubtitle.Text" translate="yes" xml:space="preserve">
           <source>Shuffle everything in collection</source>
-          <target state="translated">Blanda allt i samlingen</target>
+          <target state="translated">Klicka nedan om du vill lägga till blandade avsnitt från poddar du följer</target>
         </trans-unit>
         <trans-unit id="EmptyListMessageTitle.Text" translate="yes" xml:space="preserve">
           <source>The playlist is empty</source>
@@ -134,7 +134,7 @@
         </trans-unit>
         <trans-unit id="PageTitle.Text" translate="yes" xml:space="preserve">
           <source>Now playing</source>
-          <target state="translated">Spelas nu</target>
+          <target state="translated">Spellista</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the now playing page</note>
         </trans-unit>
         <trans-unit id="ClearPlaylistButton.Label" translate="yes" xml:space="preserve">
@@ -242,17 +242,17 @@
         </trans-unit>
         <trans-unit id="DeleteAllHistoryDialogTitle" translate="yes" xml:space="preserve">
           <source>Delete all playback history?</source>
-          <target state="translated">Ta bort all uppspelningshistorik?</target>
+          <target state="translated">Ta bort all lyssningshistorik?</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Confirmation of deletion of all playback history (Message title)</note>
         </trans-unit>
         <trans-unit id="DeleteEpisodeFromHistoryTitle" translate="yes" xml:space="preserve">
           <source>Delete item from playback history?</source>
-          <target state="translated">Ta bort objekt från uppspelningshistorik?</target>
+          <target state="translated">Ta bort objekt från lyssningshistorik?</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Confirmation of deletion of an item from playback history (Message title)</note>
         </trans-unit>
         <trans-unit id="EmptyListMessageTitle.Text" translate="yes" xml:space="preserve">
           <source>Your playback history is empty</source>
-          <target state="translated">Din uppspelningshistorik är tom</target>
+          <target state="translated">Din lyssningshistorik är tom</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there are no episodes on playback history</note>
         </trans-unit>
         <trans-unit id="EpisodeHeaderDate.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
@@ -277,7 +277,7 @@
         </trans-unit>
         <trans-unit id="PageTitle.Text" translate="yes" xml:space="preserve">
           <source>Playback history</source>
-          <target state="translated">Uppspelningshistorik</target>
+          <target state="translated">Lyssningshistorik</target>
           <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the playback history page</note>
         </trans-unit>
         <trans-unit id="RefreshHistory.Text" translate="yes" xml:space="preserve">
@@ -765,7 +765,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
   </trans-unit>
   <trans-unit id="RemoveAllSubscriptions.Label" translate="yes" xml:space="preserve">
     <source>Remove all subscriptions</source>
-    <target state="translated">Avfölj alla</target>
+    <target state="translated">Avfölj alla poddar</target>
     <note from="MultilingualBuild" annotates="source" priority="2">Text of button that removes all podcast subscriptions</note>
   </trans-unit>
   <trans-unit id="SyncPodcastsButton.Label" translate="yes" xml:space="preserve">
@@ -1021,7 +1021,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
   </trans-unit>
   <trans-unit id="ResetSettingItemDescription.Text" translate="yes" xml:space="preserve">
     <source>Deletes all the app data, including subscribed podcasts, playback history and episodes. Downloaded files are NOT deleted</source>
-    <target state="translated">Raderar all appdata, inklusive följda poddar, uppspelningshistorik och avsnitt. Hämtade filer raderas INTE</target>
+    <target state="translated">Raderar all appdata, inklusive följda poddar, lyssningshistorik och avsnitt. Hämtade filer raderas INTE</target>
     <note from="MultilingualBuild" annotates="source" priority="2">App reset description</note>
   </trans-unit>
   <trans-unit id="ResetSettingItemTitle.Text" translate="yes" xml:space="preserve">
@@ -1388,7 +1388,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
   </trans-unit>
   <trans-unit id="NowPlayingPlaylist.Text" translate="yes" xml:space="preserve">
     <source>Now Playing</source>
-    <target state="translated">Spelar nu</target>
+    <target state="translated">Spellista</target>
     <note from="MultilingualBuild" annotates="source" priority="2">Playlist that contains all episodes playing</note>
   </trans-unit>
   <trans-unit id="Open.Text" translate="yes" xml:space="preserve">
@@ -1608,7 +1608,7 @@ pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
   </trans-unit>
   <trans-unit id="UnsubscribeAllPodcastsTitle" translate="yes" xml:space="preserve">
     <source>Unsubscribe all podcasts?</source>
-    <target state="translated">Avfölj alla poddar?</target>
+    <target state="translated">Vill du sluta följa alla poddar?</target>
     <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when user clicks the button to remove all podcasts (Message title)</note>
   </trans-unit>
   <trans-unit id="UpdateEpisodes.Text" translate="yes" xml:space="preserve">
