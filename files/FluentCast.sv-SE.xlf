@@ -1,0 +1,1774 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="sv-SE" original="FLUENTCAST/STRINGS/EN-US/EXPLOREPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
+    </header>
+    <body>
+      <group id="FLUENTCAST/STRINGS/EN-US/EXPLOREPAGE.RESW" datatype="resx">
+        <trans-unit id="FeaturedPodcastsHeader.Header" translate="yes" xml:space="preserve">
+          <source>Featured Podcasts</source>
+          <target state="translated">Utvalda poddar</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header text of the featured podcast list (explore page)</note>
+        </trans-unit>
+        <trans-unit id="GenresHeader.Text" translate="yes" xml:space="preserve">
+          <source>Genres</source>
+          <target state="translated">Kategorier</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Genre list header text (explore page)</note>
+        </trans-unit>
+        <trans-unit id="PageTitle.Text" translate="yes" xml:space="preserve">
+          <source>Explore</source>
+          <target state="translated">Upptäck</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the page explore</note>
+        </trans-unit>
+        <trans-unit id="SeeMoreButton.Text" translate="yes" xml:space="preserve">
+          <source>See more</source>
+          <target state="translated">Visa fler</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Button text that shows more podcasts of a specific genre (explore page)</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="sv-SE" original="FLUENTCAST/STRINGS/EN-US/PLAYER.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
+    </header>
+    <body>
+      <group id="FLUENTCAST/STRINGS/EN-US/PLAYER.RESW" datatype="resx">
+        <trans-unit id="EpisodeLengthTooltipText" translate="yes" xml:space="preserve">
+          <source>Episode length</source>
+          <target state="translated">Avsnittets längd</target>
+        </trans-unit>
+        <trans-unit id="EpisodeTimeElapsedTextBlock.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Time elapsed</source>
+          <target state="translated">Förfluten tid</target>
+        </trans-unit>
+        <trans-unit id="EpisodeTimeRemainingTooltipText" translate="yes" xml:space="preserve">
+          <source>Time remaining</source>
+          <target state="translated">Återstående tid</target>
+        </trans-unit>
+        <trans-unit id="FullScreenButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Fullscreen</source>
+          <target state="translated">Helskärm</target>
+        </trans-unit>
+        <trans-unit id="MoreCommandsButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>More commands</source>
+          <target state="translated">Fler alternativ</target>
+        </trans-unit>
+        <trans-unit id="MuteButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Mute/Unmute</source>
+          <target state="translated">Ljud av/på</target>
+        </trans-unit>
+        <trans-unit id="NextCommand.Description" translate="yes" xml:space="preserve">
+          <source>Next episode</source>
+          <target state="translated">Nästa avsnitt</target>
+        </trans-unit>
+        <trans-unit id="PictureInPicture.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Picture-In-Picture</source>
+          <target state="translated">Bild-i-bild</target>
+        </trans-unit>
+        <trans-unit id="PlaybackButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Reset to 1x</source>
+          <target state="translated">Återställ till 1x</target>
+        </trans-unit>
+        <trans-unit id="PlayCommand.Description" translate="yes" xml:space="preserve">
+          <source>Play/Pause</source>
+          <target state="translated">Spela/Pausa</target>
+        </trans-unit>
+        <trans-unit id="PlayerBarChaptersHeader.Text" translate="yes" xml:space="preserve">
+          <source>Chapters</source>
+          <target state="translated">Kapitel</target>
+        </trans-unit>
+        <trans-unit id="PreviousCommand.Description" translate="yes" xml:space="preserve">
+          <source>Previous episode</source>
+          <target state="translated">Föregående avsnitt</target>
+        </trans-unit>
+        <trans-unit id="ResumePreviousPlaylist.Text" translate="yes" xml:space="preserve">
+          <source>Resume previous playlist</source>
+          <target state="translated">Fortsätt föregående spellista</target>
+        </trans-unit>
+        <trans-unit id="ResumePreviousPlaylistDescription.Text" translate="yes" xml:space="preserve">
+          <source>Continue listening where you left off</source>
+          <target state="translated">Fortsätt lyssna där du slutade</target>
+        </trans-unit>
+        <trans-unit id="ResumePreviousPlaylistJumplistHeader.Text" translate="yes" xml:space="preserve">
+          <source>Playlist</source>
+          <target state="translated">Spellista</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Jumplist Header</note>
+        </trans-unit>
+        <trans-unit id="SkipBackCommand.Description" translate="yes" xml:space="preserve">
+          <source>Skip back 10 seconds</source>
+          <target state="translated">Hoppa tillbaka 10 sekunder</target>
+        </trans-unit>
+        <trans-unit id="SkipForwardCommand.Description" translate="yes" xml:space="preserve">
+          <source>Skip forward 30 seconds</source>
+          <target state="translated">Hoppa fram 30 sekunder</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="sv-SE" original="FLUENTCAST/STRINGS/EN-US/NOWPLAYINGPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
+    </header>
+    <body>
+      <group id="FLUENTCAST/STRINGS/EN-US/NOWPLAYINGPAGE.RESW" datatype="resx">
+        <trans-unit id="ClearPlaylist.Text" translate="yes" xml:space="preserve">
+          <source>Clear playlist</source>
+          <target state="translated">Rensa spellista</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that removes all items from the playlist</note>
+        </trans-unit>
+        <trans-unit id="EmptyListMessageButton.Text" translate="yes" xml:space="preserve">
+          <source>Shuffle all</source>
+          <target state="translated">Blanda alla</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Shuffle all your library episodes</note>
+        </trans-unit>
+        <trans-unit id="EmptyListMessageSubtitle.Text" translate="yes" xml:space="preserve">
+          <source>Shuffle everything in collection</source>
+          <target state="translated">Klicka nedan om du vill lägga till blandade avsnitt från poddar du följer</target>
+        </trans-unit>
+        <trans-unit id="EmptyListMessageTitle.Text" translate="yes" xml:space="preserve">
+          <source>The playlist is empty</source>
+          <target state="translated">Spellistan är tom</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there are no episodes on playlist (message title)</note>
+        </trans-unit>
+        <trans-unit id="PageTitle.Text" translate="yes" xml:space="preserve">
+          <source>Now playing</source>
+          <target state="translated">Spellista</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the now playing page</note>
+        </trans-unit>
+        <trans-unit id="ClearPlaylistButton.Label" translate="yes" xml:space="preserve">
+          <source>Clear playlist</source>
+          <target state="translated">Rensa spellista</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that removes all items from the playlist</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="sv-SE" original="FLUENTCAST/STRINGS/EN-US/DOWNLOADSPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
+    </header>
+    <body>
+      <group id="FLUENTCAST/STRINGS/EN-US/DOWNLOADSPAGE.RESW" datatype="resx">
+        <trans-unit id="ButtonCancelDownloadTooltip.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Cancel download</source>
+          <target state="translated">Avbryt hämtning</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Episode downloading list: command to cancel the episode download (tooltip)</note>
+        </trans-unit>
+        <trans-unit id="EmptyListMessageTitle.Text" translate="yes" xml:space="preserve">
+          <source>Episodes that you download will appear here</source>
+          <target state="translated">Hämtade avsnitt visas här</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there are no episodes downloaded</note>
+        </trans-unit>
+        <trans-unit id="DownloadingEpisodesEmptyListMessage.Text" translate="yes" xml:space="preserve">
+          <source>You have no active downloads</source>
+          <target state="translated">Du har inga aktiva hämtningar</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there are no episodes downloading</note>
+        </trans-unit>
+        <trans-unit id="EpisodeHeaderSize.Text" translate="yes" xml:space="preserve">
+          <source>Size</source>
+          <target state="translated">Storlek</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the "size" column of the downloaded episode list. Indicates the size on disk of the episode file</note>
+        </trans-unit>
+        <trans-unit id="EpisodeHeaderTitle.Text" translate="yes" xml:space="preserve">
+          <source>Title</source>
+          <target state="translated">Titel</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the "title" column of the downloaded episode list.  Indicates the title of the episode</note>
+        </trans-unit>
+        <trans-unit id="PageTitle.Text" translate="yes" xml:space="preserve">
+          <source>Downloads</source>
+          <target state="translated">Hämtade avsnitt</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the downloads page</note>
+        </trans-unit>
+        <trans-unit id="PivotItemHeaderDownloaded.Header" translate="yes" xml:space="preserve">
+          <source>Downloaded</source>
+          <target state="translated">Hämtade</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Pivot item header that shows downloaded episodes</note>
+        </trans-unit>
+        <trans-unit id="PivotItemHeaderDownloading.Header" translate="yes" xml:space="preserve">
+          <source>Downloading</source>
+          <target state="translated">Hämtar</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Pivot item header that shows downloading episodes</note>
+        </trans-unit>
+        <trans-unit id="EpisodeHeaderDuration.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Duration</source>
+          <target state="translated">Längd</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Tooltip of duration icon</note>
+        </trans-unit>
+        <trans-unit id="EpisodeHeaderRelease.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Release</source>
+          <target state="translated">Publiceringsdatum</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Tooltip of release icon</note>
+        </trans-unit>
+        <trans-unit id="RefreshDownloads.Label" translate="yes" xml:space="preserve">
+          <source>Refresh downloads</source>
+          <target state="translated">Uppdatera hämtningar</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that refresh the list of downloaded episodes</note>
+        </trans-unit>
+        <trans-unit id="DeleteAllFiles.Label" translate="yes" xml:space="preserve">
+          <source>Delete all files</source>
+          <target state="translated">Ta bort alla filer</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that delete all files from episodes downloaded</note>
+        </trans-unit>
+        <trans-unit id="CancelAllDownloads.Label" translate="yes" xml:space="preserve">
+          <source>Cancel all downloads</source>
+          <target state="translated">Avbryt alla hämtningar</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that cancels all current downloads</note>
+        </trans-unit>
+        <trans-unit id="PivotItemHeaderDownloadedTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Downloaded</source>
+          <target state="translated">Hämtade</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Pivot item header that shows downloaded episodes</note>
+        </trans-unit>
+        <trans-unit id="PivotItemHeaderDownloadingTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Downloading</source>
+          <target state="translated">Hämtar</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Pivot item header that shows downloading episodes</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="sv-SE" original="FLUENTCAST/STRINGS/EN-US/PLAYBACKHISTORYPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
+    </header>
+    <body>
+      <group id="FLUENTCAST/STRINGS/EN-US/PLAYBACKHISTORYPAGE.RESW" datatype="resx">
+        <trans-unit id="DeleteAllHistory.Text" translate="yes" xml:space="preserve">
+          <source>Delete all history</source>
+          <target state="translated">Ta bort all historik</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that delete all playback history</note>
+        </trans-unit>
+        <trans-unit id="DeleteAllHistoryDialogTitle" translate="yes" xml:space="preserve">
+          <source>Delete all playback history?</source>
+          <target state="translated">Ta bort all lyssningshistorik?</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Confirmation of deletion of all playback history (Message title)</note>
+        </trans-unit>
+        <trans-unit id="DeleteEpisodeFromHistoryTitle" translate="yes" xml:space="preserve">
+          <source>Delete item from playback history?</source>
+          <target state="translated">Ta bort objekt från lyssningshistorik?</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Confirmation of deletion of an item from playback history (Message title)</note>
+        </trans-unit>
+        <trans-unit id="EmptyListMessageTitle.Text" translate="yes" xml:space="preserve">
+          <source>Your playback history is empty</source>
+          <target state="translated">Din lyssningshistorik är tom</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there are no episodes on playback history</note>
+        </trans-unit>
+        <trans-unit id="EpisodeHeaderDate.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target state="translated">Datum</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Tooltip of date icon</note>
+        </trans-unit>
+        <trans-unit id="EpisodeHeaderEditor.Text" translate="yes" xml:space="preserve">
+          <source>Editor</source>
+          <target state="translated">Redaktör</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the "editor" column of the playback history episode list. Indicates the editor of the podcast episode</note>
+        </trans-unit>
+        <trans-unit id="EpisodeHeaderProgress.Text" translate="yes" xml:space="preserve">
+          <source>Progress</source>
+          <target state="translated">Förlopp</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the "progress" column of the playback history episode list. Indicates the progress of how much the user has already played from the episode</note>
+        </trans-unit>
+        <trans-unit id="EpisodeHeaderTitle.Text" translate="yes" xml:space="preserve">
+          <source>Title</source>
+          <target state="translated">Titel</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header of the "title" column of the playback history episode list. Indicates the title of the episode</note>
+        </trans-unit>
+        <trans-unit id="PageTitle.Text" translate="yes" xml:space="preserve">
+          <source>Playback history</source>
+          <target state="translated">Lyssningshistorik</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the playback history page</note>
+        </trans-unit>
+        <trans-unit id="RefreshHistory.Text" translate="yes" xml:space="preserve">
+          <source>Refresh history</source>
+          <target state="translated">Uppdatera historik</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that refresh the list of playback history</note>
+        </trans-unit>
+        <trans-unit id="DeleteAllHistoryButton.Label" translate="yes" xml:space="preserve">
+          <source>Delete all history</source>
+          <target state="translated">Ta bort all historik</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that delete all playback history</note>
+        </trans-unit>
+        <trans-unit id="RefreshHistoryButton.Label" translate="yes" xml:space="preserve">
+          <source>Refresh history</source>
+          <target state="translated">Uppdatera historik</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that refresh the list of playback history</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="sv-SE" original="FLUENTCAST/STRINGS/EN-US/UNPLAYEDEPISODESPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
+    </header>
+    <body>
+      <group id="FLUENTCAST/STRINGS/EN-US/UNPLAYEDEPISODESPAGE.RESW" datatype="resx">
+        <trans-unit id="EmptyListMessageButton.Text" translate="yes" xml:space="preserve">
+          <source>Sync podcasts</source>
+          <target state="translated">Synkronisera poddar</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that syncs all podcasts</note>
+        </trans-unit>
+        <trans-unit id="EmptyListMessageSubtitle.Text" translate="yes" xml:space="preserve">
+          <source>Sync all your podcasts to get the latest episodes</source>
+          <target state="translated">Synkronisera alla dina poddar för att få de senaste avsnitten</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there are no unplayed episodes (message subtitle)</note>
+        </trans-unit>
+        <trans-unit id="EmptyListMessageTitle.Text" translate="yes" xml:space="preserve">
+          <source>No new episodes</source>
+          <target state="translated">Inga nya avsnitt</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there are no unplayed episodes (message title)</note>
+        </trans-unit>
+        <trans-unit id="MarkAllAsPlayed.Text" translate="yes" xml:space="preserve">
+          <source>Mark all as played</source>
+          <target state="translated">Markera alla som spelade</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Mark all unplayed episodes as played command text</note>
+        </trans-unit>
+        <trans-unit id="PageTitle.Text" translate="yes" xml:space="preserve">
+          <source>Unplayed episodes</source>
+          <target state="translated">Ospelade avsnitt</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the unplayed episodes page</note>
+        </trans-unit>
+        <trans-unit id="PlayAll.Text" translate="yes" xml:space="preserve">
+          <source>Play all</source>
+          <target state="translated">Spela alla</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Play all unplayed episodes command text</note>
+        </trans-unit>
+        <trans-unit id="RefreshList.Text" translate="yes" xml:space="preserve">
+          <source>Refresh</source>
+          <target state="translated">Uppdatera</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Refresh unplayed episodes command text</note>
+        </trans-unit>
+        <trans-unit id="DownloadAllButton.Label" translate="yes" xml:space="preserve">
+          <source>Download all</source>
+          <target state="translated">Hämta alla</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Command that downloads all episodes as from a list of episodes</note>
+        </trans-unit>
+        <trans-unit id="MarkAllAsPlayedButton.Label" translate="yes" xml:space="preserve">
+          <source>Mark all as played</source>
+          <target state="translated">Markera alla som spelade</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Mark all unplayed episodes as played command text</note>
+        </trans-unit>
+        <trans-unit id="PlayAllButton.Label" translate="yes" xml:space="preserve">
+          <source>Play all</source>
+          <target state="translated">Spela alla</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Play all unplayed episodes command text</note>
+        </trans-unit>
+        <trans-unit id="RefreshListButton.Label" translate="yes" xml:space="preserve">
+          <source>Refresh</source>
+          <target state="translated">Uppdatera</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Refresh unplayed episodes command text</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="sv-SE" original="FLUENTCAST/STRINGS/EN-US/ERRORMESSAGES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
+    </header>
+    <body>
+      <group id="FLUENTCAST/STRINGS/EN-US/ERRORMESSAGES.RESW" datatype="resx">
+        <trans-unit id="CannotPlayTheEpisodeBadUrl" translate="yes" xml:space="preserve">
+          <source>Cannot play the "{0}" episode (Invalid URL)</source>
+          <target state="translated">Kan inte spela "{0}"-avsnittet (Ogiltig URL)</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when cannot play an episode (Invalid URL)</note>
+        </trans-unit>
+        <trans-unit id="CloseAppButtonText.Content" translate="yes" xml:space="preserve">
+          <source>Close app</source>
+          <target state="translated">Stäng app</target>
+        </trans-unit>
+        <trans-unit id="CouldntSyncCheckInternet" translate="yes" xml:space="preserve">
+          <source>Couldn't sync. Check your internet connection</source>
+          <target state="translated">Kunde inte synkronisera. Kontrollera din internetanslutning</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when can't sync the podcasts</note>
+        </trans-unit>
+        <trans-unit id="DatabaseCorruptedErrorMessage" translate="yes" xml:space="preserve">
+          <source>The database was deleted due to an error in the file</source>
+          <target state="translated">Databasen togs bort på grund av ett fel i filen</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Datanase corrupted error message </note>
+        </trans-unit>
+        <trans-unit id="DatabaseCorruptedErrorTitle" translate="yes" xml:space="preserve">
+          <source>Database is corrupted</source>
+          <target state="translated">Databasen är skadad</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Database corrupted error message (title)</note>
+        </trans-unit>
+        <trans-unit id="ExportToOPMLButtonText.Content" translate="yes" xml:space="preserve">
+          <source>Export your library</source>
+          <target state="translated">Exportera ditt bibliotek</target>
+        </trans-unit>
+        <trans-unit id="ResetAppButtonText.Content" translate="yes" xml:space="preserve">
+          <source>Reset app data</source>
+          <target state="translated">Återställ appdata</target>
+        </trans-unit>
+        <trans-unit id="SendReportButtonText.Content" translate="yes" xml:space="preserve">
+          <source>Send report</source>
+          <target state="translated">Skicka felrapport</target>
+        </trans-unit>
+        <trans-unit id="UnhandledExceptionMessageBody.Text" translate="yes" xml:space="preserve">
+          <source>Do you want to send us the error report? This can help us fix this bug</source>
+          <target state="translated">Vill du skicka en felrapport? Detta kan hjälpa oss att åtgärda felet</target>
+        </trans-unit>
+        <trans-unit id="UnhandledExceptionMessageTitle.Text" translate="yes" xml:space="preserve">
+          <source>FluentCast Podcast ran into a problem and needs to restart</source>
+          <target state="translated">FluentCast stötte på ett problem och måste startas om</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="sv-SE" original="FLUENTCAST/STRINGS/EN-US/GENRESSTRINGS.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
+    </header>
+    <body>
+      <group id="FLUENTCAST/STRINGS/EN-US/GENRESSTRINGS.RESW" datatype="resx">
+        <trans-unit id="All" translate="yes" xml:space="preserve">
+          <source>All</source>
+          <target state="translated">Alla</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">All podcast genres</note>
+        </trans-unit>
+        <trans-unit id="Arts" translate="yes" xml:space="preserve">
+          <source>Arts</source>
+          <target state="translated">Konst</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Arts podcast genre </note>
+        </trans-unit>
+        <trans-unit id="Business" translate="yes" xml:space="preserve">
+          <source>Business</source>
+          <target state="translated">Affärer och pengar</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Business podcast genre</note>
+        </trans-unit>
+        <trans-unit id="Comedy" translate="yes" xml:space="preserve">
+          <source>Comedy</source>
+          <target state="translated">Underhållning</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Comedy podcast genre</note>
+        </trans-unit>
+        <trans-unit id="Design" translate="yes" xml:space="preserve">
+          <source>Design</source>
+          <target state="translated">Design</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Design podcast genre</note>
+        </trans-unit>
+        <trans-unit id="Education" translate="yes" xml:space="preserve">
+          <source>Education</source>
+          <target state="translated">Utbildning</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Education podcast genre</note>
+        </trans-unit>
+        <trans-unit id="Fitness" translate="yes" xml:space="preserve">
+          <source>Fitness</source>
+          <target state="translated">Träning</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Fitness podcsat genre</note>
+        </trans-unit>
+        <trans-unit id="KidsAndFamily" translate="yes" xml:space="preserve">
+          <source>Kids and Family</source>
+          <target state="translated">Barn och familj</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Kids and Family podcast genre</note>
+        </trans-unit>
+        <trans-unit id="Leisure" translate="yes" xml:space="preserve">
+          <source>Leisure</source>
+          <target state="translated">Fritid</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Leisure podcast genre</note>
+        </trans-unit>
+        <trans-unit id="Music" translate="yes" xml:space="preserve">
+          <source>Music</source>
+          <target state="translated">Musik</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Music podcast genre</note>
+        </trans-unit>
+        <trans-unit id="News" translate="yes" xml:space="preserve">
+          <source>News</source>
+          <target state="translated">Nyheter</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">News podcast genre</note>
+        </trans-unit>
+        <trans-unit id="Politics" translate="yes" xml:space="preserve">
+          <source>Politics</source>
+          <target state="translated">Politik</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Politics podcast genre</note>
+        </trans-unit>
+        <trans-unit id="ReligionAndSpirituality" translate="yes" xml:space="preserve">
+          <source>Religion and Spirituality</source>
+          <target state="translated">Religion och andlighet</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Religion and Spirituality podcast genre</note>
+        </trans-unit>
+        <trans-unit id="Science" translate="yes" xml:space="preserve">
+          <source>Science</source>
+          <target state="translated">Vetenskap</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Science podcast genre</note>
+        </trans-unit>
+        <trans-unit id="SocietyAndCulture" translate="yes" xml:space="preserve">
+          <source>Society and Culture</source>
+          <target state="translated">Samhälle och kultur</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Society and Culture podcast genre</note>
+        </trans-unit>
+        <trans-unit id="Sports" translate="yes" xml:space="preserve">
+          <source>Sports</source>
+          <target state="translated">Sport</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Sports genre</note>
+        </trans-unit>
+        <trans-unit id="Technology" translate="yes" xml:space="preserve">
+          <source>Technology</source>
+          <target state="translated">Teknologi</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Technology podcast genre</note>
+        </trans-unit>
+        <trans-unit id="TvAndFilm" translate="yes" xml:space="preserve">
+          <source>TV and Film</source>
+          <target state="translated">TV och film</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Tv and Film podcast genre</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="sv-SE" original="FLUENTCAST/STRINGS/EN-US/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
+    </header>
+    <body>
+      <group id="FLUENTCAST/STRINGS/EN-US/RESOURCES.RESW" datatype="resx">
+        <trans-unit id="AutoSuggestBox.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <target state="translated">Sök</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Placeholder from search box</note>
+        </trans-unit>
+        <trans-unit id="CancelButtonText" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="translated">Avbryt</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Cancel command</note>
+        </trans-unit>
+        <trans-unit id="CheckoutTheReleaseNotes" translate="yes" xml:space="preserve">
+          <source>Check out the release notes</source>
+          <target state="translated">Läs versionsfakta</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Update notification subtitle</note>
+        </trans-unit>
+        <trans-unit id="CloseButton.Text" translate="yes" xml:space="preserve">
+          <source>Close</source>
+          <target state="translated">Stäng</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Close command</note>
+        </trans-unit>
+        <trans-unit id="DateFormat" translate="yes" xml:space="preserve">
+          <source>MMM dd, yyyy</source>
+          <target state="translated">dd MMM yyyy</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">C# date format. Enter the date format in your language.  For example:
+en-us:  "[month abbreviated], [day] [year]" -&gt; "Dec, 25 2020"
+pt-BR: "[day] [month abbreviated] [year]" --&gt; "25 dez 2020"</note>
+        </trans-unit>
+        <trans-unit id="DeleteButtonText" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="translated">Ta bort</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Delete command</note>
+        </trans-unit>
+        <trans-unit id="DonationMessage.Text" translate="yes" xml:space="preserve">
+          <source>If you enjoy FluentCast, please consider making a donation to the developer</source>
+          <target state="translated">Om du gillar FluentCast, donera gärna en slant till utvecklaren</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Ask to user to donation</note>
+        </trans-unit>
+        <trans-unit id="DownloadStatusCanceled" translate="yes" xml:space="preserve">
+          <source>Canceled</source>
+          <target state="translated">Avbruten</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue or status bar: canceled</note>
+        </trans-unit>
+        <trans-unit id="DownloadStatusCompleted" translate="yes" xml:space="preserve">
+          <source>Completed</source>
+          <target state="translated">Slutförd</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue or status bar: completed</note>
+        </trans-unit>
+        <trans-unit id="DownloadStatusDownloading" translate="yes" xml:space="preserve">
+          <source>Downloading</source>
+          <target state="translated">Hämtar</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue: or status bar Downloading</note>
+        </trans-unit>
+        <trans-unit id="DownloadStatusDownloadingDetails" translate="yes" xml:space="preserve">
+          <source>Downloading: {0}% - ({1}/s)  |  Episode: {2}</source>
+          <target state="translated">Hämtar: {0}% - ({1}/s) | Avsnitt: {2}</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">{0} - Percent of download
+{1} - Download speed per sec
+{2} - Episode title</note>
+        </trans-unit>
+        <trans-unit id="DownloadStatusError" translate="yes" xml:space="preserve">
+          <source>Error</source>
+          <target state="translated">Fel</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue or status bar: error</note>
+        </trans-unit>
+        <trans-unit id="DownloadStatusStarting" translate="yes" xml:space="preserve">
+          <source>Starting</source>
+          <target state="translated">Startar hämtning</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue or status bar: starting</note>
+        </trans-unit>
+        <trans-unit id="DownloadStatusUnknown" translate="yes" xml:space="preserve">
+          <source>Unknown</source>
+          <target state="translated">Okänd</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue or status bar: unknown</note>
+        </trans-unit>
+        <trans-unit id="DownloadStatusWaiting" translate="yes" xml:space="preserve">
+          <source>Waiting</source>
+          <target state="translated">Väntar</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the status of download on download queue or status bar: waiting</note>
+        </trans-unit>
+        <trans-unit id="DurationMinutes" translate="yes" xml:space="preserve">
+          <source>{0} min</source>
+          <target state="translated">{0} min</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">The duration of something. {0} is the time in minutes (abbreviation)</note>
+        </trans-unit>
+        <trans-unit id="DurationSeconds" translate="yes" xml:space="preserve">
+          <source>{0} secs</source>
+          <target state="translated">{0} sekunder</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">The duration of something. {0} is the time in seconds (abbreviation)</note>
+        </trans-unit>
+        <trans-unit id="EpisodesCountText.Text" translate="yes" xml:space="preserve">
+          <source>episode(s)</source>
+          <target state="translated">avsnitt</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Used on this way: {0} episodes(s), where {0} is a number of episodes (Podcast details and unplayed episodes page)</note>
+        </trans-unit>
+        <trans-unit id="NotificationNewEpisodeAvailable" translate="yes" xml:space="preserve">
+          <source>New episode available</source>
+          <target state="translated">Nytt avsnitt tillgängligt</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">New episode notification (one episode)</note>
+        </trans-unit>
+        <trans-unit id="NotificationNewEpisodesAvailable" translate="yes" xml:space="preserve">
+          <source>{0} new episodes available</source>
+          <target state="translated">{0} nya avsnitt tillgängliga</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">New episodes notification. {0} is the number of new episodes. {0} &gt;= 2</note>
+        </trans-unit>
+        <trans-unit id="OpenButtonText" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <target state="translated">Öppna</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Open command</note>
+        </trans-unit>
+        <trans-unit id="RelativeTimeAMinuteAgo" translate="yes" xml:space="preserve">
+          <source>1 minute ago</source>
+          <target state="translated">För 1 minut sedan</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened 1 minute ago.</note>
+        </trans-unit>
+        <trans-unit id="RelativeTimeAMonthAgo" translate="yes" xml:space="preserve">
+          <source>1 month ago</source>
+          <target state="translated">För 1 månad sedan</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened 1 month ago.</note>
+        </trans-unit>
+        <trans-unit id="RelativeTimeAnHourAgo" translate="yes" xml:space="preserve">
+          <source>1 hour ago</source>
+          <target state="translated">För 1 timme sedan</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened 1 hour ago.</note>
+        </trans-unit>
+        <trans-unit id="RelativeTimeAYearAgo" translate="yes" xml:space="preserve">
+          <source>1 year ago</source>
+          <target state="translated">För 1 år sedan</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened 1 year ago.</note>
+        </trans-unit>
+        <trans-unit id="RelativeTimeDaysAgo" translate="yes" xml:space="preserve">
+          <source>{0} days ago</source>
+          <target state="translated">För {0} dagar sedan</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened N days ago. {0} is the number of days (e.g.: 5 days ago)</note>
+        </trans-unit>
+        <trans-unit id="RelativeTimeHoursAgo" translate="yes" xml:space="preserve">
+          <source>{0} hours ago</source>
+          <target state="translated">För {0} timmar sedan</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened N hours ago. {0} is the number of hours (e.g.: 3 hours ago)</note>
+        </trans-unit>
+        <trans-unit id="RelativeTimeJustNow" translate="yes" xml:space="preserve">
+          <source>Just now</source>
+          <target state="translated">Just nu</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened seconds ago. For example, an item was added to history seconds ago.</note>
+        </trans-unit>
+        <trans-unit id="RelativeTimeMinutesAgo" translate="yes" xml:space="preserve">
+          <source>{0} minutes ago</source>
+          <target state="translated">För {0} minuter sedan</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened N minute ago. {0} is the number of minutes (e.g.: 15 minutes ago)</note>
+        </trans-unit>
+        <trans-unit id="RelativeTimeMonthsAgo" translate="yes" xml:space="preserve">
+          <source>{0} months ago</source>
+          <target state="translated">För {0} månader sedan</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened N months ago. {0} is the number of months (e.g.: 10 months ago)</note>
+        </trans-unit>
+        <trans-unit id="RelativeTimeNotAvailable" translate="yes" xml:space="preserve">
+          <source>N/A</source>
+          <target state="translated">Inte tillgängligt</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means the relative time is not available. For example, how long ago an episode was released.</note>
+        </trans-unit>
+        <trans-unit id="RelativeTimeYearsAgo" translate="yes" xml:space="preserve">
+          <source>{0} years ago</source>
+          <target state="translated">För {0} år sedan</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened N years ago. {0} is the number of years (e.g.: 3 years ago)</note>
+        </trans-unit>
+        <trans-unit id="RelativeTimeYesterday" translate="yes" xml:space="preserve">
+          <source>Yesterday</source>
+          <target state="translated">Igår</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">It means something happened Yesterday</note>
+        </trans-unit>
+        <trans-unit id="ReleaseNotesPopup.Title" translate="yes" xml:space="preserve">
+          <source>FluentCast has been updated</source>
+          <target state="translated">FluentCast har uppdaterats</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Popup title that appears when the app is updated</note>
+        </trans-unit>
+        <trans-unit id="RemoveBanner.Text" translate="yes" xml:space="preserve">
+          <source>Remove</source>
+          <target state="translated">Ta bort</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of button that removes the banner from NavigationView</note>
+        </trans-unit>
+        <trans-unit id="ReviewMessage.Text" translate="yes" xml:space="preserve">
+          <source>If you like FluentCast, please rate it on Microsoft Store</source>
+          <target state="translated">Lämna gärna ett betyg i Microsoft Store om du gillar FluentCast</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Ask to user to review the app on Microsoft Store</note>
+        </trans-unit>
+        <trans-unit id="SomethingWentWrongMessage" translate="yes" xml:space="preserve">
+          <source>Something went wrong</source>
+          <target state="translated">Ett fel uppstod</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Error message</note>
+        </trans-unit>
+        <trans-unit id="UpdateHistoryButton.Text" translate="yes" xml:space="preserve">
+          <source>Release notes</source>
+          <target state="translated">Versionsfakta</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Text of the release notes button. This text needs to be the size of the English version or smaller</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="sv-SE" original="FLUENTCAST/STRINGS/EN-US/PODCASTSUBSCRIPTIONSPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
+    </header>
+    <body>
+      <group id="FLUENTCAST/STRINGS/EN-US/PODCASTSUBSCRIPTIONSPAGE.RESW" datatype="resx">
+  <trans-unit id="AddPodcast.Text" translate="yes" xml:space="preserve">
+    <source>Add podcast</source>
+    <target state="translated">Lägg till podd</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Text of button that adds a podcast by feed url</note>
+  </trans-unit>
+  <trans-unit id="EmptyListMessageButton.Text" translate="yes" xml:space="preserve">
+    <source>Explore</source>
+    <target state="translated">Upptäck</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there is no podcast in the subscription list (button text)</note>
+  </trans-unit>
+  <trans-unit id="EmptyListMessageSubtitle.Text" translate="yes" xml:space="preserve">
+    <source>Go to Explore page to find recommendations</source>
+    <target state="translated">Gå till Upptäck-sidan för att hitta rekommendationer</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there is no podcast in the subscription list (subtitle)</note>
+  </trans-unit>
+  <trans-unit id="EmptyListMessageTitle.Text" translate="yes" xml:space="preserve">
+    <source>You haven't subscribed to any podcasts yet</source>
+    <target state="translated">Du har inte börjat följa några poddar än</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when there is no podcast in the subscription list (title)</note>
+  </trans-unit>
+  <trans-unit id="PageTitle.Text" translate="yes" xml:space="preserve">
+    <source>Subscriptions</source>
+    <target state="translated">Följda poddar</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the page subscriptions</note>
+  </trans-unit>
+  <trans-unit id="SyncPodcasts.Text" translate="yes" xml:space="preserve">
+    <source>Sync podcasts</source>
+    <target state="translated">Synkronisera poddar</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Text of button that syncs all podcasts</note>
+  </trans-unit>
+  <trans-unit id="TeachingTipMessageTitle.Title" translate="yes" xml:space="preserve">
+    <source>Done!</source>
+    <target state="translated">Klart!</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Title of the flyout that displays messages of the actions performed on the subscription page (eg unsubscribe a podcast).</note>
+  </trans-unit>
+  <trans-unit id="AddPodcastButton.Label" translate="yes" xml:space="preserve">
+    <source>Add podcast</source>
+    <target state="translated">Lägg till podd</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Text of button that adds a podcast by feed url</note>
+  </trans-unit>
+  <trans-unit id="RemoveAllSubscriptions.Label" translate="yes" xml:space="preserve">
+    <source>Remove all subscriptions</source>
+    <target state="translated">Avfölj alla poddar</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Text of button that removes all podcast subscriptions</note>
+  </trans-unit>
+  <trans-unit id="SyncPodcastsButton.Label" translate="yes" xml:space="preserve">
+    <source>Sync podcasts</source>
+    <target state="translated">Synkronisera poddar</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Text of button that syncs all podcasts</note>
+  </trans-unit>
+</group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="sv-SE" original="FLUENTCAST/STRINGS/EN-US/SETTINGSPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
+    </header>
+    <body>
+      <group id="FLUENTCAST/STRINGS/EN-US/SETTINGSPAGE.RESW" datatype="resx">
+        <trans-unit id="AboutSettingItemEmail.Text" translate="yes" xml:space="preserve">
+          <source>E-mail</source>
+          <target state="translated">E-post</target>
+        </trans-unit>
+        <trans-unit id="AboutSettingItemLanguageMessage.Text" translate="yes" xml:space="preserve">
+          <source>Learning another language can be a challenge, sometimes mistakes happen. If you find any translation errors, send me an email. Thank you!</source>
+          <target state="translated">Översättningen har gjorts av FluentCast-användare, du kan förbättra den genom att klicka på länken nedan. Tack på förhand!</target>
+        </trans-unit>
+        <trans-unit id="AboutSettingItemPrivacy.Text" translate="yes" xml:space="preserve">
+          <source>Read our privacy policy here</source>
+          <target state="translated">Läs vår integritetspolicy här</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Link to privacy policy</note>
+        </trans-unit>
+        <trans-unit id="AboutSettingItemTitle.Text" translate="yes" xml:space="preserve">
+          <source>About</source>
+          <target state="translated">Om</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Section title on the settings page</note>
+        </trans-unit>
+        <trans-unit id="AboutSettingItemVersion.Text" translate="yes" xml:space="preserve">
+          <source>Version</source>
+          <target state="translated">Version</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Related to: App version</note>
+        </trans-unit>
+        <trans-unit id="AppThemeDarkSettingItem.Content" translate="yes" xml:space="preserve">
+          <source>Dark</source>
+          <target state="translated">Mörkt</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Theme personalization, Dark Mode option</note>
+        </trans-unit>
+        <trans-unit id="AppThemeLightSettingItem.Content" translate="yes" xml:space="preserve">
+          <source>Light</source>
+          <target state="translated">Ljust</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Theme personalization, Light Mode option</note>
+        </trans-unit>
+        <trans-unit id="AppThemeSettingItemDescription.Text" translate="yes" xml:space="preserve">
+          <source>Choose an app mode</source>
+          <target state="translated">Välj utseende på appen</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Header: choose the app theme</note>
+        </trans-unit>
+        <trans-unit id="AppThemeSettingItemTitle.Text" translate="yes" xml:space="preserve">
+          <source>App theme</source>
+          <target state="translated">App-tema</target>
+        </trans-unit>
+        <trans-unit id="AppThemeWindowsDefaultSettingItem.Content" translate="yes" xml:space="preserve">
+          <source>Windows default</source>
+          <target state="translated">Windows-standard</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Theme personalization, Windows default option</note>
+        </trans-unit>
+        <trans-unit id="AutoDeleteSettingItemDescription.Text" translate="yes" xml:space="preserve">
+          <source>The app will automatically delete all downloaded episodes marked as played to save disk space</source>
+          <target state="translated">Appen kommer automatiskt att ta bort alla hämtade avspelade avsnitt för att spara diskutrymme</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Description of the auto delete feature</note>
+        </trans-unit>
+        <trans-unit id="AutoDeleteSettingItemTitle.Text" translate="yes" xml:space="preserve">
+          <source>Auto delete</source>
+          <target state="translated">Automatisk borttagning</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Feature title: auto delete</note>
+        </trans-unit>
+        <trans-unit id="AutoDownloadSettingItemDescription.Text" translate="yes" xml:space="preserve">
+          <source>The app will automatically download all episodes marked as unplayed</source>
+          <target state="translated">Appen kommer automatiskt att hämta alla ospelade avsnitt</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Description of the auto download feature</note>
+        </trans-unit>
+        <trans-unit id="AutoDownloadSettingItemTitle.Text" translate="yes" xml:space="preserve">
+          <source>Auto download</source>
+          <target state="translated">Hämta automatiskt</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Feature title: auto download</note>
+        </trans-unit>
+        <trans-unit id="BackgroundSyncSettingItemDescription.Text" translate="yes" xml:space="preserve">
+          <source>The app will automatically sync all episodes in the background</source>
+          <target state="translated">Appen kommer automatiskt att synkronisera alla avsnitt i bakgrunden</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Description of the background sync feature</note>
+        </trans-unit>
+        <trans-unit id="BackgroundSyncSettingItemRefreshInterval.Text" translate="yes" xml:space="preserve">
+          <source>Refresh interval (minutes)</source>
+          <target state="translated">Uppdateringsintervall (minuter)</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Background sync refresh interval</note>
+        </trans-unit>
+        <trans-unit id="BackgroundSyncSettingItemTitle.Text" translate="yes" xml:space="preserve">
+          <source>Background sync</source>
+          <target state="translated">Bakgrundssynkronisering</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Feature title: background sync</note>
+        </trans-unit>
+        <trans-unit id="BackgroundTaskErrorSettingItemButtonLink.Content" translate="yes" xml:space="preserve">
+          <source>Open settings to allow</source>
+          <target state="translated">Öppna inställningar för att tillåta</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Button to open background task settings</note>
+        </trans-unit>
+        <trans-unit id="BackgroundTaskErrorSettingItemTitle.Text" translate="yes" xml:space="preserve">
+          <source>Your current settings do not allow FluentCast to be executed in the background</source>
+          <target state="translated">Dina nuvarande inställningar tillåter inte FluentCast att köras i bakgrunden</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Warning: Background task not allowed</note>
+        </trans-unit>
+        <trans-unit id="CheckForUpdates.Content" translate="yes" xml:space="preserve">
+          <source>Check for updates</source>
+          <target state="translated">Sök efter uppdateringar</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Check app updates button</note>
+        </trans-unit>
+        <trans-unit id="CleanupSettingItemButton.Text" translate="yes" xml:space="preserve">
+          <source>Clean now</source>
+          <target state="translated">Rensa nu</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Button to run database cleanup</note>
+        </trans-unit>
+        <trans-unit id="CleanupSettingItemCleanupDoneMessage" translate="yes" xml:space="preserve">
+          <source>{0} released</source>
+          <target state="translated">{0} frigjort</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">{0} = Space released on disk after database cleanup: (E.g. "15 MB released")</note>
+        </trans-unit>
+        <trans-unit id="CleanupSettingItemDescription.Text" translate="yes" xml:space="preserve">
+          <source>Removes unnecessary entries in the database and temporary files to free up disk space and optimize app performance. The database cleanup runs automatically once a week</source>
+          <target state="translated">Tar bort oanvända temporära filer för att frigöra diskutrymme och optimera appens prestanda. Databasrensningen körs automatiskt en gång i veckan</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Description of the Database cleanup feature</note>
+        </trans-unit>
+        <trans-unit id="CleanupSettingItemTitle.Text" translate="yes" xml:space="preserve">
+          <source>Cleanup</source>
+          <target state="translated">Rensning</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Feature title: Database cleanup</note>
+        </trans-unit>
+        <trans-unit id="ContentRegionSettingItemDescription.Text" translate="yes" xml:space="preserve">
+          <source>Select the iTunes Podcasts API content region</source>
+          <target state="translated">Välj innehållsregion för iTunes Podcasts API</target>
+        </trans-unit>
+        <trans-unit id="ContentRegionSettingItemTitle.Text" translate="yes" xml:space="preserve">
+          <source>Content region</source>
+          <target state="translated">Innehållsregion</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">iTunes Content Region</note>
+        </trans-unit>
+        <trans-unit id="DataCategoryTitle.Text" translate="yes" xml:space="preserve">
+          <source>Data</source>
+          <target state="translated">Data</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Section title on the settings page</note>
+        </trans-unit>
+        <trans-unit id="DonationCategoryTitle.Text" translate="yes" xml:space="preserve">
+          <source>Donation</source>
+          <target state="translated">Donera</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Section title on the settings page</note>
+        </trans-unit>
+        <trans-unit id="DonationSettingItemAlreadyDonatedMessage" translate="yes" xml:space="preserve">
+          <source>You already donated</source>
+          <target state="translated">Du har redan donerat</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed for users who have already given a donation</note>
+        </trans-unit>
+        <trans-unit id="DonationSettingItemErrorMessage" translate="yes" xml:space="preserve">
+          <source>Operation did not complete successfully, try again in a bit</source>
+          <target state="translated">Åtgärden slutfördes inte, försök igen om en stund</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the user does not complete the donation due to an error</note>
+        </trans-unit>
+        <trans-unit id="DonationSettingItemSuccessMessage" translate="yes" xml:space="preserve">
+          <source>Successfully donated. Thank you!</source>
+          <target state="translated">Betalningen lyckades, tack för ditt bidrag!</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the user give a donation</note>
+        </trans-unit>
+		<trans-unit id="ImportExportSettingItemDescription.Text" translate="yes" xml:space="preserve">
+    <source>Import RSS Feeds from an OPML file. Export RSS Feeds to an OPML file</source>
+    <target state="translated">Importera RSS-flöden från en OPML-fil. Exportera RSS-flöden till en OPML-fil</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Description of the Import/Export RSS feeds feature</note>
+  </trans-unit>
+  <trans-unit id="ImportExportSettingItemExportButton.Text" translate="yes" xml:space="preserve">
+    <source>Export</source>
+    <target state="translated">Exportera</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Export button text (RSS feed)</note>
+  </trans-unit>
+  <trans-unit id="ImportExportSettingItemExportedSuccessMessage" translate="yes" xml:space="preserve">
+    <source>Successfully exported {0}</source>
+    <target state="translated">Exporterade {0} framgångsrikt</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when RSS feeds are exported to a file. "{0}" = file path</note>
+  </trans-unit>
+  <trans-unit id="ImportExportSettingItemImportButton.Text" translate="yes" xml:space="preserve">
+    <source>Import</source>
+    <target state="translated">Importera</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Import button text (RSS feed)</note>
+  </trans-unit>
+  <trans-unit id="ImportExportSettingItemNoPodcastToExportMessage" translate="yes" xml:space="preserve">
+    <source>No podcast to export</source>
+    <target state="translated">Inga poddar att exportera</target>
+  </trans-unit>
+  <trans-unit id="ImportExportSettingItemTitle.Text" translate="yes" xml:space="preserve">
+    <source>Import and Export</source>
+    <target state="translated">Importera och exportera</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Feature title: Import and Export of RSS feeds</note>
+  </trans-unit>
+  <trans-unit id="LastVersionInstalledMessage" translate="yes" xml:space="preserve">
+    <source>You already have the latest version of FluentCast installed</source>
+    <target state="translated">Du har redan den senaste versionen av FluentCast installerad</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when a user checks for app updates and there are no new updates</note>
+  </trans-unit>
+  <trans-unit id="MoreAppsSettingItemTitle.Text" translate="yes" xml:space="preserve">
+    <source>More apps</source>
+    <target state="translated">Fler appar</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Section title on the settings page</note>
+  </trans-unit>
+  <trans-unit id="NewEpisodesNotificationSettingItemDescription.Text" translate="yes" xml:space="preserve">
+    <source>The app will send a notification when there are new episodes</source>
+    <target state="translated">Appen visar en avisering när det finns nya avsnitt</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Description of the new episodes notification feature</note>
+  </trans-unit>
+  <trans-unit id="NewEpisodesNotificationSettingItemTitle.Text" translate="yes" xml:space="preserve">
+    <source>New episode notifications</source>
+    <target state="translated">Aviseringar för nya avsnitt</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Feature title: new episode notifications</note>
+  </trans-unit>
+  <trans-unit id="OverviewCategoryTitle.Text" translate="yes" xml:space="preserve">
+    <source>Overview</source>
+    <target state="translated">Översikt</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Section title on the settings page</note>
+  </trans-unit>
+  <trans-unit id="PageTitle.Text" translate="yes" xml:space="preserve">
+    <source>Settings</source>
+    <target state="translated">Inställningar</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the settings page</note>
+  </trans-unit>
+  <trans-unit id="PersonalizationCategoryTitle.Text" translate="yes" xml:space="preserve">
+    <source>Personalization</source>
+    <target state="translated">Anpassning</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Section title on the settings page</note>
+  </trans-unit>
+  <trans-unit id="RateThisAppSettingItemDescription.Text" translate="yes" xml:space="preserve">
+    <source>Your rating helps us keep working on the app and make things even better</source>
+    <target state="translated">Ditt betyg hjälper oss att fortsätta arbeta på appen och göra den ännu bättre</target>
+  </trans-unit>
+  <trans-unit id="RateThisAppSettingItemTitle.Text" translate="yes" xml:space="preserve">
+    <source>Rate this app</source>
+    <target state="translated">Betygsätt appen</target>
+  </trans-unit>
+  <trans-unit id="RateThisAppSettingItemOpenMSStoreButton.Content" translate="yes" xml:space="preserve">
+    <source>Open Microsoft Store</source>
+    <target state="translated">Öppna Microsoft Store</target>
+  </trans-unit>
+  <trans-unit id="RateThisAppSettingItemRateButton.Text" translate="yes" xml:space="preserve">
+    <source>Rate 5 stars</source>
+    <target state="translated">Betygsätt med 5 stjärnor</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Text of the button to review the app</note>
+  </trans-unit>
+  <trans-unit id="ResetSettingItemButton.Text" translate="yes" xml:space="preserve">
+    <source>Reset</source>
+    <target state="translated">Återställ</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">App reset button</note>
+  </trans-unit>
+  <trans-unit id="ResetSettingItemDescription.Text" translate="yes" xml:space="preserve">
+    <source>Deletes all the app data, including subscribed podcasts, playback history and episodes. Downloaded files are NOT deleted</source>
+    <target state="translated">Raderar all appdata, inklusive följda poddar, lyssningshistorik och avsnitt. Hämtade filer raderas INTE</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">App reset description</note>
+  </trans-unit>
+  <trans-unit id="ResetSettingItemTitle.Text" translate="yes" xml:space="preserve">
+    <source>Reset app data</source>
+    <target state="translated">Återställ appdata</target>
+  </trans-unit>
+  <trans-unit id="ResetSettingItemWarning.Text" translate="yes" xml:space="preserve">
+    <source>This process cannot be undone</source>
+    <target state="translated">Denna åtgärd kan inte ångras</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">App reset button warning</note>
+  </trans-unit>
+  <trans-unit id="ResetSettingItemWarningButton.Content" translate="yes" xml:space="preserve">
+    <source>Yes, delete all</source>
+    <target state="translated">Ja, radera allt</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">App reset confirmation</note>
+  </trans-unit>
+  <trans-unit id="SeachHistorySettingItemNothingToShow" translate="yes" xml:space="preserve">
+    <source>Nothing to show :)</source>
+    <target state="translated">Inget att visa :)</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when search history is empty</note>
+  </trans-unit>
+  <trans-unit id="SearchHistorySettingItemButton.Text" translate="yes" xml:space="preserve">
+    <source>Show search history</source>
+    <target state="translated">Visa sökhistorik</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Buttton to show the search history</note>
+  </trans-unit>
+  <trans-unit id="SearchHistorySettingItemDescription.Text" translate="yes" xml:space="preserve">
+    <source>Remove items from your search history</source>
+    <target state="translated">Ta bort objekt från din sökhistorik</target>
+  </trans-unit>
+  <trans-unit id="SearchHistorySettingItemTitle.Text" translate="yes" xml:space="preserve">
+    <source>Search history</source>
+    <target state="translated">Sökhistorik</target>
+  </trans-unit>
+  <trans-unit id="StartupPageSettingItemDescription.Text" translate="yes" xml:space="preserve">
+    <source>Go to...</source>
+    <target state="translated">Visa följande sida vid start av appen...</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Indicates which page to open when the app launches (Subtitle)</note>
+  </trans-unit>
+  <trans-unit id="StartupPageSettingItemTitle.Text" translate="yes" xml:space="preserve">
+    <source>On startup</source>
+    <target state="translated">Vid uppstart</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Indicates which page to open when the app launches (Title)</note>
+  </trans-unit>
+  <trans-unit id="SupportTheDevSettingItemDescription.Text" translate="yes" xml:space="preserve">
+    <source>This app is free and ad-free, but developing it has costs, feel free to donate to the developer</source>
+    <target state="translated">Denna app är gratis och reklamfri, men apputveckling innebär omkostnader, du får gärna donera till utvecklaren</target>
+  </trans-unit>
+  <trans-unit id="SupportTheDevSettingItemTitle.Text" translate="yes" xml:space="preserve">
+    <source>Support the developer</source>
+    <target state="translated">Stöd utvecklaren</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Section title on the settings page</note>
+  </trans-unit>
+  <trans-unit id="TimelineSettingItemDescription.Text" translate="yes" xml:space="preserve">
+    <source>When playing an episode, an activity is generated in the Windows Timeline</source>
+    <target state="translated">När ett avsnitt spelas upp genereras en aktivitet i Windows Timeline</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Description of the Windows timeline feature</note>
+  </trans-unit>
+  <trans-unit id="TimelineSettingItemTitle.Text" translate="yes" xml:space="preserve">
+    <source>Timeline</source>
+    <target state="translated">Tidslinje</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Switch button text that enables/disables the Windows timeline feature</note>
+  </trans-unit>
+  <trans-unit id="WhatIsNewButtonText.Content" translate="yes" xml:space="preserve">
+    <source>Release notes</source>
+    <target state="translated">Versionsfakta</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Text of the button that shows the release notes of the version</note>
+  </trans-unit>
+  <trans-unit id="BackgroundTaskErrorInfoBarSettingItemTitle.Title" translate="yes" xml:space="preserve">
+    <source>Your current settings do not allow FluentCast to be executed in the background</source>
+    <target state="translated">Dina nuvarande inställningar tillåter inte att FluentCast körs i bakgrunden</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Warning: Background task not allowed</note>
+  </trans-unit>
+  <trans-unit id="DownloadUpdateButton.Content" translate="yes" xml:space="preserve">
+    <source>Download</source>
+    <target state="translated">Ladda ned</target>
+  </trans-unit>
+  <trans-unit id="DownloadUpdateButton.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" translate="yes" xml:space="preserve">
+    <source>Download update</source>
+    <target state="translated">Ladda ned uppdatering</target>
+  </trans-unit>
+  <trans-unit id="InfoBarUpdate.Message" translate="yes" xml:space="preserve">
+    <source>The app will restart when the update completes</source>
+    <target state="translated">Appen startas om när uppdateringen är klar</target>
+  </trans-unit>
+  <trans-unit id="InfoBarUpdate.Title" translate="yes" xml:space="preserve">
+    <source>A new version of FluentCast is available for download</source>
+    <target state="translated">En ny version av FluentCast är tillgänglig för nedladdning</target>
+  </trans-unit>
+  <trans-unit id="MultiWindowSettingItemDescription.Text" translate="yes" xml:space="preserve">
+    <source>Adds the option "Open in new window" to the context menu</source>
+    <target state="translated">Lägger till alternativet "Öppna i nytt fönster" i snabbmenyn</target>
+  </trans-unit>
+  <trans-unit id="MultiWindowSettingItemTitle.Text" translate="yes" xml:space="preserve">
+    <source>Multi-window</source>
+    <target state="translated">Flerfönsterläge</target>
+  </trans-unit>
+  <trans-unit id="CheckForUpdatesDailySettingItemTitle.Text" translate="yes" xml:space="preserve">
+    <source>Check for updates daily</source>
+    <target state="translated">Sök efter uppdateringar dagligen</target>
+  </trans-unit>
+  <trans-unit id="DonateWithPaypalButton.Content" translate="yes" xml:space="preserve">
+    <source>Donate with Paypal</source>
+    <target state="translated">Donera med Paypal</target>
+  </trans-unit>
+  <trans-unit id="ShareOnFacebookButton.Text" translate="yes" xml:space="preserve">
+    <source>Share on Facebook</source>
+    <target state="translated">Dela på Facebook</target>
+  </trans-unit>
+  <trans-unit id="ShareOnSocialNetworksSettingItemTitle.Text" translate="yes" xml:space="preserve">
+    <source>Share on social networks</source>
+    <target state="translated">Dela på sociala nätverk</target>
+  </trans-unit>
+  <trans-unit id="ShareOnXTwitterButton.Text" translate="yes" xml:space="preserve">
+    <source>Share on X (formerly Twitter)</source>
+    <target state="translated">Dela på X (tidigare Twitter)</target>
+  </trans-unit>
+  <trans-unit id="LatestUpdateCheckLabel.Text" translate="yes" xml:space="preserve">
+    <source>Last checked:</source>
+    <target state="translated">Senast kontrollerad:</target>
+  </trans-unit>
+  <trans-unit id="DonateWithMSStoreSectionTitle.Text" translate="yes" xml:space="preserve">
+    <source>Donate via the Microsoft Store</source>
+    <target state="translated">Donera via Microsoft Store</target>
+  </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="sv-SE" original="FLUENTCAST/STRINGS/EN-US/VIEWITEM.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
+    </header>
+    <body>
+      <group id="FLUENTCAST/STRINGS/EN-US/VIEWITEM.RESW" datatype="resx">
+        <trans-unit id="Add.Text" translate="yes" xml:space="preserve">
+    <source>Add</source>
+    <target state="translated">Lägg till</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that adds an episode to something, e.g a playlist (context menu of episode)</note>
+  </trans-unit>
+  <trans-unit id="AddingEpisodesToTheDownloadQueue" translate="yes" xml:space="preserve">
+    <source>Adding to the download queue</source>
+    <target state="translated">Lägger till i hämtningskön</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when multiple episodes are being added to the download queue</note>
+  </trans-unit>
+  <trans-unit id="AllEpisodes.Text" translate="yes" xml:space="preserve">
+    <source>All episodes</source>
+    <target state="translated">Alla avsnitt</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Text of command to do something (usually download, play or mark as played/unplayed) with all episodes from an episode list</note>
+  </trans-unit>
+  <trans-unit id="AllPodcastSynced" translate="yes" xml:space="preserve">
+    <source>All podcasts have been synced</source>
+    <target state="translated">Alla poddar har synkroniserats</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when all podcast sync is successfully completed</note>
+  </trans-unit>
+  <trans-unit id="AvailableOfflineIcon.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+    <source>Available off-line</source>
+    <target state="translated">Tillgänglig offline</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Tooltip text of icon that indicate when a episode is available off-line</note>
+  </trans-unit>
+  <trans-unit id="CancelAllDownloads.Text" translate="yes" xml:space="preserve">
+    <source>Cancel all downloads</source>
+    <target state="translated">Avbryt alla hämtningar</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that cancels all current downloads</note>
+  </trans-unit>
+  <trans-unit id="CancelDownload.Text" translate="yes" xml:space="preserve">
+    <source>Cancel download</source>
+    <target state="translated">Avbryt hämtning</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that cancels the episode download (context menu of episode)</note>
+  </trans-unit>
+  <trans-unit id="CopyFeed.Text" translate="yes" xml:space="preserve">
+    <source>Copy feed link to clipboard</source>
+    <target state="translated">Kopiera feed-länk till urklipp</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that copies the podcast feed link to the clipboard (context menu of podcast)</note>
+  </trans-unit>
+  <trans-unit id="DeleteAllFilesContent" translate="yes" xml:space="preserve">
+    <source>This process cannot be undone</source>
+    <target state="translated">Denna åtgärd kan inte ångras</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Confirmation of deletion of all downloaded episodes (Message content)</note>
+  </trans-unit>
+  <trans-unit id="DeleteAllFilesTitle" translate="yes" xml:space="preserve">
+    <source>Delete all files?</source>
+    <target state="translated">Ta bort alla filer?</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Confirmation of deletion of all downloaded episodes (Message title)</note>
+  </trans-unit>
+  <trans-unit id="DeleteEpisodeContent" translate="yes" xml:space="preserve">
+    <source>Episode: {0}</source>
+    <target state="translated">Avsnitt: {0}</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Confirmation of an episode deletion. {0} is the name of episode (Message content)</note>
+  </trans-unit>
+  <trans-unit id="DeleteEpisodesFromAPodcastContent" translate="yes" xml:space="preserve">
+    <source>This will delete all {0} file(s)</source>
+    <target state="translated">Detta kommer att ta bort alla {0} fil(er)</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Confirmation of deletion of all downloaded episodes from a podcast. {0} is the number of files (Message content)</note>
+  </trans-unit>
+  <trans-unit id="DeleteEpisodesFromAPodcastTitle" translate="yes" xml:space="preserve">
+    <source>Delete episodes of "{0}"?</source>
+    <target state="translated">Ta bort avsnitt av "{0}"?</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Confirmation of deletion of all downloaded episodes from a podcast. {0} is the name of the podcast (Message title)</note>
+  </trans-unit>
+  <trans-unit id="DeleteEpisodeTitle" translate="yes" xml:space="preserve">
+    <source>Delete episode?</source>
+    <target state="translated">Ta bort avsnitt?</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Confirmation of an episode deletion (Message title)</note>
+  </trans-unit>
+  <trans-unit id="DeleteFile.Text" translate="yes" xml:space="preserve">
+    <source>Delete file</source>
+    <target state="translated">Ta bort fil</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that deletes the file downloaded from a episode (context menu of episode)</note>
+  </trans-unit>
+  <trans-unit id="DeleteFiles.Text" translate="yes" xml:space="preserve">
+    <source>Delete files</source>
+    <target state="translated">Ta bort filer</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that deletes files downloaded from a podcast (context menu of podcast)</note>
+  </trans-unit>
+  <trans-unit id="DeleteFromHistory.Text" translate="yes" xml:space="preserve">
+    <source>Delete from history</source>
+    <target state="translated">Ta bort från historik</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that deletes an item from playback history (context menu of episode)</note>
+  </trans-unit>
+  <trans-unit id="DeletingFiles" translate="yes" xml:space="preserve">
+    <source>Deleting files</source>
+    <target state="translated">Tar bort filer</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when files are being deleted</note>
+  </trans-unit>
+  <trans-unit id="DoneMessage" translate="yes" xml:space="preserve">
+    <source>Done</source>
+    <target state="translated">Klart</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when some command is finished</note>
+  </trans-unit>
+  <trans-unit id="Download.Text" translate="yes" xml:space="preserve">
+    <source>Download</source>
+    <target state="translated">Hämta</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that starts the download of an episode (context menu of episode)</note>
+  </trans-unit>
+  <trans-unit id="DownloadAll.Text" translate="yes" xml:space="preserve">
+    <source>Download all</source>
+    <target state="translated">Hämta alla</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that downloads all episodes as from a list of episodes</note>
+  </trans-unit>
+  <trans-unit id="DownloadedEpisodes.Text" translate="yes" xml:space="preserve">
+    <source>Downloaded episodes</source>
+    <target state="translated">Hämtade avsnitt</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Text of command to do something (usually play, delete or mark as played/unplayed) with all downloaded episodes from an episode list</note>
+  </trans-unit>
+  <trans-unit id="EnterTheFeedUrlTitle" translate="yes" xml:space="preserve">
+    <source>Enter the RSS feed URL</source>
+    <target state="translated">Ange RSS-feedens URL</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the user wants to add a podcast by url feed (Message title)</note>
+  </trans-unit>
+  <trans-unit id="EpisodeAddedToDownloadQueue" translate="yes" xml:space="preserve">
+    <source>Episode added to download queue</source>
+    <target state="translated">Avsnitt tillagt i hämtningskö</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the episode is added to download queue</note>
+  </trans-unit>
+  <trans-unit id="EpisodeAddedToPlaylist" translate="yes" xml:space="preserve">
+    <source>Episode added to playlist</source>
+    <target state="translated">Avsnitt tillagt i spellista</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when an episode is added on the playlist</note>
+  </trans-unit>
+  <trans-unit id="EpisodeInfoDialogDuration.Header" translate="yes" xml:space="preserve">
+    <source>Duration</source>
+    <target state="translated">Längd</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicates the duration of the episode</note>
+  </trans-unit>
+  <trans-unit id="EpisodeInfoDialogEditor.Header" translate="yes" xml:space="preserve">
+    <source>Editor</source>
+    <target state="translated">Redaktör</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicates the editor of the episode</note>
+  </trans-unit>
+  <trans-unit id="EpisodeInfoDialogFileName.Header" translate="yes" xml:space="preserve">
+    <source>File name</source>
+    <target state="translated">Filnamn</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicates the file name of the episode</note>
+  </trans-unit>
+  <trans-unit id="EpisodeInfoDialogFileSize.Header" translate="yes" xml:space="preserve">
+    <source>File size</source>
+    <target state="translated">Filstorlek</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicates the file size on disk of the episode</note>
+  </trans-unit>
+  <trans-unit id="EpisodeInfoDialogFileUrlLink.Header" translate="yes" xml:space="preserve">
+    <source>File Link</source>
+    <target state="translated">Fillänk</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicates the file url of the episode</note>
+  </trans-unit>
+  <trans-unit id="EpisodeInfoDialogPath.Header" translate="yes" xml:space="preserve">
+    <source>Path</source>
+    <target state="translated">Sökväg</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicates the file path of the episode</note>
+  </trans-unit>
+  <trans-unit id="EpisodeInfoDialogReleaseDate.Header" translate="yes" xml:space="preserve">
+    <source>Release date</source>
+    <target state="translated">Publiceringsdatum</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicates the release date of the episode</note>
+  </trans-unit>
+  <trans-unit id="EpisodeInfoDialogSummary.Header" translate="yes" xml:space="preserve">
+    <source>Summary</source>
+    <target state="translated">Sammanfattning</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicates the summary of the episode</note>
+  </trans-unit>
+  <trans-unit id="EpisodeIsAlreadyInDownloadQueue" translate="yes" xml:space="preserve">
+    <source>The episode is already in the download queue</source>
+    <target state="translated">Avsnittet finns redan i hämtningskön</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the episode is already in the download queue</note>
+  </trans-unit>
+  <trans-unit id="EpisodeIsAlreadyInThePlaylist" translate="yes" xml:space="preserve">
+    <source>Episode is already in the playlist</source>
+    <target state="translated">Avsnittet finns redan i spellistan</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the user tries to add a episode that is already in the playlist</note>
+  </trans-unit>
+  <trans-unit id="FileAlreadyExits" translate="yes" xml:space="preserve">
+    <source>There is already a file with the same name in this location</source>
+    <target state="translated">Det finns redan en fil med samma namn på denna plats</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the user tries to rename a file with the same name used by another file in the same folder</note>
+  </trans-unit>
+  <trans-unit id="ImportAllPodcastsSuccessMessage" translate="yes" xml:space="preserve">
+    <source>All podcasts have been imported</source>
+    <target state="translated">Alla poddar har importerats</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the podcast import is successfully completed</note>
+  </trans-unit>
+  <trans-unit id="ImportPodcastsWithErrorsMessage" translate="yes" xml:space="preserve">
+    <source>{0} podcast(s) successfully imported, {1} podcast(s) could not be imported</source>
+    <target state="translated">{0} podd(ar) importerades, {1} podd(ar) kunde inte importeras</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when some podcasts are imported and others are not.</note>
+  </trans-unit>
+  <trans-unit id="LinkOpenedInBrowserMessage" translate="yes" xml:space="preserve">
+    <source>The link has been opened in the web browser</source>
+    <target state="translated">Länken har öppnats i webbläsaren</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the user clicks on a link that will open in the web browser</note>
+  </trans-unit>
+  <trans-unit id="MarkAllAsPlayed.Text" translate="yes" xml:space="preserve">
+    <source>Mark all as played</source>
+    <target state="translated">Markera alla som spelade</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that marks all episodes from a pódcast as played</note>
+  </trans-unit>
+  <trans-unit id="MarkAllAsUnplayed.Text" translate="yes" xml:space="preserve">
+    <source>Mark all as unplayed</source>
+    <target state="translated">Markera alla som ospelade</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that marks all episodes from a pódcast as unplayed </note>
+  </trans-unit>
+  <trans-unit id="MarkAsPlayed.Text" translate="yes" xml:space="preserve">
+    <source>Mark as played</source>
+    <target state="translated">Markera som spelad</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that marks an episode as played (context menu of episode)</note>
+  </trans-unit>
+  <trans-unit id="MarkAsUnplayed.Text" translate="yes" xml:space="preserve">
+    <source>Mark as unplayed</source>
+    <target state="translated">Markera som ospelad</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that marks an episode as unplayed (context menu of episode)</note>
+  </trans-unit>
+  <trans-unit id="MarkedAsPlayed" translate="yes" xml:space="preserve">
+    <source>Marked as played</source>
+    <target state="translated">Markerad som spelad</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed whe the user mark an episode as played</note>
+  </trans-unit>
+  <trans-unit id="MarkedAsUnplayed" translate="yes" xml:space="preserve">
+    <source>Marked as unplayed</source>
+    <target state="translated">Markerad som ospelad</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed whe the user mark an episode as unplayed</note>
+  </trans-unit>
+  <trans-unit id="NoEpisodeToPlay" translate="yes" xml:space="preserve">
+    <source>No episode to play</source>
+    <target state="translated">Inget avsnitt att spela upp</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the user selects to play a list of episodes and this list is empty</note>
+  </trans-unit>
+  <trans-unit id="NowPlayingPlaylist.Text" translate="yes" xml:space="preserve">
+    <source>Now Playing</source>
+    <target state="translated">Spellista</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Playlist that contains all episodes playing</note>
+  </trans-unit>
+  <trans-unit id="Open.Text" translate="yes" xml:space="preserve">
+    <source>Open</source>
+    <target state="translated">Öppna</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that opens the podcast details page (context menu of podcast)</note>
+  </trans-unit>
+  <trans-unit id="OpenFile.Text" translate="yes" xml:space="preserve">
+    <source>Open in File Explorer</source>
+    <target state="translated">Öppna i Utforskaren</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that opens the file in file explorer (context menu of episode)</note>
+  </trans-unit>
+  <trans-unit id="OpenFolder.Text" translate="yes" xml:space="preserve">
+    <source>Open folder in File Explorer</source>
+    <target state="translated">Öppna mapp i Utforskaren</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that opens the podcast folder containing the episode files (context menu of podcast)</note>
+  </trans-unit>
+  <trans-unit id="OpenImageInNewWindow.Text" translate="yes" xml:space="preserve">
+    <source>Open image</source>
+    <target state="translated">Öppna bild</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that opens the artwork in a new window (context menu of artworks)</note>
+  </trans-unit>
+  <trans-unit id="OpenInNewWindow.Text" translate="yes" xml:space="preserve">
+    <source>Open in new window</source>
+    <target state="translated">Öppna i nytt fönster</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that opens the podcast details page in a new window (context menu of podcast)</note>
+  </trans-unit>
+  <trans-unit id="OpenItunesLink.Text" translate="yes" xml:space="preserve">
+    <source>Open iTunes page</source>
+    <target state="translated">Öppna iTunes-sida</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that opens the iTunes page of the podcast in the browser (context menu of podcast)</note>
+  </trans-unit>
+  <trans-unit id="OpenLink.Text" translate="yes" xml:space="preserve">
+    <source>Open link</source>
+    <target state="translated">Öppna länk</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that opens a link (web browser or in-app)</note>
+  </trans-unit>
+  <trans-unit id="OpenWebsite.Text" translate="yes" xml:space="preserve">
+    <source>Open website</source>
+    <target state="translated">Öppna webbplats</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that opens the podcast website in the browser (context menu of podcast)</note>
+  </trans-unit>
+  <trans-unit id="Play.Text" translate="yes" xml:space="preserve">
+    <source>Play</source>
+    <target state="translated">Spela upp</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that plays the episode (context menu of podcast)</note>
+  </trans-unit>
+  <trans-unit id="PlayedEpisodes.Text" translate="yes" xml:space="preserve">
+    <source>Played episodes</source>
+    <target state="translated">Spelade avsnitt</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Text of command to do something (usually download, play or mark as unplayed) with all the played episodes from an episode list</note>
+  </trans-unit>
+  <trans-unit id="PlayEpisodeAppBarButton.Label" translate="yes" xml:space="preserve">
+    <source>Play</source>
+    <target state="translated">Spela upp</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Play episode button</note>
+  </trans-unit>
+  <trans-unit id="PlayEpisodeAppBarButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+    <source>Play episode</source>
+    <target state="translated">Spela upp avsnitt</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Play episode button (tooltip)</note>
+  </trans-unit>
+  <trans-unit id="PlayingEpisodes" translate="yes" xml:space="preserve">
+    <source>Playing episode(s)</source>
+    <target state="translated">Spelar upp avsnitt</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the user put episodes do play</note>
+  </trans-unit>
+  <trans-unit id="PodcastInfoDialogEditor.Header" translate="yes" xml:space="preserve">
+    <source>Editor</source>
+    <target state="translated">Redaktör</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicastes the editor of the Podcast</note>
+  </trans-unit>
+  <trans-unit id="PodcastInfoDialogFeedLink.Header" translate="yes" xml:space="preserve">
+    <source>Feed link</source>
+    <target state="translated">Feed-länk</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicastes the podcast feed url</note>
+  </trans-unit>
+  <trans-unit id="PodcastInfoDialogGenre.Header" translate="yes" xml:space="preserve">
+    <source>Genre</source>
+    <target state="translated">Genre</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicastes the genre of the Podcast</note>
+  </trans-unit>
+  <trans-unit id="PodcastInfoDialogiTunesLink.Header" translate="yes" xml:space="preserve">
+    <source>iTunes link</source>
+    <target state="translated">iTunes-länk</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicastes the podcast feed url</note>
+  </trans-unit>
+  <trans-unit id="PodcastInfoDialogLastUpdate.Header" translate="yes" xml:space="preserve">
+    <source>Last update</source>
+    <target state="translated">Senast uppdaterad</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicastes the last time a new Podcast episode was released</note>
+  </trans-unit>
+  <trans-unit id="PodcastInfoDialogName.Header" translate="yes" xml:space="preserve">
+    <source>Name</source>
+    <target state="translated">Namn</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicates the name of the Podcast</note>
+  </trans-unit>
+  <trans-unit id="PodcastInfoDialogSummary.Header" translate="yes" xml:space="preserve">
+    <source>Summary</source>
+    <target state="translated">Sammanfattning</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicastes the summary of the Podcast</note>
+  </trans-unit>
+  <trans-unit id="PodcastInfoDialogWebsite.Header" translate="yes" xml:space="preserve">
+    <source>Website</source>
+    <target state="translated">Webbplats</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Header of the text that indicastes the podcast website</note>
+  </trans-unit>
+  <trans-unit id="PodcastSubscribedMessage" translate="yes" xml:space="preserve">
+    <source>The podcast has been subscribed</source>
+    <target state="translated">Du följer podden</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when user subscribe a podcast</note>
+  </trans-unit>
+  <trans-unit id="PodcastSyncedMessage" translate="yes" xml:space="preserve">
+    <source>The podcast has been synced</source>
+    <target state="translated">Podden har synkroniserats</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the podcast sync is successfully completed</note>
+  </trans-unit>
+  <trans-unit id="PodcastUnsubscribedMessage" translate="yes" xml:space="preserve">
+    <source>The podcast has been unsubscribed</source>
+    <target state="translated">Du följer inte längre podden</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when user cancels his subscription in a podcast</note>
+  </trans-unit>
+  <trans-unit id="RefreshedMessage" translate="yes" xml:space="preserve">
+    <source>Refreshed</source>
+    <target state="translated">Uppdaterad</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when something has been refreshed</note>
+  </trans-unit>
+  <trans-unit id="RefreshingDownloads" translate="yes" xml:space="preserve">
+    <source>Refreshing downloads</source>
+    <target state="translated">Uppdaterar hämtade poddar</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Notification text displayed while the download list is refreshing</note>
+  </trans-unit>
+  <trans-unit id="RemoveFromPlaylist.Text" translate="yes" xml:space="preserve">
+    <source>Remove from playlist</source>
+    <target state="translated">Ta bort från spellista</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that removes an episode from playlist</note>
+  </trans-unit>
+  <trans-unit id="RenameFile.Text" translate="yes" xml:space="preserve">
+    <source>Rename file</source>
+    <target state="translated">Byt filnamn</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that renames episode file on disk (context menu of podcast)</note>
+  </trans-unit>
+  <trans-unit id="RenameTextBoxPlaceholder.PlaceholderText" translate="yes" xml:space="preserve">
+    <source>Enter the new file name</source>
+    <target state="translated">Ange nytt filnamn</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Placeholder of rename file TextBox</note>
+  </trans-unit>
+  <trans-unit id="SaveAs.Text" translate="yes" xml:space="preserve">
+    <source>Save As</source>
+    <target state="translated">Spara som</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that saves something (like podcast artwork) with file explorer</note>
+  </trans-unit>
+  <trans-unit id="SaveAsButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+    <source>Save As</source>
+    <target state="translated">Spara som</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that saves something (like podcast artwork) with file explorer (tooltip)</note>
+  </trans-unit>
+  <trans-unit id="SeeDetails.Text" translate="yes" xml:space="preserve">
+    <source>See details</source>
+    <target state="translated">Visa detaljer</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that opens details of a podcast or episode in a popup (context menu of podcast/episode)</note>
+  </trans-unit>
+  <trans-unit id="SentToClipboardMessage" translate="yes" xml:space="preserve">
+    <source>Sent to clipboard</source>
+    <target state="translated">Skickat till urklipp</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when a link is copied to clipboard</note>
+  </trans-unit>
+  <trans-unit id="Share.Text" translate="yes" xml:space="preserve">
+    <source>Share</source>
+    <target state="translated">Dela</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that share a podcast via the Windows sharing command (context menu of podcast)</note>
+  </trans-unit>
+  <trans-unit id="SomePodcastSynced" translate="yes" xml:space="preserve">
+    <source>{0} synced podcast(s). Couldn't sync {1} podcast(s)</source>
+    <target state="translated">{0} podd(ar) synkroniserade. Kunde inte synkronisera {1} podd(ar)</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when some podcasts are synced and others are not. {0} is the number of synced podcasts, and {1} is the number of not synced podcasts</note>
+  </trans-unit>
+  <trans-unit id="Subscribe.Text" translate="yes" xml:space="preserve">
+    <source>Subscribe</source>
+    <target state="translated">Följ</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that subscribes a podcast (context menu of podcast)</note>
+  </trans-unit>
+  <trans-unit id="SubscribingTo" translate="yes" xml:space="preserve">
+    <source>Subscribing to "{0}"</source>
+    <target state="translated">Följer "{0}"</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed while a podcast is subscribed. "{0}" is the podcast name</note>
+  </trans-unit>
+  <trans-unit id="SyncingPodcast" translate="yes" xml:space="preserve">
+    <source>Syncing "{0}"</source>
+    <target state="translated">Synkroniserar "{0}"</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed while a podcast is synched. "{0}" is the podcast name</note>
+  </trans-unit>
+  <trans-unit id="TheFileHasBeenRenamed" translate="yes" xml:space="preserve">
+    <source>The file has been renamed</source>
+    <target state="translated">Filen har bytt namn</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the file of episode has been renamed successfully</note>
+  </trans-unit>
+  <trans-unit id="ThisFileNotExits" translate="yes" xml:space="preserve">
+    <source>This file not exits</source>
+    <target state="translated">Filen finns inte</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the user tries to rename a file that does not exists</note>
+  </trans-unit>
+  <trans-unit id="ThisNameIsNotValid" translate="yes" xml:space="preserve">
+    <source>This name is not valid</source>
+    <target state="translated">Namnet är ogiltigt</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when the user tries to rename a file with invalid characters or with a forbidden name (For example, "con.text")</note>
+  </trans-unit>
+  <trans-unit id="UnplayedEpisodes.Text" translate="yes" xml:space="preserve">
+    <source>Unplayed episodes</source>
+    <target state="translated">Ospelade avsnitt</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Text of command to do something (usually download, play or mark as played) with all the unplayed episodes from an episode list</note>
+  </trans-unit>
+  <trans-unit id="Unsubscribe.Text" translate="yes" xml:space="preserve">
+    <source>Unsubscribe</source>
+    <target state="translated">Avfölj</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that unsubscribes a podcast (context menu of podcast)</note>
+  </trans-unit>
+  <trans-unit id="UnsubscribeAllPodcastsTitle" translate="yes" xml:space="preserve">
+    <source>Unsubscribe all podcasts?</source>
+    <target state="translated">Vill du sluta följa alla poddar?</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when user clicks the button to remove all podcasts (Message title)</note>
+  </trans-unit>
+  <trans-unit id="UpdateEpisodes.Text" translate="yes" xml:space="preserve">
+    <source>Update episodes</source>
+    <target state="translated">Uppdatera avsnitt</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Command that updates the episodes of a podcast (context menu of podcast)</note>
+  </trans-unit>
+  <trans-unit id="YesRemoveAllSubscriptions" translate="yes" xml:space="preserve">
+    <source>Yes, remove all</source>
+    <target state="translated">Ja, ta bort alla</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Text of button that confirms the action to remove all subscriptions</note>
+  </trans-unit>
+  <trans-unit id="YourCollectionIsEmptyMessage" translate="yes" xml:space="preserve">
+    <source>Your collection is empty</source>
+    <target state="translated">Din samling är tom</target>
+  </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="sv-SE" original="FLUENTCAST/STRINGS/EN-US/SEARCHPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
+    </header>
+    <body>
+      <group id="FLUENTCAST/STRINGS/EN-US/SEARCHPAGE.RESW" datatype="resx">
+        <trans-unit id="EmptyListMessageTitle.Text" translate="yes" xml:space="preserve">
+    <source>No results found</source>
+    <target state="translated">Inga resultat hittades</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message displayed when search does not return results</note>
+  </trans-unit>
+  <trans-unit id="LocalEpisodes.Header" translate="yes" xml:space="preserve">
+    <source>Episodes</source>
+    <target state="translated">Avsnitt</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Header title of the section that displays the results of the search for episodes in the database</note>
+  </trans-unit>
+  <trans-unit id="LocalPodcasts.Header" translate="yes" xml:space="preserve">
+    <source>Library</source>
+    <target state="translated">Bibliotek</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Header title of the section that displays the results of the search for podcasts in the database</note>
+  </trans-unit>
+  <trans-unit id="PageTitle.Text" translate="yes" xml:space="preserve">
+    <source>Search</source>
+    <target state="translated">Sök</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Page title. It is fixed at the top of the page search</note>
+  </trans-unit>
+  <trans-unit id="SearchSuggestionEpisodeReleaseText.Text" translate="yes" xml:space="preserve">
+    <source>Release</source>
+    <target state="translated">Publiceringsdatum</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Regarding the release date of an episode</note>
+  </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en-US" target-language="sv-SE" original="FLUENTCAST/STRINGS/EN-US/EPISODELISTPAGE.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6916.0" tool-company="Microsoft"/>
+    </header>
+    <body>
+      <group id="FLUENTCAST/STRINGS/EN-US/EPISODELISTPAGE.RESW" datatype="resx">
+        <trans-unit id="EmptyListMessage.Text" translate="yes" xml:space="preserve">
+    <source>Empty list</source>
+    <target state="translated">Tom lista</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Message text indicating that the episode list is empty</note>
+  </trans-unit>
+  <trans-unit id="MoreCommandsButton.Label" translate="yes" xml:space="preserve">
+    <source>More commands</source>
+    <target state="translated">Fler alternativ</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Text of the button that opens the list of more commands</note>
+  </trans-unit>
+  <trans-unit id="MoreCommandsButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+    <source>More commands</source>
+    <target state="translated">Fler alternativ</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Tooltip Text of the button that opens the list of more commands</note>
+  </trans-unit>
+  <trans-unit id="ShowOnlyUnplayed.Label" translate="yes" xml:space="preserve">
+    <source>Only unplayed</source>
+    <target state="translated">Endast ospelade</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Text of the button that shows only the unplayed episodes .</note>
+  </trans-unit>
+  <trans-unit id="ShowOnlyUnplayed.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+    <source>Show only unplayed episodes</source>
+    <target state="translated">Visa endast ospelade avsnitt</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Tooltip text of the button that shows only the unplayed episodes .</note>
+  </trans-unit>
+  <trans-unit id="ShowOnlyUnplayedTip.Subtitle" translate="yes" xml:space="preserve">
+    <source>Click here to view only unplayed episodes</source>
+    <target state="translated">Klicka här för att endast visa ospelade avsnitt</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">When the user opens a subscribed podcast for the first time, a popup appears to let them know that they can filter out episodes that have not been played. This is the subtitle of the popup.</note>
+  </trans-unit>
+  <trans-unit id="ShowOnlyUnplayedTip.Title" translate="yes" xml:space="preserve">
+    <source>Filter the episodes</source>
+    <target state="translated">Filtrera avsnitten</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">When the user opens a subscribed podcast for the first time, a popup appears to let them know that they can filter out episodes that have not been played. This is the title of the popup.</note>
+  </trans-unit>
+  <trans-unit id="SortByEpisodesButton.Text" translate="yes" xml:space="preserve">
+    <source>Sort episodes</source>
+    <target state="translated">Sortera avsnitt</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Text of the button that sorts the episode list</note>
+  </trans-unit>
+  <trans-unit id="SortByEpisodesButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+    <source>Sort episodes</source>
+    <target state="translated">Sortera avsnitt</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Tooltip Text of the button that sorts the episode list</note>
+  </trans-unit>
+  <trans-unit id="SortByNewest.Text" translate="yes" xml:space="preserve">
+    <source>Newest</source>
+    <target state="translated">Nyast</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Indicates the order in which the episodes will be sorted. The newest ones first.</note>
+  </trans-unit>
+  <trans-unit id="SortByOldest.Text" translate="yes" xml:space="preserve">
+    <source>Oldest</source>
+    <target state="translated">Äldst</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Indicates the order in which the episodes will be sorted. The oldest ones first.</note>
+  </trans-unit>
+  <trans-unit id="SortByTitle.Text" translate="yes" xml:space="preserve">
+    <source>Title</source>
+    <target state="translated">Titel</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Indicates the order in which the episodes will be sorted. Sorted by the Title.</note>
+  </trans-unit>
+  <trans-unit id="SortByTitleDescending.Text" translate="yes" xml:space="preserve">
+    <source>Title (descending)</source>
+    <target state="translated">Titel (fallande)</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Indicates the order in which the episodes will be sorted. Sorted by the Title (descending)</note>
+  </trans-unit>
+  <trans-unit id="SubscribeButtonText.CheckedText" translate="yes" xml:space="preserve">
+    <source>Unsubscribe</source>
+    <target state="translated">Avfölj</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Button text to unsubscribe to a podcast (podcast page)</note>
+  </trans-unit>
+  <trans-unit id="SubscribeButtonText.UncheckedText" translate="yes" xml:space="preserve">
+    <source>Subscribe</source>
+    <target state="translated">Följ</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Button text to subscribe to a podcast (podcast page)</note>
+  </trans-unit>
+  <trans-unit id="UpdateButton.Label" translate="yes" xml:space="preserve">
+    <source>Update episodes</source>
+    <target state="translated">Uppdatera avsnitt</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Text of the button that updates the list of episodes of a podcast</note>
+  </trans-unit>
+  <trans-unit id="UpdateButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" translate="yes" xml:space="preserve">
+    <source>Update episodes (F5)</source>
+    <target state="translated">Uppdatera avsnitt (F5)</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Tooltip Text of the button that updates the list of episodes of a podcast</note>
+  </trans-unit>
+  <trans-unit id="SubscribeButton.Text" translate="yes" xml:space="preserve">
+    <source>Subscribe</source>
+    <target state="translated">Följ</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Button text to subscribe to a podcast (podcast page)</note>
+  </trans-unit>
+  <trans-unit id="SubscribedButton.Text" translate="yes" xml:space="preserve">
+    <source>Subscribed</source>
+    <target state="translated">Följer</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Button text that indicates that the podcast is subscribed.</note>
+  </trans-unit>
+  <trans-unit id="UnsubscribeButton.Text" translate="yes" xml:space="preserve">
+    <source>Unsubscribe</source>
+    <target state="translated">Avfölj</target>
+    <note from="MultilingualBuild" annotates="source" priority="2">Button text to unsubscribe to a podcast (podcast page)</note>
+  </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
